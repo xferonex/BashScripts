@@ -1,0 +1,2417 @@
+Nov 12 08:28:02 server2 kernel[2015]: [mail.info] New USB device connected
+Nov 12 10:59:41 firewall1 kernel[1812]: [syslog.crit] New device connected to network
+Nov 12 09:37:26 server2 nginx[2528]: [mail.alert] New device connected to network
+Nov 12 02:03:49 server2 sshd[7785]: [auth.crit] New admin account created
+Nov 12 10:44:03 server1 nginx[8738]: [mail.err] Service restarted successfully
+Nov 12 06:01:27 server1 systemd[5017]: [syslog.emerg] Unauthorized access attempt detected
+Nov 12 09:36:25 switch1 smtp[3741]: [mail.info] Backup completed successfully
+Nov 12 10:23:13 server1 nginx[8298]: [cron.info] Accepted password for user from 192.168.1.1 port 22 ssh2
+Nov 12 02:55:24 router1 nginx[8666]: [cron.notice] High CPU usage detected
+Nov 12 11:19:11 router1 cron[4000]: [mail.emerg] Starting system reboot
+Nov 12 09:37:47 firewall1 nginx[8667]: [user.err] IP address conflict detected
+Nov 12 01:03:08 server1 smtp[4535]: [auth.debug] Firewall rule updated
+Nov 12 03:08:11 router1 smtp[9801]: [cron.crit] Network interface restarted
+Nov 12 00:43:45 server1 kernel[9283]: [user.emerg] New USB device connected
+Nov 12 03:27:51 router1 systemd[5225]: [user.emerg] Multiple failed login attempts detected
+Nov 12 06:19:38 firewall1 smtp[2093]: [daemon.notice] Update applied successfully
+Nov 12 09:38:50 router1 sshd[8682]: [mail.debug] Unexpected shutdown of system
+Nov 12 02:10:37 router1 systemd[5737]: [auth.err] User logged out
+Nov 12 04:24:21 server1 cron[6953]: [mail.emerg] New device connected to network
+Nov 12 02:13:24 switch1 nginx[9496]: [daemon.notice] Session expired for user
+Nov 12 00:10:11 firewall1 smtp[9107]: [syslog.info] Backup completed successfully
+Nov 12 04:09:16 router1 nginx[5726]: [mail.emerg] RAID array degraded
+Nov 12 10:32:53 server1 smtp[7480]: [syslog.warning] Unrecognized device detected on network
+Nov 12 11:38:38 switch1 nginx[6415]: [syslog.alert] Shutting down system
+Nov 12 04:33:15 server2 dhcpd[5666]: [daemon.err] Backup completed successfully
+Nov 12 04:16:39 server1 dhcpd[2112]: [syslog.emerg] Unexpected shutdown of system
+Nov 12 03:19:55 server2 cron[9705]: [syslog.warning] Update applied successfully
+Nov 12 00:41:41 server1 kernel[7521]: [cron.err] User logged out
+Nov 12 07:09:23 server2 sshd[2942]: [kern.emerg] Low memory warning
+Nov 12 03:04:55 router1 sshd[3802]: [user.warning] Firewall rule applied successfully
+Nov 12 00:06:06 firewall1 nginx[3142]: [syslog.crit] Database connection failed
+Nov 12 00:28:26 switch1 sshd[1184]: [auth.crit] Starting system reboot
+Nov 12 03:38:48 server2 nginx[4903]: [kern.err] Low memory warning
+Nov 12 08:14:47 server2 systemd[6493]: [cron.alert] Backup completed successfully
+Nov 12 09:40:38 server2 nginx[8101]: [user.alert] Low memory warning
+Nov 12 06:44:16 server2 dhcpd[9036]: [auth.alert] Service restarted successfully
+Nov 12 03:21:33 firewall1 sshd[6153]: [mail.alert] Starting system reboot
+Nov 12 11:42:39 server2 smtp[7383]: [cron.crit] Unusual login pattern detected
+Nov 12 08:02:18 server2 smtp[8834]: [mail.debug] Attempted login with expired password
+Nov 12 04:39:20 router1 nginx[6015]: [cron.debug] Firewall rule applied successfully
+Nov 12 08:49:16 server2 cron[1010]: [daemon.crit] Service restarted successfully
+Nov 12 01:20:30 server1 nginx[6744]: [auth.emerg] RAID array degraded
+Nov 12 11:32:28 firewall1 sshd[3948]: [user.debug] New USB device connected
+Nov 12 06:01:37 server2 nginx[3284]: [auth.alert] User added to group
+Nov 12 03:17:02 server1 sshd[4459]: [kern.emerg] VPN connection disconnected
+Nov 12 01:19:11 firewall1 dhcpd[8507]: [user.crit] Session expired for user
+Nov 12 06:41:39 firewall1 cron[7963]: [mail.info] New device connected to network
+Nov 12 02:59:03 firewall1 dhcpd[2198]: [cron.warning] Reboot required to apply updates
+Nov 12 00:56:26 server2 systemd[8663]: [kern.alert] User added to group
+Nov 12 08:54:09 firewall1 dhcpd[8687]: [cron.alert] VPN connection established
+Nov 12 01:09:03 router1 nginx[2498]: [kern.alert] Connection closed by 192.168.1.3 port 80
+Nov 12 02:29:34 router1 systemd[4253]: [mail.crit] Low memory warning
+Nov 12 00:23:30 switch1 cron[7100]: [user.warning] Error reading configuration file
+Nov 12 10:06:54 server1 nginx[5139]: [auth.notice] Unrecognized device detected on network
+Nov 12 11:13:39 server1 cron[9771]: [syslog.info] Firewall rule updated
+Nov 12 01:06:36 router1 systemd[4298]: [cron.debug] Starting system reboot
+Nov 12 11:01:22 server2 nginx[8069]: [user.notice] High CPU usage detected
+Nov 12 03:09:01 server2 systemd[6787]: [user.notice] Firewall rule updated
+Nov 12 07:47:32 firewall1 sshd[7000]: [mail.warning] New USB device connected
+Nov 12 10:26:39 server1 cron[9436]: [mail.debug] Disk quota exceeded
+Nov 12 05:13:59 firewall1 systemd[8673]: [daemon.err] VPN connection established
+Nov 12 01:49:45 router1 dhcpd[3190]: [syslog.info] New software update available
+Nov 12 09:43:46 router1 kernel[7530]: [user.notice] Multiple failed login attempts detected
+Nov 12 00:59:45 router1 sshd[2715]: [auth.crit] User logged in
+Nov 12 08:28:32 router1 dhcpd[1865]: [syslog.notice] Disk quota exceeded
+Nov 12 04:10:58 switch1 kernel[3134]: [kern.debug] IP address conflict detected
+Nov 12 07:14:29 server2 systemd[1169]: [auth.warning] Firewall rule updated
+Nov 12 11:31:10 router1 systemd[1189]: [cron.err] Service restarted successfully
+Nov 12 07:42:28 server1 dhcpd[3375]: [mail.crit] Unusual login pattern detected
+Nov 12 09:25:02 firewall1 cron[9403]: [user.alert] New device connected to network
+Nov 12 09:11:58 server1 kernel[1519]: [mail.err] Attempted login with expired password
+Nov 12 02:22:24 server2 smtp[1007]: [auth.err] Reboot required to apply updates
+Nov 12 09:57:28 router1 nginx[8135]: [cron.warning] System clock synchronized
+Nov 12 09:29:13 server1 smtp[6066]: [mail.alert] Database connection failed
+Nov 12 02:27:13 server1 dhcpd[6477]: [daemon.alert] Firewall rule applied successfully
+Nov 12 04:09:48 firewall1 dhcpd[3818]: [user.err] Firewall rule applied successfully
+Nov 12 10:00:31 server2 dhcpd[6272]: [cron.emerg] Low memory warning
+Nov 12 09:22:43 router1 cron[7673]: [cron.warning] Filesystem check completed
+Nov 12 01:11:25 switch1 dhcpd[5574]: [syslog.notice] Reboot required to apply updates
+Nov 12 04:07:08 firewall1 smtp[2586]: [kern.info] User added to group
+Nov 12 02:03:00 firewall1 dhcpd[9923]: [auth.err] Error reading configuration file
+Nov 12 02:53:09 router1 cron[9059]: [daemon.err] Database connection failed
+Nov 12 03:52:31 switch1 sshd[2917]: [daemon.warning] Accepted password for user from 192.168.1.1 port 22 ssh2
+Nov 12 09:29:02 switch1 smtp[3786]: [kern.debug] Backup completed successfully
+Nov 12 01:19:13 router1 smtp[9168]: [auth.emerg] Update applied successfully
+Nov 12 10:19:42 router1 cron[8476]: [mail.alert] VPN connection established
+Nov 12 11:26:10 switch1 dhcpd[1782]: [daemon.notice] Filesystem check completed
+Nov 12 05:39:13 server1 systemd[5729]: [daemon.debug] RAID array degraded
+Nov 12 00:09:45 server1 dhcpd[5365]: [cron.debug] Accepted password for user from 192.168.1.1 port 22 ssh2
+Nov 12 01:27:32 firewall1 nginx[5186]: [user.err] Network interface restarted
+Nov 12 00:50:05 firewall1 dhcpd[1365]: [user.info] System clock synchronized
+Nov 12 10:54:16 router1 nginx[5726]: [daemon.emerg] Connection closed by 192.168.1.3 port 80
+Nov 12 02:16:06 router1 dhcpd[3920]: [syslog.notice] Attempted login with expired password
+Nov 12 07:35:17 firewall1 kernel[3244]: [user.err] Connection closed by 192.168.1.3 port 80
+Nov 12 01:21:25 server1 dhcpd[4866]: [syslog.emerg] Disk quota exceeded
+Nov 12 04:47:22 router1 nginx[5391]: [user.notice] Unauthorized access attempt detected
+Nov 12 04:26:01 router1 cron[2618]: [auth.crit] Attempted login with expired password
+Nov 12 10:58:32 firewall1 smtp[1698]: [mail.emerg] Disk quota exceeded
+Nov 12 01:55:50 firewall1 kernel[2192]: [kern.alert] RAID array degraded
+Nov 12 10:23:51 switch1 sshd[5159]: [auth.emerg] Service crashed unexpectedly
+Nov 12 07:12:10 router1 nginx[8952]: [kern.info] User logged out
+Nov 12 07:52:21 server2 smtp[9963]: [syslog.crit] Connection closed by 192.168.1.3 port 80
+Nov 12 10:13:43 server2 sshd[8944]: [user.debug] Reboot required to apply updates
+Nov 12 06:02:04 server1 smtp[8297]: [cron.warning] Filesystem check completed
+Nov 12 06:02:28 server2 dhcpd[1524]: [user.warning] New USB device connected
+Nov 12 02:54:01 switch1 systemd[4147]: [auth.err] Service configuration updated
+Nov 12 01:35:00 router1 sshd[6149]: [user.notice] RAID array degraded
+Nov 12 05:37:29 server2 nginx[6018]: [syslog.warning] Database connection failed
+Nov 12 02:45:36 server2 kernel[6556]: [cron.debug] Service crashed unexpectedly
+Nov 12 07:24:11 router1 kernel[9695]: [mail.crit] New software update available
+Nov 12 07:30:53 switch1 smtp[7379]: [daemon.info] Service restarted successfully
+Nov 12 11:42:13 firewall1 cron[6199]: [daemon.emerg] Accepted password for user from 192.168.1.1 port 22 ssh2
+Nov 12 07:15:21 firewall1 cron[9397]: [mail.crit] VPN connection established
+Nov 12 03:32:31 server2 kernel[3317]: [user.emerg] Unrecognized device detected on network
+Nov 12 09:15:56 firewall1 nginx[5728]: [kern.emerg] Update applied successfully
+Nov 12 08:06:49 switch1 nginx[5937]: [mail.info] Accepted password for user from 192.168.1.1 port 22 ssh2
+Nov 12 00:06:40 router1 sshd[4109]: [syslog.err] Database connection failed
+Nov 12 05:58:20 server1 sshd[1897]: [syslog.emerg] Database connection failed
+Nov 12 04:33:23 server2 cron[1183]: [user.notice] Network interface restarted
+Nov 12 02:15:05 switch1 systemd[8343]: [cron.err] VPN connection disconnected
+Nov 12 02:27:47 switch1 dhcpd[7748]: [kern.crit] Unusual login pattern detected
+Nov 12 08:47:57 switch1 sshd[9321]: [daemon.emerg] Unauthorized access attempt detected
+Nov 12 11:09:23 switch1 nginx[1759]: [kern.emerg] Attempted login with expired password
+Nov 12 03:35:23 switch1 dhcpd[4023]: [kern.crit] Update applied successfully
+Nov 12 01:27:54 switch1 systemd[1056]: [kern.info] Database connection failed
+Nov 12 00:57:43 firewall1 cron[9334]: [user.crit] Disk quota exceeded
+Nov 12 00:46:45 switch1 sshd[4734]: [kern.crit] High CPU usage detected
+Nov 12 07:15:47 server2 dhcpd[9810]: [syslog.notice] Filesystem check completed
+Nov 12 01:21:57 server2 kernel[8371]: [user.err] User logged out
+Nov 12 10:37:09 router1 cron[4146]: [cron.warning] New device connected to network
+Nov 12 03:21:00 firewall1 kernel[3755]: [daemon.debug] Backup completed successfully
+Nov 12 09:52:59 server1 dhcpd[6152]: [cron.emerg] Service restarted successfully
+Nov 12 05:08:21 server1 systemd[4510]: [daemon.warning] VPN connection established
+Nov 12 04:28:48 server2 nginx[8097]: [cron.err] Unauthorized access attempt detected
+Nov 12 08:30:13 firewall1 kernel[5286]: [kern.info] Filesystem check completed
+Nov 12 07:44:51 router1 sshd[1078]: [daemon.alert] Session expired for user
+Nov 12 11:35:49 firewall1 systemd[7716]: [user.debug] Low memory warning
+Nov 12 02:26:51 switch1 dhcpd[7408]: [kern.err] Network interface restarted
+Nov 12 09:09:44 firewall1 cron[4645]: [user.emerg] RAID array degraded
+Nov 12 08:48:24 server2 nginx[8661]: [daemon.crit] Multiple failed login attempts detected
+Nov 12 06:11:28 server2 sshd[3531]: [mail.warning] Process killed due to out-of-memory
+Nov 12 06:16:37 router1 cron[3558]: [user.warning] Firewall rule updated
+Nov 12 03:43:40 switch1 sshd[8007]: [mail.err] Unexpected shutdown of system
+Nov 12 07:46:31 firewall1 smtp[5997]: [daemon.notice] Service crashed unexpectedly
+Nov 12 09:18:23 switch1 kernel[3997]: [daemon.info] Starting system reboot
+Nov 12 04:18:46 server1 sshd[5477]: [auth.debug] System clock synchronized
+Nov 12 01:31:19 router1 smtp[3754]: [daemon.debug] Service restarted successfully
+Nov 12 07:25:01 switch1 kernel[4225]: [user.emerg] Service restarted successfully
+Nov 12 04:17:14 server2 cron[2039]: [user.crit] System clock synchronized
+Nov 12 10:41:06 server2 dhcpd[9680]: [auth.err] Service crashed unexpectedly
+Nov 12 08:24:53 server2 kernel[9918]: [syslog.emerg] User added to group
+Nov 12 02:06:50 server2 systemd[8137]: [syslog.info] VPN connection disconnected
+Nov 12 08:37:14 server1 dhcpd[4642]: [cron.crit] Disk quota exceeded
+Nov 12 01:08:23 router1 nginx[9258]: [user.debug] Service restarted successfully
+Nov 12 07:50:14 switch1 systemd[6516]: [syslog.notice] Firewall rule updated
+Nov 12 09:23:37 firewall1 nginx[8212]: [auth.emerg] VPN connection established
+Nov 12 08:54:31 switch1 sshd[2584]: [mail.info] User logged out
+Nov 12 08:54:20 firewall1 kernel[4222]: [syslog.crit] RAID array degraded
+Nov 12 01:34:29 firewall1 sshd[8565]: [auth.crit] User logged out
+Nov 12 06:58:23 switch1 systemd[8364]: [kern.crit] Firewall rule applied successfully
+Nov 12 00:53:36 switch1 systemd[6819]: [user.err] Update applied successfully
+Nov 12 06:41:54 firewall1 smtp[2228]: [cron.debug] Critical system process failed
+Nov 12 01:14:00 switch1 smtp[8405]: [user.notice] Low memory warning
+Nov 12 02:10:17 server2 cron[1618]: [auth.debug] VPN connection disconnected
+Nov 12 01:53:24 firewall1 sshd[2258]: [cron.alert] Process killed due to out-of-memory
+Nov 12 01:53:50 server2 kernel[2918]: [cron.debug] Service crashed unexpectedly
+Nov 12 08:54:32 switch1 nginx[4277]: [mail.emerg] Failed password for invalid user admin from 192.168.1.2 port 22 ssh2
+Nov 12 04:21:16 server2 cron[7795]: [syslog.warning] New device connected to network
+Nov 12 04:27:07 firewall1 cron[5247]: [daemon.debug] Filesystem check completed
+Nov 12 00:34:17 router1 nginx[6373]: [daemon.emerg] VPN connection disconnected
+Nov 12 03:57:18 router1 cron[7932]: [daemon.crit] Network interface restarted
+Nov 12 11:01:16 router1 sshd[7045]: [user.debug] Network interface restarted
+Nov 12 10:54:27 firewall1 cron[6465]: [user.notice] New device connected to network
+Nov 12 07:57:58 server1 kernel[9353]: [daemon.err] Firewall rule applied successfully
+Nov 12 11:25:02 server2 sshd[5866]: [mail.debug] Filesystem check completed
+Nov 12 03:56:51 firewall1 nginx[7726]: [user.crit] Network interface restarted
+Nov 12 08:15:14 server2 nginx[2702]: [user.info] Unrecognized device detected on network
+Nov 12 09:13:20 server2 nginx[2884]: [auth.info] Starting system reboot
+Nov 12 04:58:13 server2 smtp[5117]: [auth.info] Unexpected shutdown of system
+Nov 12 04:14:51 server2 smtp[3345]: [auth.notice] Unexpected shutdown of system
+Nov 12 02:33:58 firewall1 sshd[5835]: [auth.info] Accepted password for user from 192.168.1.1 port 22 ssh2
+Nov 12 06:41:39 router1 dhcpd[7277]: [user.debug] High CPU usage detected
+Nov 12 11:42:48 router1 cron[7524]: [syslog.err] Database connection failed
+Nov 12 04:13:23 server2 sshd[4241]: [auth.err] Update applied successfully
+Nov 12 09:14:24 switch1 dhcpd[3191]: [daemon.warning] Service crashed unexpectedly
+Nov 12 09:02:05 server1 cron[5244]: [cron.notice] New admin account created
+Nov 12 09:37:19 firewall1 sshd[2943]: [daemon.debug] Disk usage exceeded threshold
+Nov 12 11:06:25 server1 sshd[2798]: [daemon.debug] Unauthorized access attempt detected
+Nov 12 09:49:56 switch1 systemd[8289]: [user.notice] Shutting down system
+Nov 12 03:48:00 router1 cron[6658]: [auth.err] Unauthorized access attempt detected
+Nov 12 02:31:08 firewall1 smtp[7413]: [syslog.warning] Low memory warning
+Nov 12 01:33:41 server1 nginx[5132]: [mail.notice] Unusual login pattern detected
+Nov 12 03:48:54 firewall1 kernel[2267]: [daemon.warning] Reboot required to apply updates
+Nov 12 05:24:12 server1 dhcpd[4198]: [syslog.crit] Disk quota exceeded
+Nov 12 05:10:43 server2 sshd[8852]: [user.alert] Disk quota exceeded
+Nov 12 03:36:04 firewall1 cron[9034]: [user.emerg] New device connected to network
+Nov 12 02:32:13 server1 smtp[5033]: [kern.debug] Invalid login attempt
+Nov 12 00:35:19 router1 nginx[3529]: [kern.alert] IP address conflict detected
+Nov 12 11:10:39 server1 smtp[4363]: [syslog.info] Accepted password for user from 192.168.1.1 port 22 ssh2
+Nov 12 04:45:45 switch1 sshd[2980]: [auth.debug] Service restarted successfully
+Nov 12 00:09:54 router1 sshd[1221]: [mail.alert] Session expired for user
+Nov 12 06:45:05 server1 nginx[5389]: [mail.err] Process killed due to out-of-memory
+Nov 12 11:19:44 firewall1 dhcpd[1720]: [mail.err] VPN connection disconnected
+Nov 12 02:49:33 router1 kernel[1747]: [syslog.debug] Disk quota exceeded
+Nov 12 07:17:14 server1 dhcpd[8205]: [auth.crit] Unrecognized device detected on network
+Nov 12 06:20:15 firewall1 dhcpd[6623]: [syslog.warning] New software update available
+Nov 12 08:34:32 server2 cron[7656]: [daemon.crit] Unauthorized access attempt detected
+Nov 12 11:36:42 switch1 sshd[1071]: [auth.debug] VPN connection established
+Nov 12 10:39:41 firewall1 dhcpd[8872]: [syslog.notice] Low memory warning
+Nov 12 10:38:24 server1 dhcpd[5196]: [mail.debug] Shutting down system
+Nov 12 07:20:21 server1 smtp[3299]: [syslog.crit] Error reading configuration file
+Nov 12 04:01:25 server1 kernel[7845]: [cron.debug] Invalid login attempt
+Nov 12 01:43:09 switch1 kernel[1299]: [daemon.err] Low memory warning
+Nov 12 10:43:57 server2 nginx[7213]: [daemon.err] New admin account created
+Nov 12 04:23:08 server2 nginx[2429]: [syslog.crit] Invalid login attempt
+Nov 12 08:28:39 server2 kernel[8704]: [daemon.info] Invalid login attempt
+Nov 12 01:17:38 router1 cron[2685]: [user.info] Shutting down system
+Nov 12 10:13:31 server1 systemd[4502]: [syslog.crit] New admin account created
+Nov 12 05:09:49 server1 smtp[4500]: [cron.info] Disk usage exceeded threshold
+Nov 12 08:34:05 firewall1 dhcpd[4814]: [cron.warning] Service crashed unexpectedly
+Nov 12 01:44:33 server2 dhcpd[4570]: [user.err] Connection closed by 192.168.1.3 port 80
+Nov 12 06:57:17 firewall1 dhcpd[9053]: [mail.crit] New device connected to network
+Nov 12 08:14:13 router1 smtp[8562]: [daemon.info] Filesystem check completed
+Nov 12 00:30:49 router1 sshd[7894]: [daemon.debug] Invalid login attempt
+Nov 12 07:02:36 server1 sshd[1812]: [mail.info] System clock synchronized
+Nov 12 09:01:28 firewall1 kernel[1274]: [kern.warning] Multiple failed login attempts detected
+Nov 12 08:55:09 server2 systemd[7227]: [cron.info] New device connected to network
+Nov 12 11:28:39 firewall1 systemd[2919]: [mail.warning] Service restarted successfully
+Nov 12 08:26:10 firewall1 dhcpd[6686]: [user.info] Disk quota exceeded
+Nov 12 01:02:17 router1 kernel[8115]: [mail.debug] Shutting down system
+Nov 12 09:09:20 switch1 systemd[4129]: [mail.crit] Unrecognized device detected on network
+Nov 12 00:00:30 firewall1 smtp[8702]: [daemon.alert] New admin account created
+Nov 12 07:18:56 server1 systemd[7138]: [mail.warning] Unrecognized device detected on network
+Nov 12 05:12:58 server2 sshd[2699]: [auth.warning] RAID array degraded
+Nov 12 07:04:47 router1 dhcpd[2936]: [user.crit] Database connection failed
+Nov 12 02:36:36 server1 sshd[9422]: [user.emerg] Database connection failed
+Nov 12 01:28:56 server2 nginx[5065]: [auth.err] Starting system reboot
+Nov 12 10:48:00 server2 sshd[9949]: [auth.crit] Unauthorized access attempt detected
+Nov 12 04:58:50 router1 smtp[8678]: [daemon.debug] Filesystem check completed
+Nov 12 03:31:14 server1 sshd[6981]: [daemon.warning] Backup completed successfully
+Nov 12 07:20:48 switch1 sshd[8005]: [user.info] Critical system process failed
+Nov 12 04:18:17 firewall1 kernel[3762]: [cron.notice] Unrecognized device detected on network
+Nov 12 10:36:15 firewall1 smtp[2657]: [auth.crit] Connection closed by 192.168.1.3 port 80
+Nov 12 08:07:48 switch1 nginx[5796]: [mail.emerg] Firewall rule updated
+Nov 12 04:49:06 switch1 dhcpd[3665]: [user.crit] New device connected to network
+Nov 12 11:05:01 server1 dhcpd[8952]: [cron.crit] Accepted password for user from 192.168.1.1 port 22 ssh2
+Nov 12 08:18:57 server2 cron[3627]: [daemon.debug] Disk usage exceeded threshold
+Nov 12 00:32:35 router1 cron[6396]: [auth.notice] Critical system process failed
+Nov 12 09:33:49 firewall1 dhcpd[3813]: [daemon.err] Network interface restarted
+Nov 12 09:43:18 server2 cron[7132]: [cron.notice] Unexpected shutdown of system
+Nov 12 01:39:10 firewall1 smtp[5785]: [kern.crit] Connection closed by 192.168.1.3 port 80
+Nov 12 08:40:46 switch1 dhcpd[2353]: [daemon.debug] Backup completed successfully
+Nov 12 11:24:03 server2 kernel[8601]: [auth.debug] Filesystem check completed
+Nov 12 10:16:05 switch1 dhcpd[7166]: [daemon.alert] Failed password for invalid user admin from 192.168.1.2 port 22 ssh2
+Nov 12 08:33:22 router1 nginx[3104]: [syslog.debug] Attempted login with expired password
+Nov 12 10:12:22 firewall1 sshd[8452]: [kern.alert] Process killed due to out-of-memory
+Nov 12 03:02:51 switch1 nginx[2041]: [cron.warning] Unexpected shutdown of system
+Nov 12 07:04:09 switch1 smtp[7587]: [auth.debug] Invalid login attempt
+Nov 12 02:13:31 router1 systemd[8515]: [mail.crit] Error reading configuration file
+Nov 12 00:35:46 server2 cron[3060]: [kern.notice] New software update available
+Nov 12 10:39:45 server1 sshd[6945]: [daemon.err] Disk usage exceeded threshold
+Nov 12 10:20:26 switch1 kernel[5679]: [user.emerg] System clock synchronized
+Nov 12 05:50:58 router1 systemd[9372]: [auth.emerg] Backup completed successfully
+Nov 12 08:48:58 server1 kernel[8363]: [kern.emerg] Filesystem check completed
+Nov 12 00:21:11 server1 nginx[9637]: [auth.err] Disk quota exceeded
+Nov 12 03:50:53 firewall1 dhcpd[1264]: [auth.warning] Session expired for user
+Nov 12 02:39:47 server2 kernel[8075]: [auth.emerg] Database connection failed
+Nov 12 08:53:24 server1 sshd[7764]: [user.warning] Disk usage exceeded threshold
+Nov 12 04:35:38 server1 smtp[5349]: [syslog.debug] VPN connection disconnected
+Nov 12 02:47:37 server1 cron[7101]: [daemon.info] Service restarted successfully
+Nov 12 05:54:30 server1 kernel[8423]: [daemon.info] Service crashed unexpectedly
+Nov 12 02:15:06 firewall1 dhcpd[1486]: [daemon.crit] Database connection failed
+Nov 12 11:33:56 server2 cron[2508]: [auth.alert] User logged in
+Nov 12 07:39:59 router1 kernel[4195]: [syslog.err] New USB device connected
+Nov 12 09:20:40 switch1 smtp[8763]: [user.alert] Firewall rule updated
+Nov 12 10:40:09 server1 systemd[3407]: [cron.err] Backup completed successfully
+Nov 12 02:59:14 firewall1 smtp[4452]: [kern.crit] Reboot required to apply updates
+Nov 12 04:53:15 server1 cron[1684]: [user.emerg] High CPU usage detected
+Nov 12 00:37:59 server2 nginx[5329]: [kern.warning] Low memory warning
+Nov 12 01:45:58 server2 systemd[1399]: [user.crit] Invalid login attempt
+Nov 12 09:32:35 server2 dhcpd[7964]: [daemon.info] User logged in
+Nov 12 10:55:05 server2 smtp[4275]: [user.debug] RAID array degraded
+Nov 12 01:16:11 server2 kernel[5656]: [user.info] Network interface restarted
+Nov 12 02:22:27 firewall1 dhcpd[1070]: [kern.notice] User added to group
+Nov 12 11:41:43 firewall1 systemd[1954]: [user.crit] New admin account created
+Nov 12 03:33:33 switch1 nginx[3361]: [auth.warning] Backup completed successfully
+Nov 12 07:15:36 server1 smtp[8599]: [user.crit] New device connected to network
+Nov 12 11:00:06 server2 cron[6131]: [cron.notice] Backup completed successfully
+Nov 12 01:22:37 switch1 nginx[6098]: [daemon.debug] System clock synchronized
+Nov 12 04:18:32 switch1 systemd[4413]: [syslog.err] Error reading configuration file
+Nov 12 08:44:34 server2 dhcpd[1680]: [auth.err] Shutting down system
+Nov 12 00:54:48 firewall1 kernel[6656]: [syslog.alert] Service crashed unexpectedly
+Nov 12 01:10:08 server1 smtp[8509]: [syslog.warning] High CPU usage detected
+Nov 12 05:19:46 server1 cron[6666]: [auth.crit] RAID array degraded
+Nov 12 03:34:20 router1 kernel[1247]: [syslog.notice] New USB device connected
+Nov 12 07:43:51 server2 kernel[9849]: [user.crit] Firewall rule updated
+Nov 12 09:01:42 firewall1 systemd[1366]: [user.crit] Error reading configuration file
+Nov 12 04:16:57 server2 nginx[2798]: [mail.warning] New software update available
+Nov 12 05:25:53 server1 smtp[4427]: [auth.info] New software update available
+Nov 12 08:45:39 server2 sshd[5371]: [auth.notice] Critical system process failed
+Nov 12 01:27:00 server2 sshd[5016]: [mail.alert] Connection closed by 192.168.1.3 port 80
+Nov 12 04:31:02 router1 cron[3290]: [syslog.alert] IP address conflict detected
+Nov 12 02:33:02 router1 sshd[3139]: [kern.notice] VPN connection disconnected
+Nov 12 01:34:35 server2 smtp[8771]: [kern.info] Service restarted successfully
+Nov 12 10:22:00 firewall1 dhcpd[2268]: [mail.notice] RAID array degraded
+Nov 12 04:37:25 router1 kernel[3046]: [kern.info] RAID array degraded
+Nov 12 01:47:50 router1 dhcpd[6663]: [kern.alert] Disk quota exceeded
+Nov 12 04:53:13 firewall1 dhcpd[7068]: [cron.emerg] Starting system reboot
+Nov 12 10:27:41 server1 dhcpd[5518]: [user.info] Critical system process failed
+Nov 12 00:24:39 firewall1 systemd[4493]: [kern.emerg] New device connected to network
+Nov 12 06:00:37 router1 systemd[1245]: [daemon.crit] Critical system process failed
+Nov 12 08:43:29 router1 nginx[2892]: [user.info] New admin account created
+Nov 12 01:05:47 switch1 smtp[1484]: [auth.err] Connection closed by 192.168.1.3 port 80
+Nov 12 02:00:06 switch1 dhcpd[5873]: [mail.notice] Database connection failed
+Nov 12 05:32:53 server1 kernel[8989]: [mail.notice] User added to group
+Nov 12 00:10:53 switch1 dhcpd[6490]: [auth.warning] Failed password for invalid user admin from 192.168.1.2 port 22 ssh2
+Nov 12 10:57:47 router1 sshd[5158]: [mail.emerg] System clock synchronized
+Nov 12 11:30:11 server1 systemd[7221]: [mail.emerg] Error reading configuration file
+Nov 12 01:17:58 switch1 cron[3978]: [kern.alert] Reboot required to apply updates
+Nov 12 01:12:20 switch1 smtp[1387]: [kern.emerg] System clock synchronized
+Nov 12 05:30:38 server2 kernel[3280]: [daemon.notice] New software update available
+Nov 12 08:32:02 switch1 cron[3769]: [daemon.debug] Unauthorized access attempt detected
+Nov 12 05:20:15 router1 nginx[1784]: [user.debug] New software update available
+Nov 12 04:26:53 server1 cron[1181]: [auth.crit] Service configuration updated
+Nov 12 06:29:23 server1 systemd[4532]: [mail.warning] Disk usage exceeded threshold
+Nov 12 03:47:13 firewall1 nginx[4210]: [daemon.info] Multiple failed login attempts detected
+Nov 12 03:27:45 server1 dhcpd[9866]: [kern.debug] Unusual login pattern detected
+Nov 12 04:41:52 switch1 kernel[8288]: [auth.alert] User logged in
+Nov 12 10:55:53 router1 systemd[8567]: [auth.emerg] Critical system process failed
+Nov 12 11:32:17 switch1 cron[1817]: [mail.err] User added to group
+Nov 12 01:02:58 server2 cron[8316]: [syslog.emerg] Invalid login attempt
+Nov 12 11:23:06 server2 kernel[2890]: [user.notice] Process killed due to out-of-memory
+Nov 12 09:20:00 switch1 nginx[7633]: [auth.debug] New admin account created
+Nov 12 03:41:56 server2 kernel[1363]: [daemon.alert] Service restarted successfully
+Nov 12 11:17:32 server1 cron[8535]: [auth.notice] Disk quota exceeded
+Nov 12 10:55:48 router1 cron[4138]: [daemon.alert] User logged out
+Nov 12 06:25:10 firewall1 sshd[6883]: [daemon.emerg] IP address conflict detected
+Nov 12 06:30:16 switch1 systemd[9965]: [cron.crit] Service configuration updated
+Nov 12 10:38:47 server1 systemd[8345]: [auth.info] New USB device connected
+Nov 12 09:55:42 firewall1 systemd[9178]: [kern.alert] New admin account created
+Nov 12 09:15:41 server1 kernel[8266]: [mail.err] Low memory warning
+Nov 12 00:50:55 switch1 kernel[5472]: [cron.warning] Service restarted successfully
+Nov 12 00:58:46 switch1 cron[7443]: [auth.crit] Failed password for invalid user admin from 192.168.1.2 port 22 ssh2
+Nov 12 09:02:22 server1 sshd[4019]: [daemon.err] Backup completed successfully
+Nov 12 08:52:52 server2 nginx[2731]: [kern.alert] Attempted login with expired password
+Nov 12 11:10:59 router1 sshd[9246]: [daemon.err] Multiple failed login attempts detected
+Nov 12 08:06:48 firewall1 kernel[9382]: [syslog.warning] New USB device connected
+Nov 12 02:25:57 switch1 nginx[9773]: [mail.crit] Unauthorized access attempt detected
+Nov 12 01:48:11 router1 dhcpd[7670]: [user.notice] Unauthorized access attempt detected
+Nov 12 09:44:04 router1 sshd[3304]: [mail.err] User logged out
+Nov 12 08:29:23 server2 kernel[1442]: [daemon.debug] System clock synchronized
+Nov 12 10:37:56 router1 nginx[2769]: [kern.crit] System clock synchronized
+Nov 12 04:16:35 firewall1 systemd[4269]: [user.emerg] User logged out
+Nov 12 04:49:40 switch1 sshd[7968]: [cron.notice] Network interface restarted
+Nov 12 06:29:28 server2 smtp[5039]: [mail.debug] Reboot required to apply updates
+Nov 12 10:39:22 server1 systemd[2771]: [kern.emerg] VPN connection established
+Nov 12 00:49:58 server2 kernel[8361]: [kern.emerg] VPN connection disconnected
+Nov 12 08:49:29 router1 kernel[6135]: [mail.crit] Disk quota exceeded
+Nov 12 10:56:30 server1 nginx[8246]: [mail.notice] Disk quota exceeded
+Nov 12 03:10:25 server1 smtp[5965]: [user.debug] Session expired for user
+Nov 12 05:45:30 firewall1 nginx[4440]: [daemon.notice] Starting system reboot
+Nov 12 03:42:47 server1 nginx[2498]: [user.err] Critical system process failed
+Nov 12 01:40:09 server1 smtp[4642]: [syslog.err] Firewall rule applied successfully
+Nov 12 03:12:13 switch1 smtp[9481]: [syslog.debug] Service configuration updated
+Nov 12 10:44:38 server1 dhcpd[9167]: [user.emerg] Low memory warning
+Nov 12 03:36:32 server2 systemd[3478]: [user.emerg] Unusual login pattern detected
+Nov 12 08:46:08 router1 dhcpd[2691]: [auth.info] Connection closed by 192.168.1.3 port 80
+Nov 12 10:35:09 firewall1 dhcpd[6545]: [kern.debug] Session expired for user
+Nov 12 00:39:06 switch1 smtp[7736]: [kern.warning] Starting system reboot
+Nov 12 06:16:11 switch1 nginx[7586]: [cron.info] New device connected to network
+Nov 12 04:43:25 switch1 nginx[6557]: [syslog.warning] User added to group
+Nov 12 03:28:30 server2 dhcpd[9715]: [syslog.debug] New software update available
+Nov 12 08:45:30 firewall1 nginx[2553]: [kern.err] Low memory warning
+Nov 12 11:02:56 firewall1 smtp[8668]: [auth.err] System clock synchronized
+Nov 12 08:32:10 firewall1 dhcpd[3709]: [user.info] Filesystem check completed
+Nov 12 10:59:59 router1 kernel[6197]: [syslog.crit] Session expired for user
+Nov 12 09:22:45 firewall1 dhcpd[4019]: [auth.crit] Multiple failed login attempts detected
+Nov 12 11:02:54 server2 dhcpd[1798]: [kern.info] Update applied successfully
+Nov 12 09:15:16 router1 sshd[8529]: [kern.info] New USB device connected
+Nov 12 00:14:32 switch1 kernel[9596]: [syslog.emerg] Low memory warning
+Nov 12 10:14:19 router1 systemd[2548]: [cron.warning] Firewall rule applied successfully
+Nov 12 03:40:20 router1 cron[3979]: [syslog.info] Service configuration updated
+Nov 12 09:51:54 switch1 cron[2711]: [kern.err] Failed password for invalid user admin from 192.168.1.2 port 22 ssh2
+Nov 12 00:07:14 router1 nginx[2382]: [cron.alert] Disk quota exceeded
+Nov 12 08:20:45 router1 nginx[9255]: [syslog.emerg] Service crashed unexpectedly
+Nov 12 03:33:31 server2 cron[8250]: [user.crit] Low memory warning
+Nov 12 10:01:19 switch1 kernel[4698]: [syslog.alert] IP address conflict detected
+Nov 12 10:33:04 firewall1 sshd[1493]: [mail.warning] Attempted login with expired password
+Nov 12 01:29:35 server2 nginx[8535]: [cron.notice] User logged in
+Nov 12 00:52:55 server1 dhcpd[1316]: [cron.crit] Critical system process failed
+Nov 12 02:33:57 server1 smtp[1269]: [user.info] Error reading configuration file
+Nov 12 02:09:55 router1 kernel[8434]: [syslog.notice] New device connected to network
+Nov 12 06:06:00 firewall1 dhcpd[9473]: [syslog.alert] New device connected to network
+Nov 12 07:20:06 server2 kernel[1620]: [user.warning] System clock synchronized
+Nov 12 00:24:09 server1 smtp[4372]: [auth.alert] Unexpected shutdown of system
+Nov 12 07:22:04 switch1 dhcpd[1990]: [user.debug] Unusual login pattern detected
+Nov 12 09:11:30 router1 dhcpd[2178]: [auth.warning] Service crashed unexpectedly
+Nov 12 08:02:59 server2 sshd[4849]: [mail.info] New admin account created
+Nov 12 02:24:09 switch1 dhcpd[3116]: [user.crit] VPN connection established
+Nov 12 04:35:11 firewall1 cron[7004]: [auth.emerg] Shutting down system
+Nov 12 08:37:26 server2 kernel[1851]: [kern.warning] Service restarted successfully
+Nov 12 08:19:00 firewall1 systemd[3331]: [daemon.info] Database connection failed
+Nov 12 05:13:20 firewall1 sshd[9862]: [daemon.alert] Low memory warning
+Nov 12 05:23:03 server2 cron[2369]: [cron.info] Firewall rule updated
+Nov 12 08:13:23 server1 sshd[9629]: [mail.err] Service restarted successfully
+Nov 12 06:16:29 router1 dhcpd[2091]: [daemon.crit] Backup completed successfully
+Nov 12 09:21:51 server1 smtp[4228]: [auth.info] Multiple failed login attempts detected
+Nov 12 04:01:00 server1 dhcpd[9992]: [auth.err] VPN connection established
+Nov 12 09:48:53 switch1 nginx[5256]: [user.debug] Backup completed successfully
+Nov 12 07:19:24 firewall1 sshd[7639]: [user.alert] Connection closed by 192.168.1.3 port 80
+Nov 12 04:49:17 router1 sshd[9756]: [syslog.notice] Disk usage exceeded threshold
+Nov 12 03:49:29 router1 smtp[6570]: [cron.warning] Connection closed by 192.168.1.3 port 80
+Nov 12 05:43:55 switch1 kernel[4875]: [syslog.err] Disk usage exceeded threshold
+Nov 12 04:57:21 server1 cron[8246]: [kern.err] New device connected to network
+Nov 12 00:37:33 router1 dhcpd[7178]: [user.emerg] Network interface restarted
+Nov 12 05:32:32 switch1 nginx[2498]: [syslog.warning] System clock synchronized
+Nov 12 05:35:32 server2 sshd[8213]: [cron.notice] Unauthorized access attempt detected
+Nov 12 09:34:26 server2 cron[7407]: [auth.notice] Service configuration updated
+Nov 12 07:29:54 server1 kernel[9343]: [user.alert] Database connection failed
+Nov 12 01:34:50 router1 sshd[2172]: [syslog.err] Reboot required to apply updates
+Nov 12 00:56:10 firewall1 dhcpd[3069]: [syslog.alert] Disk quota exceeded
+Nov 12 09:52:57 server1 dhcpd[6512]: [syslog.alert] Disk usage exceeded threshold
+Nov 12 02:28:31 server2 smtp[9924]: [mail.info] Filesystem check completed
+Nov 12 00:44:02 server1 cron[2024]: [user.err] User added to group
+Nov 12 11:00:56 server2 cron[2275]: [cron.emerg] Filesystem check completed
+Nov 12 04:37:12 server1 nginx[8985]: [kern.debug] Firewall rule applied successfully
+Nov 12 04:09:46 firewall1 systemd[4844]: [cron.info] New device connected to network
+Nov 12 04:12:55 switch1 sshd[8428]: [cron.info] High CPU usage detected
+Nov 12 10:20:00 server2 cron[5381]: [cron.alert] Accepted password for user from 192.168.1.1 port 22 ssh2
+Nov 12 05:11:21 server1 sshd[2018]: [syslog.emerg] Firewall rule applied successfully
+Nov 12 03:38:03 server2 nginx[3253]: [cron.crit] New USB device connected
+Nov 12 07:37:28 router1 smtp[2012]: [auth.warning] Attempted login with expired password
+Nov 12 08:35:21 server2 cron[4208]: [cron.debug] Firewall rule applied successfully
+Nov 12 11:32:25 server2 sshd[9806]: [kern.notice] Firewall rule updated
+Nov 12 10:49:03 firewall1 kernel[8000]: [user.err] VPN connection established
+Nov 12 07:22:48 server2 cron[2635]: [cron.err] Unrecognized device detected on network
+Nov 12 02:56:04 firewall1 dhcpd[8160]: [cron.warning] Unexpected shutdown of system
+Nov 12 05:04:32 switch1 sshd[1845]: [user.emerg] VPN connection disconnected
+Nov 12 06:10:13 switch1 kernel[9177]: [syslog.warning] Attempted login with expired password
+Nov 12 10:34:40 router1 kernel[6174]: [kern.notice] Unrecognized device detected on network
+Nov 12 09:22:12 server1 sshd[2568]: [daemon.alert] New admin account created
+Nov 12 00:01:34 router1 nginx[3500]: [cron.info] Firewall rule applied successfully
+Nov 12 00:02:14 server2 kernel[9671]: [mail.alert] Network interface restarted
+Nov 12 00:33:19 server2 sshd[8752]: [cron.warning] Unexpected shutdown of system
+Nov 12 09:21:52 switch1 nginx[6699]: [kern.err] Connection closed by 192.168.1.3 port 80
+Nov 12 04:50:10 server1 sshd[2077]: [cron.crit] Starting system reboot
+Nov 12 02:58:27 switch1 sshd[7310]: [mail.warning] Unrecognized device detected on network
+Nov 12 03:16:34 firewall1 cron[2350]: [kern.alert] Unusual login pattern detected
+Nov 12 11:37:24 router1 sshd[2552]: [user.debug] Unauthorized access attempt detected
+Nov 12 00:49:23 server1 sshd[7102]: [mail.emerg] New admin account created
+Nov 12 09:32:09 switch1 systemd[3409]: [daemon.emerg] Attempted login with expired password
+Nov 12 01:00:27 server1 dhcpd[5154]: [daemon.warning] User logged out
+Nov 12 09:38:47 router1 smtp[4413]: [kern.crit] Firewall rule updated
+Nov 12 01:53:40 router1 dhcpd[6475]: [cron.info] Disk usage exceeded threshold
+Nov 12 06:42:38 server2 dhcpd[3257]: [kern.warning] New USB device connected
+Nov 12 02:43:08 router1 cron[6712]: [cron.info] User logged in
+Nov 12 02:41:23 switch1 smtp[1872]: [daemon.info] Unauthorized access attempt detected
+Nov 12 10:39:35 firewall1 systemd[2869]: [cron.info] Database connection failed
+Nov 12 09:01:11 router1 dhcpd[3150]: [cron.err] Shutting down system
+Nov 12 06:47:41 router1 cron[2248]: [daemon.info] Disk quota exceeded
+Nov 12 03:07:52 server2 smtp[2271]: [cron.notice] Attempted login with expired password
+Nov 12 02:04:42 router1 systemd[8758]: [syslog.warning] Shutting down system
+Nov 12 09:49:11 server1 smtp[5541]: [kern.debug] Process killed due to out-of-memory
+Nov 12 01:33:58 server2 dhcpd[1123]: [mail.info] VPN connection established
+Nov 12 09:54:47 switch1 nginx[8861]: [auth.err] New admin account created
+Nov 12 00:51:40 firewall1 smtp[8973]: [syslog.err] Shutting down system
+Nov 12 01:54:37 server1 dhcpd[3447]: [cron.warning] Process killed due to out-of-memory
+Nov 12 06:25:30 server1 sshd[7957]: [cron.debug] Shutting down system
+Nov 12 02:30:37 firewall1 systemd[7398]: [auth.notice] User logged in
+Nov 12 02:57:37 router1 nginx[7001]: [kern.crit] Reboot required to apply updates
+Nov 12 08:54:22 firewall1 kernel[2180]: [auth.crit] Database connection failed
+Nov 12 07:47:48 server2 nginx[5501]: [daemon.warning] VPN connection established
+Nov 12 06:51:22 router1 dhcpd[8992]: [syslog.notice] Unusual login pattern detected
+Nov 12 10:06:02 server2 dhcpd[6417]: [cron.crit] Accepted password for user from 192.168.1.1 port 22 ssh2
+Nov 12 10:07:57 server2 nginx[2176]: [kern.info] New admin account created
+Nov 12 01:01:10 server1 smtp[9077]: [syslog.alert] Network interface restarted
+Nov 12 08:51:13 server1 kernel[7984]: [auth.debug] User logged in
+Nov 12 09:14:30 server2 systemd[9312]: [user.debug] User logged out
+Nov 12 09:30:51 switch1 smtp[5177]: [user.debug] New USB device connected
+Nov 12 05:29:04 firewall1 dhcpd[5332]: [auth.warning] Session expired for user
+Nov 12 06:28:39 router1 systemd[1422]: [syslog.warning] Service restarted successfully
+Nov 12 10:42:21 switch1 smtp[8947]: [mail.warning] Service restarted successfully
+Nov 12 04:23:20 server2 kernel[7749]: [user.err] Disk usage exceeded threshold
+Nov 12 02:09:03 server1 sshd[9705]: [user.info] Update applied successfully
+Nov 12 07:46:53 switch1 systemd[3453]: [user.info] Unrecognized device detected on network
+Nov 12 01:39:39 switch1 kernel[1004]: [mail.warning] Failed password for invalid user admin from 192.168.1.2 port 22 ssh2
+Nov 12 01:12:06 switch1 nginx[6014]: [kern.err] Unexpected shutdown of system
+Nov 12 04:20:02 server2 smtp[8720]: [kern.info] Unusual login pattern detected
+Nov 12 06:34:03 switch1 smtp[2101]: [daemon.info] User added to group
+Nov 12 11:30:36 firewall1 cron[3853]: [daemon.notice] Process killed due to out-of-memory
+Nov 12 04:29:05 server1 dhcpd[9268]: [cron.debug] Firewall rule applied successfully
+Nov 12 01:48:43 firewall1 nginx[4615]: [user.info] Firewall rule updated
+Nov 12 11:43:44 switch1 systemd[4888]: [syslog.notice] User logged out
+Nov 12 10:11:21 server1 kernel[8024]: [daemon.emerg] Reboot required to apply updates
+Nov 12 05:31:04 server1 dhcpd[3955]: [user.debug] Unauthorized access attempt detected
+Nov 12 05:04:17 switch1 nginx[3546]: [daemon.crit] Accepted password for user from 192.168.1.1 port 22 ssh2
+Nov 12 09:53:18 switch1 smtp[1020]: [syslog.notice] Process killed due to out-of-memory
+Nov 12 03:39:45 router1 kernel[7055]: [cron.crit] Starting system reboot
+Nov 12 06:12:15 server2 systemd[1104]: [mail.debug] Disk quota exceeded
+Nov 12 00:08:11 switch1 dhcpd[5448]: [cron.warning] Disk quota exceeded
+Nov 12 05:46:48 server2 systemd[5074]: [syslog.notice] Firewall rule updated
+Nov 12 03:36:56 switch1 nginx[7899]: [syslog.info] User logged out
+Nov 12 00:59:27 server2 cron[6031]: [daemon.alert] User added to group
+Nov 12 07:30:29 switch1 nginx[2098]: [kern.debug] Starting system reboot
+Nov 12 00:16:39 switch1 systemd[2149]: [auth.alert] Reboot required to apply updates
+Nov 12 03:48:30 server1 cron[2590]: [kern.info] New software update available
+Nov 12 10:57:29 router1 dhcpd[2994]: [syslog.err] Firewall rule updated
+Nov 12 05:39:57 router1 kernel[8908]: [cron.err] Unexpected shutdown of system
+Nov 12 06:33:35 firewall1 cron[3162]: [cron.debug] RAID array degraded
+Nov 12 11:25:15 server1 smtp[3634]: [cron.warning] Critical system process failed
+Nov 12 11:29:10 switch1 dhcpd[6084]: [kern.warning] VPN connection disconnected
+Nov 12 01:27:11 firewall1 nginx[3142]: [auth.emerg] Disk quota exceeded
+Nov 12 07:47:17 switch1 nginx[3328]: [user.crit] Reboot required to apply updates
+Nov 12 08:35:51 router1 nginx[4217]: [user.notice] Attempted login with expired password
+Nov 12 11:11:36 firewall1 cron[2690]: [auth.crit] New USB device connected
+Nov 12 06:21:47 firewall1 systemd[3692]: [kern.warning] Disk usage exceeded threshold
+Nov 12 02:33:39 server2 systemd[2928]: [syslog.emerg] Network interface restarted
+Nov 12 05:56:10 server2 sshd[9982]: [user.warning] Service configuration updated
+Nov 12 06:29:56 server1 dhcpd[3166]: [mail.debug] New device connected to network
+Nov 12 04:38:37 server1 kernel[4478]: [daemon.alert] Invalid login attempt
+Nov 12 03:23:55 router1 dhcpd[6769]: [mail.notice] Disk quota exceeded
+Nov 12 03:19:12 switch1 systemd[7258]: [user.err] Failed password for invalid user admin from 192.168.1.2 port 22 ssh2
+Nov 12 04:04:51 router1 smtp[7273]: [cron.crit] Reboot required to apply updates
+Nov 12 08:30:42 router1 nginx[5862]: [user.info] Reboot required to apply updates
+Nov 12 00:18:51 router1 kernel[2685]: [user.notice] New USB device connected
+Nov 12 00:56:29 server1 dhcpd[8700]: [user.alert] High CPU usage detected
+Nov 12 10:05:15 router1 nginx[8667]: [auth.info] Update applied successfully
+Nov 12 08:43:53 router1 sshd[7061]: [kern.info] Service restarted successfully
+Nov 12 08:45:20 server2 cron[1450]: [syslog.warning] Backup completed successfully
+Nov 12 10:08:21 router1 nginx[8584]: [cron.warning] Disk quota exceeded
+Nov 12 09:40:35 server2 dhcpd[6911]: [auth.crit] Process killed due to out-of-memory
+Nov 12 06:52:26 router1 sshd[1046]: [cron.alert] Low memory warning
+Nov 12 05:55:26 router1 dhcpd[7535]: [user.err] New device connected to network
+Nov 12 03:16:12 server1 kernel[2483]: [user.err] Unrecognized device detected on network
+Nov 12 06:48:54 server1 nginx[5001]: [cron.debug] Firewall rule applied successfully
+Nov 12 05:12:41 firewall1 cron[6753]: [kern.emerg] New software update available
+Nov 12 05:38:52 firewall1 dhcpd[3301]: [user.debug] User logged in
+Nov 12 01:01:47 router1 sshd[9419]: [mail.warning] Firewall rule applied successfully
+Nov 12 09:38:37 router1 smtp[1679]: [user.notice] User logged out
+Nov 12 03:04:19 switch1 sshd[5112]: [syslog.warning] High CPU usage detected
+Nov 12 10:06:03 server2 smtp[9604]: [user.emerg] System clock synchronized
+Nov 12 06:58:40 firewall1 dhcpd[8041]: [syslog.notice] Disk quota exceeded
+Nov 12 06:56:20 server2 kernel[7112]: [daemon.notice] Session expired for user
+Nov 12 07:26:34 server2 dhcpd[2567]: [auth.alert] IP address conflict detected
+Nov 12 11:13:03 switch1 dhcpd[2238]: [auth.notice] New software update available
+Nov 12 09:51:38 server1 dhcpd[8137]: [daemon.emerg] Unrecognized device detected on network
+Nov 12 05:33:33 server2 kernel[6682]: [user.alert] Low memory warning
+Nov 12 03:50:15 switch1 kernel[8376]: [cron.notice] Reboot required to apply updates
+Nov 12 09:26:33 switch1 systemd[5542]: [daemon.err] Unexpected shutdown of system
+Nov 12 07:58:03 firewall1 dhcpd[7834]: [user.alert] Unexpected shutdown of system
+Nov 12 03:07:36 firewall1 kernel[9054]: [mail.alert] Disk quota exceeded
+Nov 12 01:07:31 server1 smtp[6609]: [syslog.crit] VPN connection disconnected
+Nov 12 09:41:52 firewall1 systemd[8691]: [daemon.err] New USB device connected
+Nov 12 04:03:12 router1 sshd[9435]: [cron.warning] Update applied successfully
+Nov 12 06:37:24 router1 sshd[9826]: [daemon.info] Unauthorized access attempt detected
+Nov 12 05:43:17 server1 dhcpd[8500]: [auth.warning] Invalid login attempt
+Nov 12 10:04:15 firewall1 smtp[9531]: [auth.err] Database connection failed
+Nov 12 10:44:27 router1 systemd[4352]: [daemon.crit] Session expired for user
+Nov 12 06:35:32 switch1 smtp[3386]: [syslog.emerg] VPN connection established
+Nov 12 09:10:38 switch1 cron[9588]: [syslog.debug] IP address conflict detected
+Nov 12 11:15:55 server1 nginx[8957]: [kern.warning] Starting system reboot
+Nov 12 05:38:26 router1 sshd[8214]: [syslog.err] VPN connection established
+Nov 12 11:07:51 server2 smtp[2539]: [auth.debug] Update applied successfully
+Nov 12 02:02:52 firewall1 kernel[8493]: [user.notice] VPN connection established
+Nov 12 07:58:00 server2 sshd[9964]: [auth.emerg] New software update available
+Nov 12 10:25:53 switch1 systemd[2900]: [cron.alert] Service crashed unexpectedly
+Nov 12 11:33:59 server2 smtp[6878]: [kern.debug] Service configuration updated
+Nov 12 10:17:18 router1 smtp[4656]: [user.debug] User logged in
+Nov 12 04:24:07 server2 cron[1947]: [user.notice] User logged out
+Nov 12 10:20:34 router1 nginx[7490]: [cron.debug] New USB device connected
+Nov 12 03:07:25 server1 kernel[8174]: [kern.err] High CPU usage detected
+Nov 12 09:43:29 server1 smtp[4496]: [auth.warning] Critical system process failed
+Nov 12 05:51:51 firewall1 dhcpd[6262]: [daemon.err] New software update available
+Nov 12 07:03:19 server2 kernel[3826]: [daemon.emerg] Disk quota exceeded
+Nov 12 08:17:16 server2 nginx[7078]: [mail.crit] Network interface restarted
+Nov 12 07:21:08 server1 sshd[7990]: [user.crit] Unauthorized access attempt detected
+Nov 12 10:48:50 firewall1 sshd[9144]: [kern.emerg] VPN connection disconnected
+Nov 12 06:14:21 router1 nginx[5103]: [auth.notice] Error reading configuration file
+Nov 12 05:34:28 server1 smtp[1177]: [syslog.notice] Unusual login pattern detected
+Nov 12 02:30:56 firewall1 smtp[4905]: [daemon.debug] Connection closed by 192.168.1.3 port 80
+Nov 12 02:57:02 router1 nginx[5004]: [auth.warning] Invalid login attempt
+Nov 12 03:59:33 firewall1 sshd[6064]: [user.crit] Filesystem check completed
+Nov 12 11:42:10 switch1 systemd[4425]: [mail.info] New USB device connected
+Nov 12 06:55:50 server2 dhcpd[7115]: [kern.notice] System clock synchronized
+Nov 12 02:19:53 router1 nginx[3235]: [cron.notice] Firewall rule applied successfully
+Nov 12 01:36:00 switch1 sshd[9426]: [user.info] Error reading configuration file
+Nov 12 08:07:34 server2 smtp[9068]: [mail.notice] Error reading configuration file
+Nov 12 02:26:00 switch1 kernel[4611]: [cron.notice] Unrecognized device detected on network
+Nov 12 08:26:19 switch1 nginx[9296]: [kern.crit] Database connection failed
+Nov 12 09:06:11 router1 cron[4832]: [daemon.warning] User added to group
+Nov 12 00:37:16 router1 nginx[7462]: [kern.crit] New USB device connected
+Nov 12 00:48:33 server1 cron[9282]: [daemon.crit] Connection closed by 192.168.1.3 port 80
+Nov 12 01:20:42 router1 nginx[3356]: [daemon.err] Low memory warning
+Nov 12 00:30:55 router1 cron[2703]: [auth.alert] New software update available
+Nov 12 06:57:38 server2 nginx[7537]: [daemon.err] VPN connection established
+Nov 12 06:46:48 server2 sshd[2783]: [daemon.notice] VPN connection established
+Nov 12 10:30:40 server2 kernel[1120]: [daemon.err] Session expired for user
+Nov 12 10:38:57 server1 cron[2788]: [syslog.emerg] VPN connection disconnected
+Nov 12 00:06:18 firewall1 systemd[6506]: [daemon.crit] High CPU usage detected
+Nov 12 00:45:06 firewall1 kernel[5109]: [mail.emerg] Network interface restarted
+Nov 12 09:21:12 router1 smtp[5447]: [cron.notice] New software update available
+Nov 12 01:01:40 router1 kernel[1479]: [mail.notice] High CPU usage detected
+Nov 12 07:05:51 firewall1 kernel[7661]: [cron.emerg] IP address conflict detected
+Nov 12 03:05:57 firewall1 systemd[6444]: [daemon.err] Error reading configuration file
+Nov 12 01:02:14 server1 sshd[2093]: [mail.emerg] Multiple failed login attempts detected
+Nov 12 00:19:24 router1 smtp[1436]: [daemon.alert] New USB device connected
+Nov 12 04:14:54 firewall1 nginx[5322]: [syslog.debug] Unusual login pattern detected
+Nov 12 01:33:26 firewall1 nginx[4594]: [user.warning] Backup completed successfully
+Nov 12 11:40:21 server2 sshd[1100]: [auth.crit] High CPU usage detected
+Nov 12 09:36:27 server1 sshd[5809]: [mail.warning] Critical system process failed
+Nov 12 10:55:07 server1 sshd[7794]: [auth.debug] VPN connection established
+Nov 12 02:35:11 server2 dhcpd[9814]: [daemon.info] Service restarted successfully
+Nov 12 05:19:54 router1 kernel[8481]: [mail.crit] Service crashed unexpectedly
+Nov 12 03:08:09 firewall1 nginx[5014]: [kern.alert] Reboot required to apply updates
+Nov 12 09:55:38 router1 smtp[9546]: [auth.warning] Unusual login pattern detected
+Nov 12 06:20:53 switch1 dhcpd[2720]: [user.notice] Unrecognized device detected on network
+Nov 12 01:40:30 router1 dhcpd[8534]: [syslog.info] Failed password for invalid user admin from 192.168.1.2 port 22 ssh2
+Nov 12 00:51:50 firewall1 sshd[8884]: [daemon.debug] System clock synchronized
+Nov 12 03:31:12 switch1 nginx[8258]: [syslog.info] Multiple failed login attempts detected
+Nov 12 09:03:13 server2 cron[5859]: [cron.debug] VPN connection established
+Nov 12 04:54:02 firewall1 nginx[6759]: [daemon.warning] Unexpected shutdown of system
+Nov 12 08:01:51 server2 smtp[3184]: [syslog.warning] Low memory warning
+Nov 12 06:13:39 firewall1 nginx[5093]: [syslog.alert] Firewall rule applied successfully
+Nov 12 00:22:24 router1 sshd[6599]: [cron.alert] Failed password for invalid user admin from 192.168.1.2 port 22 ssh2
+Nov 12 01:58:29 router1 systemd[5702]: [cron.warning] Service restarted successfully
+Nov 12 03:27:38 router1 nginx[6037]: [syslog.warning] Firewall rule updated
+Nov 12 11:25:35 switch1 dhcpd[3789]: [cron.emerg] Critical system process failed
+Nov 12 05:13:49 server1 cron[3092]: [cron.err] VPN connection disconnected
+Nov 12 01:28:44 switch1 dhcpd[5526]: [cron.warning] Failed password for invalid user admin from 192.168.1.2 port 22 ssh2
+Nov 12 10:15:41 server1 kernel[5647]: [syslog.err] High CPU usage detected
+Nov 12 08:48:02 server2 smtp[2853]: [auth.debug] Shutting down system
+Nov 12 03:55:12 switch1 cron[5950]: [daemon.info] Critical system process failed
+Nov 12 06:37:42 server2 smtp[6085]: [mail.debug] Network interface restarted
+Nov 12 09:49:10 switch1 dhcpd[4031]: [kern.debug] Service configuration updated
+Nov 12 01:15:49 server2 kernel[6001]: [cron.info] Filesystem check completed
+Nov 12 08:38:21 firewall1 dhcpd[2941]: [user.info] Unauthorized access attempt detected
+Nov 12 01:02:28 server1 sshd[9824]: [cron.err] Reboot required to apply updates
+Nov 12 09:23:04 server1 cron[3812]: [daemon.info] Process killed due to out-of-memory
+Nov 12 01:22:06 router1 kernel[6072]: [daemon.debug] Connection closed by 192.168.1.3 port 80
+Nov 12 02:35:32 server2 sshd[4948]: [auth.err] User logged in
+Nov 12 00:13:27 switch1 smtp[6411]: [mail.warning] VPN connection established
+Nov 12 01:01:11 router1 dhcpd[5176]: [auth.alert] Disk quota exceeded
+Nov 12 07:51:05 server2 nginx[9059]: [auth.notice] Backup completed successfully
+Nov 12 01:53:39 firewall1 dhcpd[7957]: [cron.alert] Firewall rule updated
+Nov 12 06:56:19 server1 cron[8115]: [kern.emerg] Database connection failed
+Nov 12 01:40:22 server1 systemd[7587]: [user.err] Accepted password for user from 192.168.1.1 port 22 ssh2
+Nov 12 06:01:58 firewall1 cron[6039]: [auth.emerg] Service crashed unexpectedly
+Nov 12 03:51:11 firewall1 smtp[8042]: [auth.err] Disk usage exceeded threshold
+Nov 12 04:43:02 firewall1 sshd[5682]: [kern.warning] Backup completed successfully
+Nov 12 05:09:44 server1 kernel[8978]: [kern.emerg] Accepted password for user from 192.168.1.1 port 22 ssh2
+Nov 12 05:05:51 firewall1 cron[8065]: [mail.warning] Disk quota exceeded
+Nov 12 11:04:44 server1 dhcpd[6119]: [kern.info] User added to group
+Nov 12 06:37:04 server1 nginx[3568]: [kern.emerg] High CPU usage detected
+Nov 12 02:03:26 server2 kernel[8940]: [auth.emerg] New USB device connected
+Nov 12 00:57:13 switch1 cron[1877]: [kern.emerg] Multiple failed login attempts detected
+Nov 12 07:03:45 switch1 sshd[4448]: [mail.warning] High CPU usage detected
+Nov 12 03:36:20 router1 kernel[6770]: [user.info] Database connection failed
+Nov 12 08:05:06 router1 systemd[3570]: [user.emerg] IP address conflict detected
+Nov 12 09:25:08 server1 sshd[4182]: [mail.info] Session expired for user
+Nov 12 07:51:33 server1 dhcpd[8447]: [syslog.info] Network interface restarted
+Nov 12 04:56:30 firewall1 smtp[5487]: [mail.info] User added to group
+Nov 12 04:03:04 server1 smtp[9756]: [daemon.crit] Shutting down system
+Nov 12 00:16:09 server1 systemd[8002]: [mail.err] New device connected to network
+Nov 12 09:06:27 server1 kernel[8058]: [user.err] Failed password for invalid user admin from 192.168.1.2 port 22 ssh2
+Nov 12 02:26:34 router1 dhcpd[7467]: [kern.info] Network interface restarted
+Nov 12 00:58:49 server2 cron[5892]: [mail.err] Reboot required to apply updates
+Nov 12 09:51:29 server2 cron[1775]: [daemon.emerg] Firewall rule updated
+Nov 12 01:31:40 router1 systemd[7102]: [auth.warning] Disk usage exceeded threshold
+Nov 12 02:04:34 router1 sshd[6474]: [daemon.alert] New USB device connected
+Nov 12 04:11:10 router1 smtp[4875]: [daemon.debug] New device connected to network
+Nov 12 06:41:59 server2 kernel[2895]: [cron.info] Unrecognized device detected on network
+Nov 12 06:40:56 switch1 systemd[1792]: [user.alert] Filesystem check completed
+Nov 12 10:24:04 router1 cron[1977]: [cron.emerg] IP address conflict detected
+Nov 12 00:17:01 server2 kernel[7965]: [cron.warning] Service crashed unexpectedly
+Nov 12 03:37:38 server1 cron[9738]: [syslog.alert] Network interface restarted
+Nov 12 10:23:53 router1 kernel[4297]: [mail.warning] Firewall rule updated
+Nov 12 06:56:23 server2 sshd[2057]: [auth.notice] Disk quota exceeded
+Nov 12 06:20:56 firewall1 kernel[4207]: [daemon.debug] Error reading configuration file
+Nov 12 08:18:30 router1 systemd[1277]: [mail.info] New USB device connected
+Nov 12 01:57:18 router1 sshd[4228]: [daemon.emerg] Database connection failed
+Nov 12 04:46:39 router1 nginx[1828]: [auth.crit] Error reading configuration file
+Nov 12 06:50:40 router1 kernel[6368]: [cron.emerg] Unauthorized access attempt detected
+Nov 12 10:03:26 server1 sshd[8488]: [auth.err] User logged out
+Nov 12 05:49:03 firewall1 smtp[5196]: [auth.notice] Database connection failed
+Nov 12 09:28:43 router1 nginx[7476]: [user.notice] Starting system reboot
+Nov 12 01:12:50 firewall1 sshd[3971]: [auth.emerg] Shutting down system
+Nov 12 03:29:43 switch1 cron[2317]: [user.warning] New USB device connected
+Nov 12 10:33:55 router1 sshd[3770]: [mail.warning] Low memory warning
+Nov 12 06:02:35 server2 kernel[2439]: [user.warning] Unexpected shutdown of system
+Nov 12 02:44:08 switch1 kernel[4320]: [mail.err] IP address conflict detected
+Nov 12 10:31:27 switch1 cron[9472]: [user.info] Service configuration updated
+Nov 12 09:06:43 switch1 cron[2637]: [kern.alert] Backup completed successfully
+Nov 12 04:04:24 server2 kernel[3269]: [auth.warning] Disk quota exceeded
+Nov 12 08:15:46 router1 cron[5401]: [cron.err] New software update available
+Nov 12 11:20:23 switch1 dhcpd[4822]: [cron.crit] User added to group
+Nov 12 02:46:41 switch1 nginx[3077]: [mail.emerg] Invalid login attempt
+Nov 12 09:12:14 switch1 dhcpd[3635]: [cron.warning] Network interface restarted
+Nov 12 00:30:59 server1 kernel[5445]: [user.crit] Error reading configuration file
+Nov 12 04:55:01 server2 cron[9332]: [daemon.debug] New admin account created
+Nov 12 06:04:15 server1 kernel[7244]: [syslog.notice] Attempted login with expired password
+Nov 12 03:17:44 server2 sshd[1147]: [mail.debug] New admin account created
+Nov 12 03:05:42 firewall1 systemd[3365]: [user.info] Unrecognized device detected on network
+Nov 12 06:17:16 firewall1 nginx[3356]: [user.debug] Attempted login with expired password
+Nov 12 10:48:01 server2 nginx[6900]: [daemon.alert] Accepted password for user from 192.168.1.1 port 22 ssh2
+Nov 12 00:16:33 router1 kernel[1055]: [kern.debug] New USB device connected
+Nov 12 04:36:26 switch1 cron[7752]: [kern.notice] Reboot required to apply updates
+Nov 12 06:57:42 switch1 sshd[5088]: [daemon.warning] New USB device connected
+Nov 12 10:59:57 router1 cron[6289]: [kern.err] Service restarted successfully
+Nov 12 03:32:39 switch1 dhcpd[8924]: [cron.notice] System clock synchronized
+Nov 12 05:22:49 server1 sshd[6973]: [syslog.crit] System clock synchronized
+Nov 12 06:37:47 server2 sshd[1427]: [cron.err] User logged out
+Nov 12 08:06:07 router1 kernel[3637]: [mail.emerg] RAID array degraded
+Nov 12 07:56:21 router1 kernel[3461]: [user.emerg] Update applied successfully
+Nov 12 04:59:12 router1 kernel[3981]: [kern.emerg] Accepted password for user from 192.168.1.1 port 22 ssh2
+Nov 12 01:57:57 switch1 nginx[1047]: [daemon.alert] Backup completed successfully
+Nov 12 02:10:32 router1 cron[2052]: [cron.alert] Disk usage exceeded threshold
+Nov 12 11:15:22 firewall1 cron[9852]: [auth.warning] Accepted password for user from 192.168.1.1 port 22 ssh2
+Nov 12 02:54:58 router1 systemd[4569]: [auth.debug] Network interface restarted
+Nov 12 01:19:05 switch1 smtp[1117]: [kern.err] IP address conflict detected
+Nov 12 11:18:38 server1 sshd[8043]: [syslog.info] Session expired for user
+Nov 12 02:16:52 firewall1 nginx[4297]: [syslog.warning] VPN connection disconnected
+Nov 12 00:53:06 firewall1 smtp[2970]: [kern.alert] Invalid login attempt
+Nov 12 10:48:32 firewall1 sshd[8711]: [mail.info] Process killed due to out-of-memory
+Nov 12 02:59:59 firewall1 sshd[7766]: [cron.warning] New device connected to network
+Nov 12 11:33:15 server2 nginx[6060]: [cron.info] Unauthorized access attempt detected
+Nov 12 10:05:16 server2 cron[3421]: [syslog.debug] Filesystem check completed
+Nov 12 06:39:37 switch1 cron[7267]: [mail.warning] Invalid login attempt
+Nov 12 02:11:50 router1 dhcpd[4094]: [kern.warning] User logged in
+Nov 12 03:03:49 switch1 cron[4158]: [mail.info] VPN connection established
+Nov 12 06:34:27 router1 kernel[1579]: [auth.warning] IP address conflict detected
+Nov 12 02:14:55 switch1 sshd[8051]: [auth.emerg] VPN connection disconnected
+Nov 12 10:24:12 server1 dhcpd[6761]: [auth.emerg] Unexpected shutdown of system
+Nov 12 07:10:43 server2 nginx[4690]: [syslog.err] User added to group
+Nov 12 06:36:57 server1 sshd[8984]: [kern.crit] VPN connection established
+Nov 12 00:24:20 firewall1 nginx[3220]: [daemon.err] Error reading configuration file
+Nov 12 03:59:19 router1 nginx[2584]: [syslog.debug] Network interface restarted
+Nov 12 04:46:49 server1 nginx[5023]: [user.warning] Unrecognized device detected on network
+Nov 12 03:37:08 server2 nginx[5771]: [kern.info] Accepted password for user from 192.168.1.1 port 22 ssh2
+Nov 12 08:25:32 switch1 kernel[9501]: [kern.debug] RAID array degraded
+Nov 12 07:10:03 switch1 systemd[2156]: [syslog.warning] Service restarted successfully
+Nov 12 03:10:48 switch1 cron[6596]: [daemon.warning] Disk usage exceeded threshold
+Nov 12 04:12:48 switch1 cron[2256]: [cron.emerg] Database connection failed
+Nov 12 05:27:12 server2 smtp[4314]: [mail.emerg] VPN connection established
+Nov 12 00:09:44 server2 cron[1176]: [cron.emerg] RAID array degraded
+Nov 12 01:37:08 router1 cron[1330]: [kern.crit] Firewall rule applied successfully
+Nov 12 08:37:51 server1 sshd[6879]: [user.emerg] VPN connection established
+Nov 12 03:07:08 server2 smtp[5149]: [daemon.alert] Service configuration updated
+Nov 12 01:41:06 firewall1 cron[7486]: [syslog.alert] Reboot required to apply updates
+Nov 12 04:18:40 server2 smtp[3465]: [user.warning] New software update available
+Nov 12 08:27:18 firewall1 sshd[9322]: [syslog.alert] Update applied successfully
+Nov 12 03:39:56 server1 nginx[1488]: [cron.info] Invalid login attempt
+Nov 12 00:07:13 server2 kernel[7188]: [syslog.crit] Unrecognized device detected on network
+Nov 12 08:58:30 router1 sshd[9459]: [mail.crit] Unauthorized access attempt detected
+Nov 12 06:38:31 server1 dhcpd[1717]: [kern.debug] Firewall rule applied successfully
+Nov 12 01:12:08 server1 smtp[1057]: [auth.emerg] Filesystem check completed
+Nov 12 03:35:40 router1 cron[5168]: [auth.alert] Firewall rule updated
+Nov 12 00:41:40 server1 kernel[1520]: [auth.notice] High CPU usage detected
+Nov 12 10:12:48 firewall1 nginx[6684]: [cron.warning] New admin account created
+Nov 12 00:44:46 switch1 cron[5083]: [daemon.err] New admin account created
+Nov 12 09:46:55 switch1 nginx[7423]: [daemon.warning] Session expired for user
+Nov 12 11:22:55 server1 kernel[2306]: [auth.crit] Reboot required to apply updates
+Nov 12 04:52:56 switch1 smtp[4053]: [cron.debug] Multiple failed login attempts detected
+Nov 12 01:21:34 firewall1 kernel[2982]: [syslog.info] Service restarted successfully
+Nov 12 04:48:05 router1 sshd[4314]: [cron.notice] Error reading configuration file
+Nov 12 08:09:46 firewall1 cron[2358]: [cron.info] Starting system reboot
+Nov 12 04:49:42 router1 kernel[7580]: [mail.debug] Unexpected shutdown of system
+Nov 12 03:11:15 router1 cron[1137]: [mail.warning] Update applied successfully
+Nov 12 04:46:59 firewall1 sshd[1836]: [mail.crit] Disk usage exceeded threshold
+Nov 12 07:14:52 server1 sshd[7153]: [auth.warning] IP address conflict detected
+Nov 12 00:05:45 firewall1 smtp[5976]: [user.info] Accepted password for user from 192.168.1.1 port 22 ssh2
+Nov 12 10:04:15 server1 kernel[4505]: [mail.emerg] New software update available
+Nov 12 07:55:25 server2 dhcpd[9299]: [cron.err] Update applied successfully
+Nov 12 02:22:46 firewall1 systemd[3659]: [user.err] New admin account created
+Nov 12 05:37:28 router1 cron[6408]: [syslog.debug] Starting system reboot
+Nov 12 08:22:04 server1 nginx[4153]: [daemon.notice] Service crashed unexpectedly
+Nov 12 00:08:03 server1 systemd[7068]: [mail.emerg] Invalid login attempt
+Nov 12 01:56:12 server2 systemd[1418]: [daemon.notice] Unrecognized device detected on network
+Nov 12 10:59:26 router1 systemd[9461]: [user.warning] Starting system reboot
+Nov 12 09:05:25 firewall1 sshd[8040]: [syslog.debug] Firewall rule applied successfully
+Nov 12 05:13:08 firewall1 smtp[4239]: [kern.warning] Unrecognized device detected on network
+Nov 12 07:49:07 server2 smtp[6711]: [cron.info] Service configuration updated
+Nov 12 10:36:11 server2 smtp[1988]: [auth.crit] Connection closed by 192.168.1.3 port 80
+Nov 12 04:17:27 server2 systemd[5115]: [auth.info] Shutting down system
+Nov 12 01:00:35 server2 sshd[2389]: [kern.crit] Critical system process failed
+Nov 12 07:28:56 switch1 cron[2135]: [auth.notice] Firewall rule applied successfully
+Nov 12 03:19:53 server1 kernel[3451]: [auth.emerg] High CPU usage detected
+Nov 12 09:30:45 server2 dhcpd[3777]: [syslog.notice] Error reading configuration file
+Nov 12 11:26:59 router1 smtp[8405]: [daemon.debug] Error reading configuration file
+Nov 12 06:31:04 firewall1 dhcpd[1812]: [daemon.crit] Disk quota exceeded
+Nov 12 09:42:37 switch1 kernel[6847]: [daemon.debug] New USB device connected
+Nov 12 10:54:56 server1 smtp[9790]: [auth.crit] New software update available
+Nov 12 10:27:09 server2 smtp[9250]: [mail.emerg] RAID array degraded
+Nov 12 09:33:41 server1 systemd[4501]: [syslog.notice] Backup completed successfully
+Nov 12 10:22:50 server2 smtp[7458]: [kern.err] Shutting down system
+Nov 12 02:33:08 switch1 sshd[8196]: [daemon.crit] Disk usage exceeded threshold
+Nov 12 10:01:27 server1 dhcpd[8820]: [auth.info] New device connected to network
+Nov 12 02:03:15 router1 dhcpd[2954]: [user.alert] RAID array degraded
+Nov 12 07:28:54 switch1 dhcpd[1240]: [syslog.emerg] Disk quota exceeded
+Nov 12 09:55:27 server1 sshd[5776]: [syslog.crit] Disk quota exceeded
+Nov 12 01:06:23 server2 sshd[4422]: [syslog.alert] New software update available
+Nov 12 05:33:50 server1 systemd[9363]: [daemon.warning] User logged in
+Nov 12 06:24:54 firewall1 nginx[2252]: [auth.warning] Firewall rule applied successfully
+Nov 12 05:57:28 server1 systemd[5027]: [auth.err] Failed password for invalid user admin from 192.168.1.2 port 22 ssh2
+Nov 12 10:05:26 server1 systemd[8582]: [kern.notice] New admin account created
+Nov 12 03:37:17 server2 dhcpd[3159]: [daemon.alert] VPN connection established
+Nov 12 08:05:39 firewall1 nginx[6257]: [cron.crit] Disk quota exceeded
+Nov 12 00:23:49 server1 cron[3704]: [kern.info] Critical system process failed
+Nov 12 05:34:13 firewall1 systemd[5750]: [syslog.emerg] VPN connection established
+Nov 12 08:45:35 server1 sshd[4987]: [auth.crit] Process killed due to out-of-memory
+Nov 12 09:25:08 server1 kernel[9780]: [kern.debug] Reboot required to apply updates
+Nov 12 07:23:57 switch1 systemd[4672]: [mail.warning] New device connected to network
+Nov 12 07:58:23 firewall1 kernel[6260]: [auth.alert] New software update available
+Nov 12 02:54:30 server2 nginx[8571]: [daemon.debug] Reboot required to apply updates
+Nov 12 02:46:48 server2 smtp[2694]: [cron.alert] System clock synchronized
+Nov 12 10:50:03 switch1 cron[4599]: [daemon.notice] Unexpected shutdown of system
+Nov 12 08:01:30 router1 nginx[8747]: [auth.notice] Attempted login with expired password
+Nov 12 00:17:11 switch1 kernel[4696]: [cron.err] Connection closed by 192.168.1.3 port 80
+Nov 12 02:18:28 router1 kernel[7702]: [daemon.crit] New software update available
+Nov 12 11:00:07 server1 nginx[9954]: [auth.alert] New software update available
+Nov 12 05:36:12 server2 systemd[7134]: [syslog.alert] Unusual login pattern detected
+Nov 12 11:42:28 server1 cron[2807]: [user.emerg] Starting system reboot
+Nov 12 02:35:43 router1 sshd[6682]: [kern.warning] Attempted login with expired password
+Nov 12 06:53:56 server2 cron[4231]: [daemon.info] Disk usage exceeded threshold
+Nov 12 07:46:49 server1 sshd[4640]: [user.crit] Filesystem check completed
+Nov 12 10:01:58 switch1 sshd[5684]: [cron.info] Disk quota exceeded
+Nov 12 02:11:05 server2 dhcpd[5875]: [auth.crit] Service restarted successfully
+Nov 12 06:14:22 server2 nginx[9924]: [syslog.warning] Multiple failed login attempts detected
+Nov 12 05:35:05 switch1 sshd[1998]: [daemon.err] Unrecognized device detected on network
+Nov 12 11:01:51 server1 sshd[8518]: [user.debug] Unrecognized device detected on network
+Nov 12 02:36:15 server2 smtp[1222]: [cron.notice] Multiple failed login attempts detected
+Nov 12 09:27:28 server2 smtp[5671]: [mail.err] Unusual login pattern detected
+Nov 12 10:36:50 server2 smtp[9515]: [mail.warning] VPN connection disconnected
+Nov 12 06:40:53 server1 sshd[2653]: [daemon.debug] Reboot required to apply updates
+Nov 12 10:40:01 firewall1 smtp[8148]: [syslog.info] Unrecognized device detected on network
+Nov 12 08:04:46 switch1 sshd[8748]: [auth.notice] High CPU usage detected
+Nov 12 01:07:29 server1 systemd[4504]: [kern.info] Update applied successfully
+Nov 12 03:08:15 server2 kernel[1473]: [user.debug] Unexpected shutdown of system
+Nov 12 08:05:56 switch1 systemd[1684]: [auth.debug] Unusual login pattern detected
+Nov 12 08:36:14 firewall1 sshd[3014]: [cron.debug] Reboot required to apply updates
+Nov 12 08:37:43 switch1 smtp[8763]: [user.alert] Session expired for user
+Nov 12 04:02:50 firewall1 dhcpd[4779]: [auth.info] High CPU usage detected
+Nov 12 02:39:03 server2 dhcpd[1758]: [auth.warning] Unusual login pattern detected
+Nov 12 03:36:13 server1 dhcpd[8785]: [daemon.notice] Disk usage exceeded threshold
+Nov 12 06:16:49 firewall1 systemd[7791]: [auth.err] Process killed due to out-of-memory
+Nov 12 02:45:22 server1 kernel[2274]: [syslog.notice] Unauthorized access attempt detected
+Nov 12 06:26:20 server2 dhcpd[6884]: [syslog.debug] VPN connection disconnected
+Nov 12 00:07:05 router1 smtp[5037]: [daemon.debug] Filesystem check completed
+Nov 12 08:33:24 switch1 smtp[3930]: [cron.crit] Failed password for invalid user admin from 192.168.1.2 port 22 ssh2
+Nov 12 10:47:56 server1 cron[4041]: [user.info] Network interface restarted
+Nov 12 03:49:13 router1 smtp[9081]: [daemon.debug] New USB device connected
+Nov 12 06:33:47 switch1 dhcpd[5410]: [kern.emerg] Process killed due to out-of-memory
+Nov 12 01:18:55 server2 systemd[9843]: [kern.notice] Service configuration updated
+Nov 12 00:52:51 firewall1 sshd[3823]: [kern.emerg] Error reading configuration file
+Nov 12 05:48:05 server1 systemd[8271]: [syslog.notice] New USB device connected
+Nov 12 01:53:25 server2 smtp[3158]: [user.warning] Filesystem check completed
+Nov 12 11:36:09 router1 kernel[6163]: [syslog.emerg] Network interface restarted
+Nov 12 05:17:34 server2 dhcpd[7774]: [daemon.warning] Firewall rule applied successfully
+Nov 12 11:15:17 router1 nginx[6440]: [cron.info] Disk usage exceeded threshold
+Nov 12 03:35:25 server2 sshd[4343]: [syslog.info] High CPU usage detected
+Nov 12 09:44:01 firewall1 smtp[7073]: [daemon.alert] New software update available
+Nov 12 03:08:48 router1 dhcpd[1283]: [syslog.err] Database connection failed
+Nov 12 08:33:30 firewall1 smtp[1392]: [cron.debug] New USB device connected
+Nov 12 09:58:54 router1 dhcpd[9396]: [auth.warning] Error reading configuration file
+Nov 12 09:47:02 server1 nginx[6499]: [syslog.notice] VPN connection established
+Nov 12 09:31:08 switch1 dhcpd[6063]: [cron.info] Service crashed unexpectedly
+Nov 12 09:06:54 router1 sshd[1931]: [auth.info] Shutting down system
+Nov 12 10:39:21 server2 systemd[6493]: [mail.debug] New USB device connected
+Nov 12 04:45:01 server1 smtp[9194]: [cron.notice] Disk usage exceeded threshold
+Nov 12 04:31:38 router1 kernel[9353]: [cron.alert] Critical system process failed
+Nov 12 07:28:37 server1 systemd[9056]: [auth.info] New device connected to network
+Nov 12 09:51:10 server2 sshd[3656]: [syslog.crit] Unrecognized device detected on network
+Nov 12 08:11:43 firewall1 kernel[2374]: [kern.debug] Service restarted successfully
+Nov 12 09:38:06 server1 cron[2967]: [cron.alert] High CPU usage detected
+Nov 12 07:50:55 switch1 smtp[8310]: [syslog.emerg] Session expired for user
+Nov 12 07:01:47 switch1 cron[3981]: [mail.info] Session expired for user
+Nov 12 10:56:10 firewall1 systemd[8437]: [auth.notice] Disk quota exceeded
+Nov 12 00:17:03 server2 smtp[3892]: [mail.emerg] Database connection failed
+Nov 12 09:22:53 server2 cron[4831]: [syslog.debug] Unexpected shutdown of system
+Nov 12 07:16:28 server1 kernel[1959]: [syslog.err] Database connection failed
+Nov 12 06:05:03 server1 cron[2160]: [cron.debug] Accepted password for user from 192.168.1.1 port 22 ssh2
+Nov 12 08:18:29 server1 nginx[9230]: [kern.notice] Low memory warning
+Nov 12 11:26:21 server2 sshd[9978]: [kern.debug] User logged in
+Nov 12 05:22:14 firewall1 cron[3570]: [cron.info] User logged in
+Nov 12 03:28:55 switch1 smtp[7992]: [user.info] VPN connection established
+Nov 12 04:20:23 router1 nginx[1037]: [mail.notice] User logged in
+Nov 12 06:35:10 firewall1 systemd[9725]: [cron.warning] Attempted login with expired password
+Nov 12 07:36:08 server2 systemd[4837]: [auth.debug] Unauthorized access attempt detected
+Nov 12 01:20:31 switch1 kernel[6993]: [user.alert] Error reading configuration file
+Nov 12 03:11:46 server2 dhcpd[8754]: [mail.alert] Multiple failed login attempts detected
+Nov 12 08:38:10 server1 sshd[8602]: [daemon.err] RAID array degraded
+Nov 12 05:26:15 server2 nginx[7921]: [daemon.info] Process killed due to out-of-memory
+Nov 12 06:41:23 firewall1 cron[3457]: [syslog.debug] User logged out
+Nov 12 00:44:28 router1 kernel[1843]: [auth.alert] New device connected to network
+Nov 12 05:10:18 server2 smtp[2822]: [kern.warning] VPN connection disconnected
+Nov 12 09:05:05 switch1 cron[1405]: [cron.crit] User logged out
+Nov 12 08:01:53 switch1 kernel[6452]: [user.alert] New USB device connected
+Nov 12 08:23:21 router1 kernel[2042]: [mail.notice] Service crashed unexpectedly
+Nov 12 03:51:35 switch1 dhcpd[4344]: [daemon.alert] High CPU usage detected
+Nov 12 02:49:55 firewall1 kernel[1475]: [mail.info] Unauthorized access attempt detected
+Nov 12 02:26:50 server2 kernel[3677]: [user.err] New software update available
+Nov 12 11:16:18 firewall1 systemd[3226]: [mail.debug] Starting system reboot
+Nov 12 00:35:19 firewall1 systemd[5510]: [user.emerg] System clock synchronized
+Nov 12 01:37:28 server2 kernel[1392]: [kern.debug] VPN connection established
+Nov 12 11:32:22 router1 sshd[5831]: [syslog.alert] Connection closed by 192.168.1.3 port 80
+Nov 12 02:40:40 firewall1 sshd[3855]: [mail.debug] User logged out
+Nov 12 05:18:44 server2 smtp[5633]: [user.err] Backup completed successfully
+Nov 12 04:59:10 server1 cron[7374]: [user.notice] New USB device connected
+Nov 12 10:28:01 server1 cron[3864]: [syslog.info] Backup completed successfully
+Nov 12 03:01:56 server2 systemd[8302]: [mail.alert] User added to group
+Nov 12 02:48:04 router1 kernel[9737]: [user.crit] Disk quota exceeded
+Nov 12 02:06:14 router1 cron[5630]: [cron.crit] Update applied successfully
+Nov 12 06:25:01 firewall1 dhcpd[4277]: [daemon.alert] User added to group
+Nov 12 02:13:22 firewall1 dhcpd[7073]: [syslog.warning] Reboot required to apply updates
+Nov 12 09:52:29 server2 sshd[2507]: [kern.emerg] Starting system reboot
+Nov 12 09:55:40 firewall1 kernel[3951]: [daemon.err] Failed password for invalid user admin from 192.168.1.2 port 22 ssh2
+Nov 12 07:01:28 server1 sshd[4785]: [mail.alert] Firewall rule updated
+Nov 12 07:13:48 router1 nginx[8550]: [auth.debug] Process killed due to out-of-memory
+Nov 12 04:17:09 firewall1 kernel[5355]: [daemon.err] Unusual login pattern detected
+Nov 12 05:44:47 server1 smtp[9241]: [user.emerg] Session expired for user
+Nov 12 01:26:03 firewall1 dhcpd[1522]: [cron.notice] Backup completed successfully
+Nov 12 03:11:57 switch1 nginx[5180]: [user.crit] Unrecognized device detected on network
+Nov 12 07:19:06 server1 dhcpd[4326]: [mail.debug] VPN connection disconnected
+Nov 12 01:33:47 router1 systemd[3130]: [mail.debug] System clock synchronized
+Nov 12 06:44:45 server1 dhcpd[7322]: [kern.emerg] Service crashed unexpectedly
+Nov 12 03:16:03 router1 cron[5689]: [kern.crit] Starting system reboot
+Nov 12 09:10:42 server2 systemd[3516]: [auth.alert] Database connection failed
+Nov 12 07:10:06 router1 cron[7607]: [kern.info] Network interface restarted
+Nov 12 08:56:16 server1 kernel[9715]: [user.debug] Starting system reboot
+Nov 12 10:13:14 server2 smtp[9973]: [mail.info] Error reading configuration file
+Nov 12 06:18:07 firewall1 cron[8913]: [user.emerg] Failed password for invalid user admin from 192.168.1.2 port 22 ssh2
+Nov 12 00:49:58 switch1 nginx[4724]: [mail.info] Database connection failed
+Nov 12 05:36:49 router1 cron[6259]: [cron.emerg] Error reading configuration file
+Nov 12 03:52:38 firewall1 smtp[1177]: [daemon.info] Process killed due to out-of-memory
+Nov 12 04:34:11 firewall1 cron[6625]: [auth.notice] Shutting down system
+Nov 12 01:18:56 router1 kernel[3741]: [user.debug] Attempted login with expired password
+Nov 12 00:42:50 server1 cron[6314]: [mail.crit] IP address conflict detected
+Nov 12 04:54:06 switch1 systemd[5877]: [cron.err] High CPU usage detected
+Nov 12 04:00:50 server2 cron[2546]: [daemon.debug] Service configuration updated
+Nov 12 08:52:22 server2 nginx[8779]: [cron.alert] Invalid login attempt
+Nov 12 10:30:43 switch1 smtp[4401]: [auth.warning] Invalid login attempt
+Nov 12 05:22:37 server2 dhcpd[7778]: [syslog.crit] Connection closed by 192.168.1.3 port 80
+Nov 12 07:20:19 switch1 cron[8956]: [daemon.warning] Reboot required to apply updates
+Nov 12 07:54:24 server2 kernel[5400]: [daemon.alert] Firewall rule updated
+Nov 12 07:28:18 server1 dhcpd[7974]: [syslog.notice] Unauthorized access attempt detected
+Nov 12 08:47:33 server2 smtp[9993]: [kern.info] New device connected to network
+Nov 12 03:24:26 switch1 dhcpd[1975]: [user.alert] VPN connection disconnected
+Nov 12 10:03:06 router1 smtp[2568]: [kern.info] Unusual login pattern detected
+Nov 12 07:48:32 switch1 dhcpd[1294]: [mail.alert] Invalid login attempt
+Nov 12 03:09:02 router1 smtp[8067]: [daemon.alert] VPN connection established
+Nov 12 00:01:32 router1 kernel[3517]: [daemon.debug] Accepted password for user from 192.168.1.1 port 22 ssh2
+Nov 12 01:19:29 server1 sshd[4663]: [syslog.warning] New USB device connected
+Nov 12 01:47:07 firewall1 systemd[3837]: [cron.alert] Attempted login with expired password
+Nov 12 06:29:33 firewall1 nginx[9071]: [cron.emerg] Filesystem check completed
+Nov 12 02:48:37 server1 dhcpd[4070]: [mail.debug] Database connection failed
+Nov 12 04:04:35 router1 sshd[1867]: [daemon.debug] Process killed due to out-of-memory
+Nov 12 08:52:13 switch1 systemd[3197]: [kern.warning] VPN connection disconnected
+Nov 12 02:33:54 firewall1 nginx[3599]: [syslog.alert] Reboot required to apply updates
+Nov 12 02:49:00 server1 kernel[9160]: [syslog.info] New device connected to network
+Nov 12 03:30:58 router1 dhcpd[8205]: [cron.crit] RAID array degraded
+Nov 12 06:59:59 firewall1 cron[3747]: [mail.debug] New software update available
+Nov 12 04:08:18 router1 kernel[4445]: [user.info] Disk usage exceeded threshold
+Nov 12 09:17:37 firewall1 kernel[2280]: [mail.err] Network interface restarted
+Nov 12 00:49:21 router1 dhcpd[6471]: [kern.notice] Network interface restarted
+Nov 12 02:54:52 server2 systemd[7443]: [auth.crit] Firewall rule applied successfully
+Nov 12 07:35:49 server1 systemd[2630]: [user.notice] Process killed due to out-of-memory
+Nov 12 07:37:20 router1 sshd[1453]: [daemon.alert] New software update available
+Nov 12 02:27:19 server2 systemd[2832]: [user.info] Service configuration updated
+Nov 12 02:00:22 firewall1 systemd[2521]: [daemon.alert] Database connection failed
+Nov 12 11:28:09 switch1 systemd[9864]: [daemon.crit] Database connection failed
+Nov 12 06:49:33 firewall1 dhcpd[6015]: [daemon.debug] Firewall rule updated
+Nov 12 06:32:03 switch1 sshd[5713]: [kern.warning] RAID array degraded
+Nov 12 06:15:09 switch1 systemd[3400]: [cron.err] New device connected to network
+Nov 12 10:53:24 router1 sshd[1027]: [auth.warning] Connection closed by 192.168.1.3 port 80
+Nov 12 05:07:36 server2 cron[4121]: [daemon.debug] Low memory warning
+Nov 12 09:09:57 server1 smtp[7050]: [auth.emerg] New device connected to network
+Nov 12 09:41:07 server1 kernel[2749]: [auth.warning] Invalid login attempt
+Nov 12 10:16:25 firewall1 cron[9274]: [kern.info] VPN connection established
+Nov 12 09:06:26 router1 smtp[3294]: [user.crit] Starting system reboot
+Nov 12 05:06:20 switch1 dhcpd[3559]: [auth.err] Filesystem check completed
+Nov 12 07:21:58 server2 nginx[1235]: [daemon.err] Filesystem check completed
+Nov 12 02:43:22 firewall1 sshd[9522]: [syslog.err] Failed password for invalid user admin from 192.168.1.2 port 22 ssh2
+Nov 12 11:03:49 server2 cron[9298]: [cron.crit] Failed password for invalid user admin from 192.168.1.2 port 22 ssh2
+Nov 12 11:35:55 firewall1 nginx[3386]: [auth.notice] Firewall rule updated
+Nov 12 02:44:54 firewall1 smtp[8797]: [auth.emerg] VPN connection disconnected
+Nov 12 02:23:53 switch1 systemd[5131]: [syslog.debug] Error reading configuration file
+Nov 12 02:34:55 switch1 cron[8581]: [daemon.crit] Multiple failed login attempts detected
+Nov 12 03:36:52 server1 systemd[4114]: [mail.alert] Process killed due to out-of-memory
+Nov 12 10:43:23 switch1 nginx[8732]: [syslog.notice] User logged in
+Nov 12 07:39:21 switch1 nginx[1837]: [daemon.debug] Invalid login attempt
+Nov 12 09:01:02 firewall1 systemd[9420]: [auth.info] Connection closed by 192.168.1.3 port 80
+Nov 12 11:32:04 firewall1 kernel[9135]: [kern.emerg] User logged in
+Nov 12 08:25:17 server1 sshd[9398]: [daemon.alert] Filesystem check completed
+Nov 12 05:32:36 server2 nginx[1622]: [user.emerg] User logged out
+Nov 12 02:40:38 server1 kernel[3628]: [kern.debug] Failed password for invalid user admin from 192.168.1.2 port 22 ssh2
+Nov 12 02:49:51 switch1 sshd[8368]: [kern.crit] Firewall rule updated
+Nov 12 04:11:21 router1 sshd[5477]: [user.notice] Unusual login pattern detected
+Nov 12 08:05:49 firewall1 kernel[3282]: [syslog.alert] Firewall rule applied successfully
+Nov 12 00:01:56 server2 dhcpd[5886]: [kern.emerg] Critical system process failed
+Nov 12 11:13:19 firewall1 sshd[6198]: [kern.err] Database connection failed
+Nov 12 06:47:19 server2 systemd[3127]: [mail.warning] New device connected to network
+Nov 12 09:01:29 server2 systemd[1617]: [kern.warning] Process killed due to out-of-memory
+Nov 12 07:59:06 switch1 nginx[5802]: [user.notice] Unexpected shutdown of system
+Nov 12 06:11:58 router1 kernel[8192]: [cron.err] Disk quota exceeded
+Nov 12 03:08:01 server2 smtp[7156]: [syslog.alert] Disk quota exceeded
+Nov 12 00:03:48 server2 systemd[3077]: [syslog.notice] New device connected to network
+Nov 12 06:17:05 server2 cron[4138]: [kern.alert] System clock synchronized
+Nov 12 03:57:18 router1 kernel[2546]: [cron.debug] Unexpected shutdown of system
+Nov 12 00:33:36 switch1 kernel[5419]: [cron.err] Network interface restarted
+Nov 12 03:28:38 server1 systemd[4408]: [syslog.info] Disk quota exceeded
+Nov 12 01:14:49 server1 dhcpd[1984]: [syslog.alert] Service configuration updated
+Nov 12 07:18:05 server2 smtp[5439]: [mail.emerg] New USB device connected
+Nov 12 11:03:49 switch1 sshd[4091]: [user.emerg] Network interface restarted
+Nov 12 08:46:17 router1 kernel[4146]: [auth.warning] Unusual login pattern detected
+Nov 12 07:51:56 server1 smtp[5727]: [user.debug] New admin account created
+Nov 12 11:45:14 router1 kernel[8451]: [auth.debug] RAID array degraded
+Nov 12 09:40:41 switch1 smtp[2217]: [daemon.info] Database connection failed
+Nov 12 11:27:22 firewall1 kernel[3136]: [kern.debug] Unexpected shutdown of system
+Nov 12 03:24:23 server1 sshd[4588]: [cron.info] Reboot required to apply updates
+Nov 12 10:57:49 firewall1 sshd[8068]: [auth.alert] VPN connection disconnected
+Nov 12 09:47:06 server1 cron[1122]: [daemon.notice] Service configuration updated
+Nov 12 03:14:20 switch1 sshd[5610]: [kern.alert] Accepted password for user from 192.168.1.1 port 22 ssh2
+Nov 12 00:09:48 firewall1 cron[9955]: [syslog.debug] High CPU usage detected
+Nov 12 01:13:16 router1 cron[7168]: [user.debug] Failed password for invalid user admin from 192.168.1.2 port 22 ssh2
+Nov 12 00:45:46 firewall1 systemd[8694]: [daemon.err] New device connected to network
+Nov 12 08:00:19 router1 sshd[6820]: [kern.err] Shutting down system
+Nov 12 02:40:28 firewall1 dhcpd[8942]: [user.emerg] VPN connection established
+Nov 12 07:26:27 router1 sshd[4950]: [daemon.notice] Reboot required to apply updates
+Nov 12 00:04:55 server1 dhcpd[3104]: [user.emerg] Disk usage exceeded threshold
+Nov 12 08:57:03 server1 smtp[6234]: [kern.crit] New admin account created
+Nov 12 05:36:03 switch1 nginx[6307]: [syslog.crit] System clock synchronized
+Nov 12 05:52:13 router1 smtp[1526]: [mail.warning] IP address conflict detected
+Nov 12 06:29:28 server1 cron[1824]: [cron.alert] Error reading configuration file
+Nov 12 01:34:46 server1 nginx[8383]: [auth.alert] Network interface restarted
+Nov 12 01:30:09 server1 cron[3598]: [mail.debug] Low memory warning
+Nov 12 02:16:23 server2 sshd[9578]: [user.warning] Unauthorized access attempt detected
+Nov 12 07:03:43 server1 smtp[2893]: [mail.crit] Backup completed successfully
+Nov 12 10:09:47 server2 dhcpd[2614]: [syslog.notice] New device connected to network
+Nov 12 11:04:28 firewall1 dhcpd[1365]: [kern.notice] Error reading configuration file
+Nov 12 07:54:11 switch1 smtp[9313]: [mail.notice] Database connection failed
+Nov 12 08:56:23 router1 cron[2988]: [cron.alert] Network interface restarted
+Nov 12 01:37:21 server1 dhcpd[8083]: [auth.emerg] Accepted password for user from 192.168.1.1 port 22 ssh2
+Nov 12 07:37:13 firewall1 systemd[3954]: [daemon.warning] Update applied successfully
+Nov 12 08:09:37 firewall1 kernel[6613]: [auth.emerg] Low memory warning
+Nov 12 00:24:18 switch1 sshd[3090]: [mail.debug] Network interface restarted
+Nov 12 08:57:06 firewall1 dhcpd[6780]: [mail.info] User logged out
+Nov 12 07:35:01 firewall1 dhcpd[1538]: [daemon.emerg] New USB device connected
+Nov 12 10:07:27 server1 dhcpd[6398]: [user.err] Accepted password for user from 192.168.1.1 port 22 ssh2
+Nov 12 01:25:51 server1 cron[6331]: [kern.info] User added to group
+Nov 12 02:24:12 firewall1 dhcpd[2537]: [syslog.warning] Disk quota exceeded
+Nov 12 04:22:54 firewall1 systemd[6277]: [user.emerg] Starting system reboot
+Nov 12 07:13:12 router1 cron[6902]: [auth.emerg] Low memory warning
+Nov 12 10:34:53 firewall1 nginx[8318]: [cron.alert] Firewall rule applied successfully
+Nov 12 09:52:43 server2 smtp[5530]: [mail.alert] New admin account created
+Nov 12 09:18:40 firewall1 smtp[2342]: [mail.info] Shutting down system
+Nov 12 08:44:27 switch1 nginx[8691]: [user.warning] Update applied successfully
+Nov 12 10:52:57 switch1 systemd[8210]: [user.info] Session expired for user
+Nov 12 05:02:12 server2 dhcpd[1654]: [syslog.debug] User added to group
+Nov 12 05:12:03 router1 systemd[9385]: [syslog.err] Starting system reboot
+Nov 12 04:33:58 router1 smtp[9457]: [auth.crit] Multiple failed login attempts detected
+Nov 12 03:13:32 router1 systemd[5662]: [daemon.alert] Network interface restarted
+Nov 12 02:20:36 server2 systemd[8292]: [daemon.crit] Starting system reboot
+Nov 12 09:13:02 switch1 dhcpd[5124]: [cron.alert] User logged in
+Nov 12 04:57:10 switch1 sshd[6026]: [mail.warning] Unauthorized access attempt detected
+Nov 12 02:00:09 switch1 sshd[3059]: [syslog.notice] Accepted password for user from 192.168.1.1 port 22 ssh2
+Nov 12 04:49:34 server1 dhcpd[7488]: [user.warning] Service crashed unexpectedly
+Nov 12 11:33:38 router1 sshd[5956]: [syslog.warning] Unrecognized device detected on network
+Nov 12 03:01:12 switch1 kernel[5199]: [syslog.crit] IP address conflict detected
+Nov 12 02:23:15 router1 systemd[7186]: [daemon.alert] Disk quota exceeded
+Nov 12 08:15:10 switch1 sshd[3505]: [cron.err] New admin account created
+Nov 12 10:06:34 server1 dhcpd[1107]: [auth.crit] Starting system reboot
+Nov 12 09:57:27 server2 smtp[6495]: [user.err] Unrecognized device detected on network
+Nov 12 08:37:18 server1 cron[6816]: [kern.debug] Connection closed by 192.168.1.3 port 80
+Nov 12 01:18:03 router1 kernel[2868]: [kern.alert] Session expired for user
+Nov 12 02:38:24 server1 nginx[5916]: [kern.debug] Shutting down system
+Nov 12 04:57:26 switch1 kernel[5886]: [cron.crit] User logged in
+Nov 12 08:55:36 server2 sshd[7512]: [cron.notice] Multiple failed login attempts detected
+Nov 12 04:28:01 firewall1 smtp[1937]: [syslog.warning] Network interface restarted
+Nov 12 07:04:47 switch1 cron[1151]: [user.debug] Invalid login attempt
+Nov 12 04:57:14 server2 systemd[4007]: [mail.warning] Unexpected shutdown of system
+Nov 12 11:30:51 switch1 kernel[5206]: [kern.crit] Service configuration updated
+Nov 12 10:32:47 switch1 dhcpd[9827]: [user.notice] VPN connection established
+Nov 12 00:58:47 switch1 nginx[6699]: [cron.debug] Multiple failed login attempts detected
+Nov 12 04:06:26 firewall1 systemd[6540]: [kern.emerg] Starting system reboot
+Nov 12 09:30:38 server2 nginx[7554]: [kern.crit] Session expired for user
+Nov 12 00:12:19 server2 cron[1381]: [syslog.alert] Accepted password for user from 192.168.1.1 port 22 ssh2
+Nov 12 07:42:58 router1 dhcpd[9941]: [mail.crit] User logged in
+Nov 12 09:12:24 router1 kernel[1744]: [syslog.info] Invalid login attempt
+Nov 12 11:18:04 server1 cron[7694]: [syslog.err] IP address conflict detected
+Nov 12 00:18:50 firewall1 sshd[5627]: [daemon.crit] Session expired for user
+Nov 12 04:31:04 firewall1 systemd[2378]: [daemon.info] Error reading configuration file
+Nov 12 06:30:42 router1 systemd[4478]: [user.crit] Firewall rule applied successfully
+Nov 12 05:48:22 switch1 cron[3627]: [syslog.notice] New software update available
+Nov 12 03:20:57 firewall1 nginx[5246]: [auth.emerg] Attempted login with expired password
+Nov 12 08:20:12 router1 kernel[4796]: [syslog.alert] Firewall rule applied successfully
+Nov 12 06:20:30 router1 dhcpd[2077]: [user.crit] Invalid login attempt
+Nov 12 03:07:28 firewall1 smtp[8885]: [auth.info] Database connection failed
+Nov 12 11:01:04 server2 cron[4289]: [user.info] Disk usage exceeded threshold
+Nov 12 10:50:41 switch1 smtp[6031]: [daemon.info] Service restarted successfully
+Nov 12 06:08:42 firewall1 dhcpd[8757]: [auth.err] System clock synchronized
+Nov 12 00:24:12 switch1 systemd[8008]: [daemon.err] Starting system reboot
+Nov 12 11:12:04 router1 smtp[3883]: [daemon.emerg] Connection closed by 192.168.1.3 port 80
+Nov 12 11:38:16 server1 sshd[5707]: [kern.alert] New admin account created
+Nov 12 06:35:31 server2 kernel[3732]: [cron.info] Multiple failed login attempts detected
+Nov 12 01:59:07 firewall1 smtp[7844]: [user.emerg] Firewall rule updated
+Nov 12 05:12:32 server1 sshd[9708]: [auth.warning] New software update available
+Nov 12 07:03:44 server1 kernel[7661]: [daemon.emerg] Shutting down system
+Nov 12 07:26:42 server1 kernel[4435]: [mail.notice] Shutting down system
+Nov 12 04:59:17 server1 dhcpd[2988]: [user.alert] New software update available
+Nov 12 11:33:26 server1 sshd[5176]: [cron.warning] Session expired for user
+Nov 12 00:33:16 firewall1 kernel[8973]: [auth.emerg] User logged out
+Nov 12 05:29:09 server2 nginx[7420]: [syslog.emerg] Unauthorized access attempt detected
+Nov 12 02:24:00 server1 sshd[6902]: [kern.crit] Filesystem check completed
+Nov 12 06:21:15 firewall1 sshd[5364]: [mail.warning] Starting system reboot
+Nov 12 00:27:26 firewall1 dhcpd[2414]: [kern.info] VPN connection established
+Nov 12 03:46:59 firewall1 cron[3647]: [daemon.alert] Reboot required to apply updates
+Nov 12 00:44:43 router1 nginx[4382]: [kern.notice] Service configuration updated
+Nov 12 10:20:17 firewall1 dhcpd[2668]: [kern.emerg] Unauthorized access attempt detected
+Nov 12 08:31:45 router1 nginx[6195]: [auth.alert] Invalid login attempt
+Nov 12 04:32:56 firewall1 dhcpd[6902]: [syslog.warning] Service crashed unexpectedly
+Nov 12 11:21:15 switch1 nginx[1924]: [auth.emerg] Backup completed successfully
+Nov 12 04:34:22 firewall1 sshd[4690]: [mail.debug] New device connected to network
+Nov 12 06:05:14 firewall1 smtp[2980]: [cron.err] Session expired for user
+Nov 12 03:11:19 firewall1 sshd[3241]: [kern.info] Firewall rule applied successfully
+Nov 12 00:24:18 firewall1 cron[9873]: [cron.err] New admin account created
+Nov 12 01:37:34 router1 dhcpd[4433]: [mail.emerg] Disk quota exceeded
+Nov 12 07:31:00 server1 cron[6143]: [user.info] Failed password for invalid user admin from 192.168.1.2 port 22 ssh2
+Nov 12 03:56:31 switch1 nginx[9437]: [cron.notice] New software update available
+Nov 12 02:33:51 server1 kernel[5005]: [mail.err] Multiple failed login attempts detected
+Nov 12 01:02:29 firewall1 smtp[3786]: [syslog.emerg] VPN connection disconnected
+Nov 12 07:36:08 switch1 kernel[8806]: [kern.info] Critical system process failed
+Nov 12 08:10:18 firewall1 kernel[4774]: [kern.debug] Connection closed by 192.168.1.3 port 80
+Nov 12 00:14:01 switch1 cron[7410]: [mail.crit] Error reading configuration file
+Nov 12 10:37:15 router1 nginx[5941]: [cron.crit] User logged in
+Nov 12 03:42:00 switch1 nginx[6357]: [daemon.crit] System clock synchronized
+Nov 12 02:15:33 firewall1 systemd[9795]: [user.err] Backup completed successfully
+Nov 12 01:45:57 router1 dhcpd[6598]: [daemon.debug] New device connected to network
+Nov 12 10:26:13 router1 systemd[8297]: [user.err] Network interface restarted
+Nov 12 01:41:59 switch1 systemd[7145]: [daemon.alert] VPN connection established
+Nov 12 00:07:58 switch1 nginx[8835]: [user.crit] VPN connection established
+Nov 12 00:30:33 server1 dhcpd[1462]: [daemon.info] Low memory warning
+Nov 12 02:16:37 switch1 smtp[9086]: [cron.notice] Reboot required to apply updates
+Nov 12 06:45:58 switch1 cron[2311]: [kern.emerg] Filesystem check completed
+Nov 12 10:03:38 server2 smtp[2584]: [kern.err] Service restarted successfully
+Nov 12 04:32:14 switch1 sshd[8241]: [syslog.alert] Connection closed by 192.168.1.3 port 80
+Nov 12 11:23:43 server1 cron[2505]: [auth.debug] IP address conflict detected
+Nov 12 05:59:03 server1 systemd[9701]: [auth.info] Error reading configuration file
+Nov 12 07:33:43 switch1 sshd[4592]: [user.notice] Low memory warning
+Nov 12 00:31:33 server1 sshd[4561]: [daemon.info] Error reading configuration file
+Nov 12 03:58:55 switch1 dhcpd[8841]: [syslog.warning] VPN connection established
+Nov 12 01:25:47 server2 kernel[7929]: [daemon.info] Database connection failed
+Nov 12 03:41:55 server2 nginx[2468]: [auth.warning] Service restarted successfully
+Nov 12 05:32:52 router1 sshd[9747]: [daemon.alert] Low memory warning
+Nov 12 09:45:41 router1 nginx[3900]: [daemon.alert] Backup completed successfully
+Nov 12 04:26:02 firewall1 smtp[7609]: [cron.crit] Session expired for user
+Nov 12 03:54:31 router1 sshd[9178]: [user.alert] Starting system reboot
+Nov 12 10:26:42 server2 smtp[7902]: [kern.info] Low memory warning
+Nov 12 04:07:07 server2 dhcpd[9069]: [auth.debug] Unexpected shutdown of system
+Nov 12 07:06:11 server2 nginx[8577]: [auth.emerg] High CPU usage detected
+Nov 12 11:22:05 firewall1 kernel[6716]: [kern.debug] Failed password for invalid user admin from 192.168.1.2 port 22 ssh2
+Nov 12 03:22:59 server1 nginx[1685]: [mail.crit] Network interface restarted
+Nov 12 06:03:29 firewall1 dhcpd[4508]: [user.alert] Firewall rule applied successfully
+Nov 12 09:22:12 server1 kernel[6539]: [daemon.info] IP address conflict detected
+Nov 12 01:32:29 server2 dhcpd[6812]: [cron.warning] Network interface restarted
+Nov 12 09:45:22 switch1 systemd[8058]: [kern.emerg] Connection closed by 192.168.1.3 port 80
+Nov 12 09:56:26 server1 cron[1384]: [kern.err] RAID array degraded
+Nov 12 04:14:19 router1 dhcpd[6011]: [syslog.emerg] New USB device connected
+Nov 12 07:00:55 server1 dhcpd[9766]: [cron.crit] New admin account created
+Nov 12 07:54:14 switch1 dhcpd[3424]: [daemon.info] Disk usage exceeded threshold
+Nov 12 04:12:36 server2 dhcpd[8195]: [cron.crit] VPN connection disconnected
+Nov 12 05:32:47 firewall1 kernel[8905]: [kern.err] Firewall rule applied successfully
+Nov 12 03:50:40 firewall1 sshd[7936]: [kern.crit] Invalid login attempt
+Nov 12 07:24:03 switch1 kernel[4185]: [auth.warning] Multiple failed login attempts detected
+Nov 12 06:14:57 server2 dhcpd[3174]: [mail.err] Service crashed unexpectedly
+Nov 12 05:42:08 switch1 cron[7535]: [auth.err] Unexpected shutdown of system
+Nov 12 04:25:48 server2 cron[9037]: [kern.alert] New device connected to network
+Nov 12 04:29:15 switch1 sshd[5534]: [mail.err] Unauthorized access attempt detected
+Nov 12 06:23:30 server2 smtp[7022]: [kern.warning] Shutting down system
+Nov 12 09:01:54 server1 sshd[7269]: [syslog.notice] Starting system reboot
+Nov 12 03:09:26 server2 sshd[1085]: [syslog.notice] VPN connection disconnected
+Nov 12 06:32:28 server1 dhcpd[2953]: [auth.alert] High CPU usage detected
+Nov 12 06:11:37 router1 smtp[9686]: [cron.warning] Disk quota exceeded
+Nov 12 03:49:15 server1 cron[3493]: [mail.debug] Starting system reboot
+Nov 12 10:05:54 firewall1 smtp[7601]: [auth.crit] Failed password for invalid user admin from 192.168.1.2 port 22 ssh2
+Nov 12 08:42:07 server2 kernel[1113]: [daemon.crit] Backup completed successfully
+Nov 12 05:25:58 router1 systemd[4098]: [daemon.crit] Disk quota exceeded
+Nov 12 10:19:39 server1 sshd[3502]: [user.info] IP address conflict detected
+Nov 12 08:05:09 switch1 nginx[6961]: [user.crit] Service restarted successfully
+Nov 12 06:39:07 switch1 kernel[2612]: [cron.crit] Service restarted successfully
+Nov 12 04:44:03 firewall1 nginx[2502]: [cron.alert] Session expired for user
+Nov 12 08:04:42 switch1 cron[5584]: [syslog.debug] Attempted login with expired password
+Nov 12 04:53:16 server1 sshd[7970]: [daemon.debug] New admin account created
+Nov 12 11:38:02 router1 kernel[3266]: [kern.debug] VPN connection established
+Nov 12 04:55:27 server2 sshd[6824]: [daemon.warning] New software update available
+Nov 12 11:23:51 firewall1 cron[9019]: [kern.crit] Update applied successfully
+Nov 12 02:11:31 router1 systemd[8437]: [kern.emerg] Update applied successfully
+Nov 12 03:21:27 server2 sshd[2860]: [syslog.alert] Unexpected shutdown of system
+Nov 12 01:06:00 router1 dhcpd[4496]: [cron.crit] Error reading configuration file
+Nov 12 07:05:30 switch1 kernel[9665]: [auth.crit] Disk quota exceeded
+Nov 12 06:30:30 router1 dhcpd[3574]: [daemon.info] Service restarted successfully
+Nov 12 07:45:05 router1 nginx[2378]: [cron.warning] Low memory warning
+Nov 12 09:11:19 server1 dhcpd[6439]: [mail.info] Service restarted successfully
+Nov 12 06:14:25 router1 sshd[8548]: [user.crit] Shutting down system
+Nov 12 09:59:53 firewall1 smtp[2446]: [mail.emerg] Critical system process failed
+Nov 12 06:36:48 switch1 dhcpd[6053]: [user.info] Database connection failed
+Nov 12 05:24:27 server2 cron[2005]: [user.emerg] User added to group
+Nov 12 08:32:52 firewall1 nginx[5115]: [user.debug] Low memory warning
+Nov 12 09:07:05 switch1 dhcpd[7302]: [syslog.emerg] RAID array degraded
+Nov 12 08:28:07 server2 cron[2708]: [kern.emerg] New device connected to network
+Nov 12 04:22:50 router1 cron[3397]: [auth.err] Firewall rule applied successfully
+Nov 12 11:43:43 server2 kernel[6304]: [kern.notice] Connection closed by 192.168.1.3 port 80
+Nov 12 04:04:01 server1 kernel[4321]: [daemon.crit] New software update available
+Nov 12 07:03:17 server2 kernel[2684]: [user.debug] Unrecognized device detected on network
+Nov 12 11:39:19 router1 systemd[2117]: [syslog.debug] Starting system reboot
+Nov 12 08:47:13 firewall1 smtp[5069]: [cron.err] New USB device connected
+Nov 12 03:51:58 server1 sshd[4756]: [kern.err] System clock synchronized
+Nov 12 10:45:56 server2 smtp[5720]: [mail.info] Backup completed successfully
+Nov 12 08:11:10 server1 systemd[6035]: [user.crit] Update applied successfully
+Nov 12 10:39:17 firewall1 smtp[5446]: [mail.info] User logged out
+Nov 12 00:02:55 server2 cron[1578]: [kern.crit] RAID array degraded
+Nov 12 11:08:21 firewall1 nginx[4892]: [mail.info] Attempted login with expired password
+Nov 12 06:08:55 server2 systemd[4281]: [user.alert] Unrecognized device detected on network
+Nov 12 08:41:25 router1 kernel[8644]: [kern.notice] Filesystem check completed
+Nov 12 06:15:28 server1 sshd[6263]: [kern.notice] Service configuration updated
+Nov 12 06:14:41 router1 kernel[3332]: [auth.notice] Unauthorized access attempt detected
+Nov 12 10:12:28 router1 nginx[3846]: [cron.notice] New device connected to network
+Nov 12 04:24:46 server2 smtp[5002]: [kern.warning] Accepted password for user from 192.168.1.1 port 22 ssh2
+Nov 12 02:20:09 router1 kernel[4592]: [syslog.alert] Multiple failed login attempts detected
+Nov 12 11:26:51 firewall1 nginx[4135]: [auth.err] Failed password for invalid user admin from 192.168.1.2 port 22 ssh2
+Nov 12 06:21:34 switch1 kernel[9914]: [syslog.err] New USB device connected
+Nov 12 00:40:52 firewall1 cron[5453]: [cron.err] RAID array degraded
+Nov 12 10:00:50 firewall1 sshd[3369]: [mail.err] Service crashed unexpectedly
+Nov 12 01:14:24 firewall1 dhcpd[3510]: [cron.alert] Unusual login pattern detected
+Nov 12 07:31:03 server1 dhcpd[6671]: [mail.crit] Invalid login attempt
+Nov 12 09:59:09 server1 dhcpd[2070]: [mail.alert] Firewall rule applied successfully
+Nov 12 00:18:25 server2 systemd[9898]: [auth.alert] Unauthorized access attempt detected
+Nov 12 08:20:30 server2 dhcpd[3685]: [user.emerg] Connection closed by 192.168.1.3 port 80
+Nov 12 01:40:47 router1 cron[8983]: [cron.warning] Unexpected shutdown of system
+Nov 12 03:18:19 router1 systemd[8332]: [kern.info] Shutting down system
+Nov 12 07:42:42 switch1 dhcpd[8097]: [auth.debug] High CPU usage detected
+Nov 12 05:44:37 server1 sshd[9759]: [user.alert] Filesystem check completed
+Nov 12 09:50:41 switch1 sshd[7112]: [mail.debug] Firewall rule applied successfully
+Nov 12 07:07:36 router1 sshd[6732]: [daemon.crit] Disk usage exceeded threshold
+Nov 12 03:39:47 switch1 sshd[9062]: [kern.notice] Service restarted successfully
+Nov 12 00:38:25 switch1 nginx[9727]: [syslog.alert] RAID array degraded
+Nov 12 00:24:33 server1 systemd[7948]: [cron.emerg] New software update available
+Nov 12 01:26:35 server1 nginx[6732]: [syslog.debug] Low memory warning
+Nov 12 03:13:49 switch1 cron[7720]: [user.info] Database connection failed
+Nov 12 10:31:00 switch1 kernel[5791]: [cron.warning] New software update available
+Nov 12 02:21:49 server1 smtp[6301]: [cron.crit] Shutting down system
+Nov 12 04:38:47 server1 systemd[2480]: [kern.notice] Unauthorized access attempt detected
+Nov 12 07:52:16 router1 dhcpd[1069]: [user.emerg] Unusual login pattern detected
+Nov 12 00:25:54 server2 dhcpd[1742]: [auth.info] Error reading configuration file
+Nov 12 05:41:30 firewall1 cron[2259]: [daemon.err] Process killed due to out-of-memory
+Nov 12 08:06:21 router1 smtp[7759]: [kern.err] Backup completed successfully
+Nov 12 06:55:47 switch1 systemd[1659]: [kern.emerg] User added to group
+Nov 12 11:05:27 firewall1 cron[1409]: [cron.info] Unauthorized access attempt detected
+Nov 12 03:07:59 server1 smtp[8671]: [daemon.emerg] Failed password for invalid user admin from 192.168.1.2 port 22 ssh2
+Nov 12 10:41:38 switch1 nginx[9133]: [auth.notice] High CPU usage detected
+Nov 12 01:46:23 server1 sshd[3906]: [mail.emerg] Error reading configuration file
+Nov 12 06:24:44 router1 kernel[9337]: [daemon.debug] Critical system process failed
+Nov 12 09:11:30 server1 systemd[3126]: [cron.crit] Service restarted successfully
+Nov 12 10:45:13 switch1 kernel[7324]: [daemon.notice] Service configuration updated
+Nov 12 08:32:58 switch1 cron[5221]: [cron.emerg] VPN connection established
+Nov 12 03:40:56 router1 smtp[7154]: [cron.emerg] Service crashed unexpectedly
+Nov 12 09:15:57 firewall1 systemd[1048]: [kern.info] Unauthorized access attempt detected
+Nov 12 07:52:55 switch1 sshd[9286]: [syslog.warning] Update applied successfully
+Nov 12 01:44:06 server1 cron[6189]: [kern.alert] New admin account created
+Nov 12 05:59:13 server1 smtp[4837]: [syslog.err] Firewall rule applied successfully
+Nov 12 08:00:00 server2 kernel[8940]: [daemon.err] New software update available
+Nov 12 08:38:27 server1 cron[4451]: [cron.notice] Process killed due to out-of-memory
+Nov 12 08:03:48 firewall1 kernel[7619]: [user.err] Reboot required to apply updates
+Nov 12 10:05:14 firewall1 systemd[3986]: [cron.alert] Error reading configuration file
+Nov 12 02:05:16 switch1 dhcpd[8662]: [cron.crit] User logged out
+Nov 12 02:48:34 switch1 systemd[6460]: [auth.debug] RAID array degraded
+Nov 12 07:04:59 firewall1 systemd[8159]: [cron.info] High CPU usage detected
+Nov 12 04:05:31 firewall1 cron[2990]: [kern.notice] System clock synchronized
+Nov 12 09:00:54 server2 nginx[2870]: [mail.notice] Update applied successfully
+Nov 12 07:17:51 server2 cron[5727]: [daemon.alert] Unrecognized device detected on network
+Nov 12 07:58:50 switch1 cron[1675]: [mail.warning] Firewall rule updated
+Nov 12 11:04:35 router1 systemd[1864]: [auth.err] Unauthorized access attempt detected
+Nov 12 09:03:25 server2 cron[3266]: [user.info] Low memory warning
+Nov 12 06:13:00 router1 systemd[8289]: [cron.notice] RAID array degraded
+Nov 12 03:47:15 server2 cron[2473]: [cron.info] Backup completed successfully
+Nov 12 11:20:53 firewall1 dhcpd[3500]: [kern.emerg] Disk quota exceeded
+Nov 12 00:09:49 router1 cron[1157]: [cron.info] High CPU usage detected
+Nov 12 01:42:31 server1 sshd[3122]: [mail.alert] VPN connection established
+Nov 12 06:46:58 switch1 systemd[5727]: [cron.crit] Multiple failed login attempts detected
+Nov 12 09:22:26 router1 sshd[7617]: [daemon.debug] Service crashed unexpectedly
+Nov 12 01:17:12 switch1 systemd[6538]: [cron.err] New device connected to network
+Nov 12 00:28:39 router1 sshd[8077]: [user.crit] User logged in
+Nov 12 10:44:28 server2 kernel[5364]: [mail.debug] Service configuration updated
+Nov 12 09:24:25 firewall1 systemd[6380]: [syslog.info] New admin account created
+Nov 12 02:20:41 server2 systemd[2633]: [auth.err] Network interface restarted
+Nov 12 10:17:28 server1 nginx[4722]: [user.warning] Multiple failed login attempts detected
+Nov 12 08:03:00 switch1 smtp[2634]: [auth.err] Database connection failed
+Nov 12 00:53:57 switch1 systemd[6539]: [auth.debug] Firewall rule updated
+Nov 12 05:43:12 server2 smtp[8306]: [mail.emerg] Service restarted successfully
+Nov 12 06:35:21 router1 systemd[6242]: [syslog.notice] Unexpected shutdown of system
+Nov 12 06:42:22 server1 sshd[3102]: [mail.emerg] Reboot required to apply updates
+Nov 12 09:02:23 server2 systemd[2725]: [daemon.crit] Backup completed successfully
+Nov 12 09:36:33 server2 kernel[9557]: [kern.warning] RAID array degraded
+Nov 12 04:16:16 firewall1 sshd[5966]: [user.debug] System clock synchronized
+Nov 12 05:44:00 server1 systemd[6952]: [daemon.crit] Session expired for user
+Nov 12 11:07:39 server1 systemd[4008]: [user.debug] New admin account created
+Nov 12 03:56:14 server1 nginx[8736]: [daemon.debug] Unusual login pattern detected
+Nov 12 05:39:34 switch1 cron[5789]: [kern.debug] Shutting down system
+Nov 12 02:51:40 router1 kernel[4611]: [syslog.info] Update applied successfully
+Nov 12 07:36:32 router1 nginx[6873]: [auth.info] Unrecognized device detected on network
+Nov 12 06:45:30 switch1 sshd[2161]: [kern.info] Network interface restarted
+Nov 12 06:17:26 switch1 sshd[8627]: [auth.debug] Process killed due to out-of-memory
+Nov 12 05:42:33 firewall1 kernel[8165]: [auth.warning] High CPU usage detected
+Nov 12 10:40:12 firewall1 nginx[5159]: [mail.debug] Failed password for invalid user admin from 192.168.1.2 port 22 ssh2
+Nov 12 06:09:06 router1 smtp[2303]: [kern.notice] Service restarted successfully
+Nov 12 07:06:20 server1 smtp[5141]: [cron.crit] RAID array degraded
+Nov 12 08:45:32 server1 dhcpd[2617]: [auth.info] Service crashed unexpectedly
+Nov 12 07:08:50 server2 sshd[3735]: [auth.info] Service restarted successfully
+Nov 12 09:32:00 router1 systemd[7186]: [mail.warning] New admin account created
+Nov 12 03:41:33 switch1 kernel[5368]: [auth.err] Error reading configuration file
+Nov 12 03:53:33 switch1 kernel[4011]: [user.info] Critical system process failed
+Nov 12 02:50:49 server2 nginx[2502]: [cron.alert] Firewall rule applied successfully
+Nov 12 00:29:22 firewall1 nginx[6611]: [auth.info] RAID array degraded
+Nov 12 01:13:55 firewall1 sshd[9231]: [user.err] Process killed due to out-of-memory
+Nov 12 04:50:12 server2 dhcpd[9883]: [cron.emerg] New admin account created
+Nov 12 03:03:39 firewall1 nginx[9565]: [kern.warning] Accepted password for user from 192.168.1.1 port 22 ssh2
+Nov 12 00:13:24 firewall1 smtp[6244]: [auth.emerg] Firewall rule applied successfully
+Nov 12 04:34:36 switch1 kernel[3543]: [auth.debug] Backup completed successfully
+Nov 12 09:45:44 server2 smtp[2878]: [syslog.info] User logged in
+Nov 12 07:53:33 switch1 kernel[8857]: [syslog.notice] Filesystem check completed
+Nov 12 04:18:53 switch1 smtp[1097]: [daemon.warning] Backup completed successfully
+Nov 12 07:18:59 switch1 kernel[6737]: [daemon.notice] Backup completed successfully
+Nov 12 08:25:34 router1 nginx[1740]: [cron.debug] Process killed due to out-of-memory
+Nov 12 04:04:36 switch1 dhcpd[4700]: [auth.debug] Database connection failed
+Nov 12 05:28:54 switch1 kernel[8434]: [auth.crit] Failed password for invalid user admin from 192.168.1.2 port 22 ssh2
+Nov 12 05:54:44 router1 nginx[8722]: [mail.debug] Disk quota exceeded
+Nov 12 09:20:48 router1 dhcpd[1209]: [cron.alert] Network interface restarted
+Nov 12 05:03:22 switch1 dhcpd[2912]: [daemon.crit] Error reading configuration file
+Nov 12 09:16:38 switch1 smtp[7137]: [syslog.notice] User logged in
+Nov 12 02:59:21 switch1 cron[9777]: [cron.notice] Critical system process failed
+Nov 12 03:14:28 server2 smtp[4021]: [kern.notice] Disk quota exceeded
+Nov 12 08:38:59 server2 dhcpd[7760]: [auth.crit] User logged out
+Nov 12 04:03:36 server2 systemd[8559]: [syslog.err] Filesystem check completed
+Nov 12 00:21:36 firewall1 systemd[7145]: [auth.err] New USB device connected
+Nov 12 00:09:28 server1 nginx[9244]: [syslog.warning] Failed password for invalid user admin from 192.168.1.2 port 22 ssh2
+Nov 12 00:26:41 switch1 smtp[7725]: [user.info] New software update available
+Nov 12 08:18:00 switch1 systemd[8517]: [daemon.crit] Attempted login with expired password
+Nov 12 06:39:00 router1 sshd[7140]: [syslog.warning] Session expired for user
+Nov 12 07:43:40 server2 nginx[1834]: [kern.info] Firewall rule updated
+Nov 12 05:36:24 server1 kernel[3621]: [syslog.crit] Session expired for user
+Nov 12 05:39:07 server2 cron[2085]: [syslog.notice] Unexpected shutdown of system
+Nov 12 05:11:57 server1 nginx[1031]: [syslog.err] New USB device connected
+Nov 12 08:45:37 server1 cron[7793]: [user.crit] Firewall rule applied successfully
+Nov 12 09:42:58 router1 smtp[2544]: [user.emerg] Accepted password for user from 192.168.1.1 port 22 ssh2
+Nov 12 00:24:50 server1 systemd[7299]: [mail.debug] VPN connection established
+Nov 12 03:33:22 switch1 nginx[3510]: [syslog.warning] VPN connection disconnected
+Nov 12 03:07:49 server1 kernel[1225]: [user.debug] Service configuration updated
+Nov 12 10:03:24 server1 dhcpd[9080]: [syslog.crit] Connection closed by 192.168.1.3 port 80
+Nov 12 03:52:24 server2 cron[6294]: [cron.emerg] IP address conflict detected
+Nov 12 02:33:41 switch1 nginx[2254]: [daemon.warning] Shutting down system
+Nov 12 07:21:28 switch1 dhcpd[8747]: [user.alert] New software update available
+Nov 12 01:29:32 server1 kernel[4194]: [mail.crit] Reboot required to apply updates
+Nov 12 08:35:18 firewall1 cron[7536]: [kern.debug] RAID array degraded
+Nov 12 11:14:10 firewall1 smtp[3454]: [daemon.emerg] Low memory warning
+Nov 12 07:31:01 server2 smtp[6086]: [mail.alert] RAID array degraded
+Nov 12 08:58:02 server2 cron[9385]: [mail.err] Filesystem check completed
+Nov 12 06:52:02 switch1 nginx[1226]: [user.alert] Attempted login with expired password
+Nov 12 02:54:04 server2 dhcpd[5313]: [daemon.emerg] IP address conflict detected
+Nov 12 06:05:12 firewall1 smtp[2223]: [mail.notice] User logged out
+Nov 12 03:06:56 server1 systemd[2292]: [daemon.notice] Session expired for user
+Nov 12 01:41:40 switch1 cron[8157]: [cron.emerg] Process killed due to out-of-memory
+Nov 12 11:18:55 server1 dhcpd[9863]: [user.crit] Unrecognized device detected on network
+Nov 12 03:50:00 firewall1 sshd[3762]: [syslog.info] Service configuration updated
+Nov 12 09:17:42 router1 systemd[8143]: [syslog.notice] Service crashed unexpectedly
+Nov 12 09:15:20 server1 sshd[5165]: [mail.err] New USB device connected
+Nov 12 07:13:35 server1 systemd[6445]: [mail.debug] Shutting down system
+Nov 12 03:38:05 firewall1 cron[6011]: [mail.alert] Multiple failed login attempts detected
+Nov 12 08:52:09 server2 systemd[3022]: [auth.warning] User logged in
+Nov 12 05:34:36 router1 dhcpd[6012]: [syslog.emerg] New device connected to network
+Nov 12 03:44:45 firewall1 nginx[2985]: [user.alert] High CPU usage detected
+Nov 12 09:05:30 router1 smtp[1101]: [cron.notice] Invalid login attempt
+Nov 12 08:55:35 switch1 smtp[8890]: [mail.notice] RAID array degraded
+Nov 12 03:36:11 firewall1 systemd[6801]: [mail.debug] New admin account created
+Nov 12 04:49:12 server1 nginx[2452]: [kern.info] VPN connection disconnected
+Nov 12 08:36:57 server2 cron[8502]: [auth.debug] Unrecognized device detected on network
+Nov 12 10:30:19 server1 sshd[8175]: [syslog.info] Disk usage exceeded threshold
+Nov 12 03:38:05 server1 nginx[3794]: [daemon.info] Database connection failed
+Nov 12 11:34:15 switch1 systemd[7557]: [kern.notice] Unrecognized device detected on network
+Nov 12 01:39:04 switch1 kernel[2326]: [cron.alert] Error reading configuration file
+Nov 12 02:34:15 router1 nginx[3016]: [kern.warning] Service configuration updated
+Nov 12 10:29:17 router1 kernel[7816]: [user.info] High CPU usage detected
+Nov 12 06:43:18 server1 nginx[1161]: [user.debug] Service crashed unexpectedly
+Nov 12 03:22:09 server1 kernel[3943]: [syslog.emerg] Disk usage exceeded threshold
+Nov 12 04:20:17 router1 sshd[6528]: [auth.crit] New admin account created
+Nov 12 10:45:21 switch1 nginx[5378]: [syslog.warning] Network interface restarted
+Nov 12 09:49:58 firewall1 dhcpd[9693]: [user.crit] Unrecognized device detected on network
+Nov 12 04:37:11 server2 dhcpd[4633]: [mail.info] Shutting down system
+Nov 12 05:45:21 router1 dhcpd[7684]: [daemon.err] User added to group
+Nov 12 05:59:47 server2 dhcpd[4064]: [mail.debug] Failed password for invalid user admin from 192.168.1.2 port 22 ssh2
+Nov 12 11:16:09 server2 sshd[6285]: [daemon.info] System clock synchronized
+Nov 12 07:33:42 switch1 systemd[2047]: [daemon.alert] Low memory warning
+Nov 12 11:02:45 server1 smtp[5857]: [cron.warning] Backup completed successfully
+Nov 12 05:00:41 server1 kernel[1491]: [cron.alert] Process killed due to out-of-memory
+Nov 12 06:21:47 server2 systemd[7487]: [kern.info] Network interface restarted
+Nov 12 09:18:48 switch1 smtp[4720]: [syslog.emerg] Unusual login pattern detected
+Nov 12 08:53:33 firewall1 sshd[5889]: [user.emerg] Accepted password for user from 192.168.1.1 port 22 ssh2
+Nov 12 03:37:42 firewall1 sshd[3754]: [user.err] Accepted password for user from 192.168.1.1 port 22 ssh2
+Nov 12 04:35:45 server1 kernel[9835]: [syslog.notice] VPN connection disconnected
+Nov 12 04:07:42 router1 cron[3992]: [user.err] Error reading configuration file
+Nov 12 00:42:40 server1 cron[8196]: [auth.notice] Unexpected shutdown of system
+Nov 12 05:49:34 server2 nginx[3602]: [kern.info] New device connected to network
+Nov 12 04:48:02 server1 nginx[1704]: [syslog.warning] Service configuration updated
+Nov 12 07:13:38 switch1 nginx[5989]: [cron.debug] Shutting down system
+Nov 12 00:02:17 router1 smtp[6780]: [daemon.err] System clock synchronized
+Nov 12 05:14:59 server1 nginx[5908]: [auth.info] Critical system process failed
+Nov 12 01:33:54 server2 dhcpd[4600]: [kern.notice] Low memory warning
+Nov 12 07:47:21 server2 smtp[3813]: [user.notice] Attempted login with expired password
+Nov 12 09:08:47 firewall1 kernel[7711]: [user.alert] New device connected to network
+Nov 12 10:46:29 router1 sshd[8712]: [cron.info] User added to group
+Nov 12 00:26:46 server2 nginx[7195]: [cron.err] Unauthorized access attempt detected
+Nov 12 09:40:52 switch1 nginx[4153]: [syslog.warning] Disk quota exceeded
+Nov 12 04:47:36 server1 kernel[7366]: [auth.warning] Multiple failed login attempts detected
+Nov 12 10:48:58 switch1 nginx[3269]: [mail.debug] VPN connection established
+Nov 12 03:26:56 firewall1 smtp[1985]: [kern.crit] Service restarted successfully
+Nov 12 11:06:06 router1 sshd[5078]: [kern.emerg] Invalid login attempt
+Nov 12 02:29:35 firewall1 cron[6900]: [mail.warning] Reboot required to apply updates
+Nov 12 04:26:43 firewall1 sshd[7913]: [syslog.warning] VPN connection disconnected
+Nov 12 09:53:11 router1 systemd[4036]: [syslog.err] Unusual login pattern detected
+Nov 12 02:54:29 switch1 systemd[8607]: [kern.err] Reboot required to apply updates
+Nov 12 09:04:00 firewall1 nginx[2475]: [auth.info] New software update available
+Nov 12 08:08:53 router1 kernel[1921]: [user.err] Network interface restarted
+Nov 12 04:47:11 server2 cron[3335]: [syslog.info] High CPU usage detected
+Nov 12 09:34:20 router1 dhcpd[9533]: [daemon.info] Unauthorized access attempt detected
+Nov 12 00:37:06 server2 dhcpd[9784]: [daemon.alert] User logged out
+Nov 12 04:01:24 server1 smtp[3326]: [syslog.alert] Attempted login with expired password
+Nov 12 04:17:02 firewall1 smtp[4101]: [daemon.notice] Disk quota exceeded
+Nov 12 07:29:23 firewall1 systemd[3664]: [cron.emerg] Connection closed by 192.168.1.3 port 80
+Nov 12 00:02:04 server2 dhcpd[4479]: [cron.emerg] User logged out
+Nov 12 07:58:10 switch1 nginx[1908]: [mail.emerg] Filesystem check completed
+Nov 12 05:04:58 server2 kernel[1380]: [mail.info] Firewall rule updated
+Nov 12 09:54:19 server2 sshd[8614]: [cron.warning] Starting system reboot
+Nov 12 06:33:04 router1 sshd[1651]: [kern.alert] Firewall rule updated
+Nov 12 10:36:53 server1 dhcpd[4167]: [user.debug] Low memory warning
+Nov 12 06:45:43 router1 cron[1633]: [kern.debug] Service restarted successfully
+Nov 12 07:28:40 server2 dhcpd[2391]: [daemon.warning] New software update available
+Nov 12 08:08:43 server2 systemd[4692]: [syslog.warning] Service crashed unexpectedly
+Nov 12 01:36:42 router1 kernel[8102]: [user.alert] Backup completed successfully
+Nov 12 04:28:08 firewall1 nginx[4745]: [auth.debug] Service configuration updated
+Nov 12 06:34:07 router1 smtp[2988]: [daemon.warning] System clock synchronized
+Nov 12 03:46:12 firewall1 dhcpd[7395]: [mail.notice] Service configuration updated
+Nov 12 10:02:01 server1 kernel[2244]: [cron.crit] Firewall rule applied successfully
+Nov 12 03:19:47 firewall1 systemd[7757]: [auth.debug] Firewall rule applied successfully
+Nov 12 00:01:47 server2 nginx[3243]: [cron.crit] Starting system reboot
+Nov 12 05:42:12 server2 dhcpd[2842]: [user.crit] New software update available
+Nov 12 05:33:35 firewall1 smtp[9555]: [daemon.debug] Process killed due to out-of-memory
+Nov 12 01:21:28 server2 kernel[6243]: [kern.err] Service crashed unexpectedly
+Nov 12 00:47:03 server1 kernel[8673]: [kern.crit] VPN connection established
+Nov 12 09:04:49 firewall1 sshd[1044]: [auth.err] Firewall rule applied successfully
+Nov 12 08:34:52 router1 dhcpd[1854]: [kern.crit] IP address conflict detected
+Nov 12 03:00:02 switch1 sshd[6639]: [kern.err] Connection closed by 192.168.1.3 port 80
+Nov 12 04:13:22 server2 cron[2073]: [user.warning] Starting system reboot
+Nov 12 07:11:16 firewall1 nginx[4430]: [syslog.debug] Filesystem check completed
+Nov 12 08:48:14 switch1 sshd[7451]: [syslog.crit] Unusual login pattern detected
+Nov 12 02:21:28 firewall1 sshd[1130]: [cron.debug] High CPU usage detected
+Nov 12 09:58:33 server2 systemd[1837]: [cron.notice] Multiple failed login attempts detected
+Nov 12 03:08:49 firewall1 systemd[7023]: [user.info] Shutting down system
+Nov 12 04:52:09 firewall1 sshd[2510]: [user.info] Process killed due to out-of-memory
+Nov 12 00:51:46 server1 sshd[3903]: [auth.debug] Update applied successfully
+Nov 12 10:33:57 server1 cron[7402]: [syslog.crit] Error reading configuration file
+Nov 12 03:32:22 server2 cron[9936]: [auth.warning] New software update available
+Nov 12 07:18:46 router1 nginx[3901]: [mail.info] Disk quota exceeded
+Nov 12 08:32:10 firewall1 systemd[2761]: [auth.warning] Network interface restarted
+Nov 12 02:48:19 server2 systemd[3279]: [auth.err] Disk quota exceeded
+Nov 12 05:24:07 firewall1 dhcpd[7574]: [syslog.notice] RAID array degraded
+Nov 12 07:25:41 firewall1 nginx[6759]: [syslog.debug] VPN connection disconnected
+Nov 12 02:17:35 server2 smtp[6921]: [cron.emerg] Network interface restarted
+Nov 12 09:33:44 router1 dhcpd[6750]: [auth.crit] RAID array degraded
+Nov 12 03:56:26 server1 dhcpd[9524]: [cron.warning] Critical system process failed
+Nov 12 03:33:08 server1 sshd[2942]: [user.info] Firewall rule applied successfully
+Nov 12 05:55:28 firewall1 sshd[5590]: [daemon.crit] IP address conflict detected
+Nov 12 05:18:14 switch1 kernel[8709]: [auth.emerg] Critical system process failed
+Nov 12 05:09:21 router1 smtp[7148]: [cron.emerg] VPN connection established
+Nov 12 04:32:04 router1 dhcpd[2276]: [cron.err] New USB device connected
+Nov 12 10:19:10 server1 cron[3481]: [mail.alert] Critical system process failed
+Nov 12 05:42:29 server2 systemd[9494]: [kern.warning] RAID array degraded
+Nov 12 07:57:25 switch1 cron[6320]: [cron.debug] Critical system process failed
+Nov 12 08:28:02 server1 smtp[3711]: [kern.crit] Attempted login with expired password
+Nov 12 01:44:34 server1 sshd[9433]: [mail.err] Firewall rule applied successfully
+Nov 12 01:18:41 server1 dhcpd[2277]: [cron.err] Filesystem check completed
+Nov 12 09:19:28 router1 dhcpd[4552]: [auth.emerg] Disk quota exceeded
+Nov 12 03:44:02 server2 systemd[7172]: [mail.notice] Unauthorized access attempt detected
+Nov 12 09:25:38 server2 smtp[2812]: [daemon.emerg] High CPU usage detected
+Nov 12 10:05:24 server2 dhcpd[1851]: [syslog.emerg] IP address conflict detected
+Nov 12 01:36:10 server2 kernel[1791]: [auth.emerg] Accepted password for user from 192.168.1.1 port 22 ssh2
+Nov 12 05:15:51 switch1 systemd[5400]: [cron.warning] Update applied successfully
+Nov 12 09:20:35 server2 cron[6880]: [syslog.warning] New device connected to network
+Nov 12 01:37:04 server2 systemd[2741]: [syslog.crit] Filesystem check completed
+Nov 12 05:32:40 server2 dhcpd[6505]: [kern.alert] Unauthorized access attempt detected
+Nov 12 05:01:01 server2 smtp[9786]: [syslog.alert] Firewall rule applied successfully
+Nov 12 09:05:05 firewall1 dhcpd[4999]: [daemon.crit] Connection closed by 192.168.1.3 port 80
+Nov 12 10:11:11 router1 sshd[9516]: [syslog.alert] Critical system process failed
+Nov 12 06:10:20 switch1 smtp[7794]: [auth.debug] User logged in
+Nov 12 08:36:26 switch1 cron[9571]: [cron.warning] Process killed due to out-of-memory
+Nov 12 10:50:44 firewall1 smtp[7185]: [mail.emerg] VPN connection disconnected
+Nov 12 05:35:02 router1 dhcpd[6388]: [daemon.debug] Attempted login with expired password
+Nov 12 00:02:16 server2 sshd[9367]: [syslog.emerg] Network interface restarted
+Nov 12 06:19:54 firewall1 kernel[9133]: [cron.alert] Service restarted successfully
+Nov 12 03:25:10 router1 systemd[3470]: [mail.crit] Session expired for user
+Nov 12 06:44:36 router1 nginx[5715]: [user.info] Firewall rule applied successfully
+Nov 12 08:39:12 router1 nginx[1201]: [kern.emerg] Firewall rule updated
+Nov 12 03:32:44 server2 nginx[4428]: [user.crit] Unusual login pattern detected
+Nov 12 05:54:49 router1 nginx[9018]: [auth.crit] Starting system reboot
+Nov 12 06:58:38 router1 systemd[5976]: [mail.debug] Connection closed by 192.168.1.3 port 80
+Nov 12 06:04:28 server2 nginx[4174]: [syslog.debug] Unusual login pattern detected
+Nov 12 04:51:19 router1 cron[4629]: [user.notice] Process killed due to out-of-memory
+Nov 12 06:32:28 switch1 kernel[8842]: [kern.err] Accepted password for user from 192.168.1.1 port 22 ssh2
+Nov 12 00:48:02 router1 nginx[1576]: [cron.notice] Starting system reboot
+Nov 12 09:30:05 firewall1 systemd[9081]: [mail.emerg] RAID array degraded
+Nov 12 00:29:58 switch1 nginx[2001]: [syslog.debug] Critical system process failed
+Nov 12 08:05:30 switch1 smtp[1915]: [auth.notice] Invalid login attempt
+Nov 12 04:53:33 switch1 dhcpd[7104]: [auth.emerg] Firewall rule updated
+Nov 12 10:00:29 switch1 kernel[1418]: [auth.emerg] IP address conflict detected
+Nov 12 10:10:57 router1 kernel[3301]: [kern.notice] User logged out
+Nov 12 05:14:32 server1 nginx[3539]: [kern.debug] Invalid login attempt
+Nov 12 09:00:17 server1 sshd[7414]: [syslog.alert] Firewall rule updated
+Nov 12 07:34:02 switch1 cron[7719]: [auth.alert] User logged out
+Nov 12 02:12:52 router1 sshd[3415]: [mail.err] User added to group
+Nov 12 11:30:04 switch1 cron[6576]: [kern.warning] VPN connection disconnected
+Nov 12 02:00:43 router1 sshd[2569]: [cron.alert] Accepted password for user from 192.168.1.1 port 22 ssh2
+Nov 12 10:48:16 router1 dhcpd[5834]: [daemon.crit] Update applied successfully
+Nov 12 03:06:06 switch1 sshd[7611]: [daemon.crit] New USB device connected
+Nov 12 07:36:37 server2 cron[5683]: [mail.warning] Unrecognized device detected on network
+Nov 12 06:23:00 router1 systemd[9539]: [kern.err] Session expired for user
+Nov 12 02:46:31 server1 sshd[5472]: [daemon.debug] Service restarted successfully
+Nov 12 05:04:31 server2 kernel[1950]: [mail.emerg] Firewall rule applied successfully
+Nov 12 01:43:37 router1 smtp[9983]: [auth.emerg] Starting system reboot
+Nov 12 07:48:47 server2 systemd[7710]: [cron.notice] Starting system reboot
+Nov 12 03:00:53 server2 kernel[1958]: [daemon.warning] Critical system process failed
+Nov 12 11:32:34 firewall1 smtp[6745]: [syslog.emerg] User logged in
+Nov 12 03:40:14 switch1 dhcpd[2097]: [daemon.notice] Accepted password for user from 192.168.1.1 port 22 ssh2
+Nov 12 09:16:05 firewall1 cron[5777]: [daemon.crit] Session expired for user
+Nov 12 06:04:23 server1 cron[2213]: [kern.err] VPN connection established
+Nov 12 07:18:31 server2 dhcpd[9234]: [syslog.warning] Database connection failed
+Nov 12 10:53:55 switch1 smtp[7896]: [mail.notice] Firewall rule applied successfully
+Nov 12 06:00:20 server1 smtp[8903]: [auth.debug] Service restarted successfully
+Nov 12 05:11:33 server1 dhcpd[6623]: [user.err] IP address conflict detected
+Nov 12 06:58:47 server2 nginx[2970]: [daemon.emerg] Starting system reboot
+Nov 12 02:30:44 server1 sshd[4528]: [cron.warning] VPN connection established
+Nov 12 05:40:21 firewall1 kernel[3711]: [auth.notice] Unexpected shutdown of system
+Nov 12 06:03:23 server2 systemd[3620]: [daemon.crit] Filesystem check completed
+Nov 12 05:02:57 firewall1 systemd[4282]: [syslog.crit] High CPU usage detected
+Nov 12 00:11:09 server1 systemd[1606]: [user.warning] Unauthorized access attempt detected
+Nov 12 11:07:26 firewall1 kernel[7258]: [auth.alert] Shutting down system
+Nov 12 05:38:19 switch1 cron[8413]: [auth.err] Accepted password for user from 192.168.1.1 port 22 ssh2
+Nov 12 11:38:50 firewall1 nginx[4203]: [user.notice] RAID array degraded
+Nov 12 03:20:26 router1 sshd[8527]: [syslog.warning] Network interface restarted
+Nov 12 06:07:51 switch1 kernel[9333]: [daemon.alert] User logged in
+Nov 12 06:39:54 server1 systemd[8782]: [daemon.warning] Session expired for user
+Nov 12 06:34:17 switch1 sshd[9600]: [auth.notice] Service crashed unexpectedly
+Nov 12 01:18:21 server2 nginx[8817]: [cron.err] User logged out
+Nov 12 10:05:00 router1 cron[4460]: [daemon.warning] Network interface restarted
+Nov 12 00:46:37 switch1 dhcpd[6347]: [kern.emerg] Disk usage exceeded threshold
+Nov 12 03:19:02 switch1 kernel[7143]: [mail.emerg] New admin account created
+Nov 12 10:51:17 server1 smtp[4666]: [daemon.debug] Service restarted successfully
+Nov 12 03:43:23 switch1 smtp[9472]: [user.debug] Accepted password for user from 192.168.1.1 port 22 ssh2
+Nov 12 02:17:11 router1 cron[3024]: [cron.emerg] Network interface restarted
+Nov 12 01:13:54 server1 smtp[5548]: [cron.emerg] Backup completed successfully
+Nov 12 05:48:53 firewall1 kernel[5998]: [cron.alert] RAID array degraded
+Nov 12 01:55:59 server2 dhcpd[6869]: [mail.emerg] VPN connection established
+Nov 12 04:15:54 router1 dhcpd[5275]: [user.err] Starting system reboot
+Nov 12 10:22:32 server1 nginx[7032]: [daemon.info] Backup completed successfully
+Nov 12 01:19:52 switch1 cron[3581]: [syslog.emerg] Filesystem check completed
+Nov 12 02:04:26 server2 smtp[1793]: [daemon.alert] VPN connection established
+Nov 12 07:11:23 switch1 smtp[3190]: [syslog.debug] Attempted login with expired password
+Nov 12 00:08:40 router1 sshd[6324]: [cron.warning] Multiple failed login attempts detected
+Nov 12 04:36:43 firewall1 systemd[8476]: [kern.crit] User added to group
+Nov 12 04:15:03 server1 systemd[4508]: [mail.warning] User logged in
+Nov 12 10:17:38 server1 cron[7858]: [auth.warning] Service restarted successfully
+Nov 12 04:44:59 server1 systemd[7720]: [syslog.err] Filesystem check completed
+Nov 12 07:24:32 firewall1 kernel[2052]: [syslog.warning] Filesystem check completed
+Nov 12 11:35:33 server2 kernel[9641]: [cron.warning] Process killed due to out-of-memory
+Nov 12 08:14:11 switch1 dhcpd[2410]: [user.info] Service restarted successfully
+Nov 12 09:14:01 server1 dhcpd[5201]: [mail.notice] IP address conflict detected
+Nov 12 02:04:02 server2 kernel[7420]: [syslog.debug] Update applied successfully
+Nov 12 01:41:20 server2 sshd[4928]: [mail.crit] Database connection failed
+Nov 12 05:59:45 server2 sshd[1043]: [kern.crit] RAID array degraded
+Nov 12 08:00:34 switch1 smtp[7672]: [mail.debug] User added to group
+Nov 12 11:32:48 firewall1 sshd[3469]: [daemon.alert] IP address conflict detected
+Nov 12 07:35:49 router1 systemd[4732]: [daemon.err] Disk quota exceeded
+Nov 12 05:15:30 firewall1 sshd[3644]: [daemon.notice] New software update available
+Nov 12 03:59:05 firewall1 dhcpd[7325]: [kern.info] Reboot required to apply updates
+Nov 12 07:02:47 router1 dhcpd[9164]: [mail.notice] High CPU usage detected
+Nov 12 04:44:44 router1 dhcpd[5225]: [kern.emerg] Low memory warning
+Nov 12 10:57:55 firewall1 nginx[8605]: [daemon.alert] Multiple failed login attempts detected
+Nov 12 09:13:18 switch1 sshd[3518]: [cron.err] Accepted password for user from 192.168.1.1 port 22 ssh2
+Nov 12 00:01:36 server2 kernel[4257]: [user.err] User logged in
+Nov 12 11:00:48 switch1 cron[2088]: [auth.emerg] Invalid login attempt
+Nov 12 03:44:56 firewall1 systemd[6965]: [user.notice] VPN connection disconnected
+Nov 12 00:28:00 server1 systemd[4876]: [daemon.alert] Error reading configuration file
+Nov 12 09:00:07 server1 sshd[1650]: [auth.debug] Process killed due to out-of-memory
+Nov 12 06:05:00 server2 nginx[3304]: [mail.emerg] User added to group
+Nov 12 05:43:24 router1 nginx[8564]: [auth.emerg] New software update available
+Nov 12 02:50:42 server1 smtp[9718]: [kern.warning] Update applied successfully
+Nov 12 05:33:16 server2 cron[4972]: [kern.crit] Service crashed unexpectedly
+Nov 12 11:05:21 server2 dhcpd[6902]: [syslog.crit] Disk usage exceeded threshold
+Nov 12 00:32:25 router1 systemd[1717]: [auth.debug] User logged in
+Nov 12 07:46:55 firewall1 systemd[9220]: [kern.err] Failed password for invalid user admin from 192.168.1.2 port 22 ssh2
+Nov 12 05:31:38 server1 nginx[3657]: [daemon.crit] New USB device connected
+Nov 12 06:51:47 router1 smtp[7417]: [syslog.emerg] Connection closed by 192.168.1.3 port 80
+Nov 12 00:46:46 switch1 dhcpd[2782]: [mail.alert] Disk usage exceeded threshold
+Nov 12 08:57:17 server1 kernel[7406]: [auth.info] Unrecognized device detected on network
+Nov 12 05:59:00 router1 sshd[7691]: [daemon.emerg] High CPU usage detected
+Nov 12 06:04:22 server2 systemd[8065]: [mail.crit] Invalid login attempt
+Nov 12 05:58:08 router1 sshd[7268]: [kern.alert] Unrecognized device detected on network
+Nov 12 03:01:49 server1 sshd[9768]: [user.emerg] Service crashed unexpectedly
+Nov 12 10:13:22 firewall1 smtp[1590]: [cron.debug] VPN connection established
+Nov 12 08:52:58 server1 systemd[9593]: [auth.alert] Unauthorized access attempt detected
+Nov 12 07:28:14 switch1 nginx[5869]: [syslog.emerg] Critical system process failed
+Nov 12 07:57:40 server2 nginx[2496]: [user.err] Critical system process failed
+Nov 12 02:58:21 server1 dhcpd[3893]: [kern.crit] Update applied successfully
+Nov 12 04:29:36 switch1 nginx[1518]: [auth.err] VPN connection established
+Nov 12 08:22:01 server1 kernel[8929]: [cron.alert] Unrecognized device detected on network
+Nov 12 01:12:56 server2 systemd[8060]: [cron.alert] Update applied successfully
+Nov 12 05:46:15 switch1 smtp[9905]: [daemon.alert] New device connected to network
+Nov 12 01:22:22 router1 kernel[1940]: [cron.crit] Attempted login with expired password
+Nov 12 00:56:45 server2 dhcpd[6071]: [daemon.crit] Unrecognized device detected on network
+Nov 12 07:29:07 server2 sshd[4901]: [kern.warning] Unexpected shutdown of system
+Nov 12 05:57:24 firewall1 systemd[3419]: [auth.info] Firewall rule updated
+Nov 12 04:24:41 server1 smtp[1988]: [cron.info] Update applied successfully
+Nov 12 11:17:56 router1 kernel[8981]: [syslog.crit] Unrecognized device detected on network
+Nov 12 02:24:08 server1 systemd[9093]: [kern.alert] Firewall rule updated
+Nov 12 00:53:15 firewall1 smtp[5843]: [user.crit] VPN connection disconnected
+Nov 12 02:37:32 switch1 nginx[2552]: [syslog.err] System clock synchronized
+Nov 12 08:03:47 firewall1 cron[1364]: [auth.info] RAID array degraded
+Nov 12 03:38:34 firewall1 smtp[1810]: [syslog.notice] Firewall rule updated
+Nov 12 06:11:18 server1 smtp[6425]: [kern.emerg] Multiple failed login attempts detected
+Nov 12 10:04:40 firewall1 nginx[4859]: [user.warning] Session expired for user
+Nov 12 02:06:17 server2 smtp[7280]: [daemon.crit] User logged in
+Nov 12 09:31:27 router1 systemd[5547]: [kern.alert] Error reading configuration file
+Nov 12 01:46:29 server2 kernel[7175]: [syslog.emerg] Disk usage exceeded threshold
+Nov 12 06:14:03 switch1 smtp[1995]: [user.notice] Backup completed successfully
+Nov 12 06:07:37 switch1 dhcpd[7620]: [mail.info] Unexpected shutdown of system
+Nov 12 08:38:11 router1 nginx[6574]: [user.notice] VPN connection established
+Nov 12 02:39:03 router1 systemd[4297]: [cron.err] Unusual login pattern detected
+Nov 12 02:37:57 switch1 dhcpd[8575]: [cron.err] Service configuration updated
+Nov 12 01:00:41 server1 smtp[7143]: [kern.notice] New USB device connected
+Nov 12 06:07:13 router1 dhcpd[3083]: [auth.err] New software update available
+Nov 12 05:19:28 server2 smtp[1503]: [user.alert] Session expired for user
+Nov 12 04:23:24 firewall1 smtp[8208]: [daemon.info] Unauthorized access attempt detected
+Nov 12 04:24:42 router1 sshd[3751]: [syslog.err] Critical system process failed
+Nov 12 08:39:42 server2 kernel[1056]: [user.notice] Unexpected shutdown of system
+Nov 12 10:24:51 switch1 cron[8507]: [syslog.warning] Starting system reboot
+Nov 12 01:38:43 server1 cron[8853]: [cron.err] VPN connection disconnected
+Nov 12 10:29:08 server2 sshd[3339]: [daemon.alert] Reboot required to apply updates
+Nov 12 06:55:18 switch1 cron[8352]: [auth.emerg] Process killed due to out-of-memory
+Nov 12 07:07:43 firewall1 kernel[2318]: [syslog.emerg] Session expired for user
+Nov 12 06:30:12 server1 sshd[1371]: [auth.alert] User logged in
+Nov 12 05:01:45 router1 dhcpd[9510]: [daemon.warning] Service restarted successfully
+Nov 12 04:53:27 router1 kernel[5920]: [kern.crit] Database connection failed
+Nov 12 05:09:53 switch1 dhcpd[8190]: [kern.alert] High CPU usage detected
+Nov 12 06:54:59 switch1 dhcpd[2760]: [daemon.crit] Reboot required to apply updates
+Nov 12 11:19:45 server1 sshd[2885]: [user.crit] Service restarted successfully
+Nov 12 04:22:31 server2 cron[7739]: [kern.debug] VPN connection disconnected
+Nov 12 00:06:13 firewall1 sshd[5292]: [syslog.err] High CPU usage detected
+Nov 12 05:41:49 switch1 sshd[9760]: [cron.debug] VPN connection established
+Nov 12 10:57:24 router1 sshd[5382]: [syslog.notice] Firewall rule updated
+Nov 12 05:06:06 firewall1 nginx[5035]: [daemon.debug] New device connected to network
+Nov 12 05:31:03 router1 sshd[9516]: [syslog.crit] VPN connection disconnected
+Nov 12 11:28:44 switch1 nginx[1312]: [user.info] Multiple failed login attempts detected
+Nov 12 04:38:57 router1 cron[8399]: [mail.alert] Firewall rule updated
+Nov 12 05:56:28 switch1 systemd[6645]: [mail.info] Update applied successfully
+Nov 12 02:58:25 firewall1 systemd[2023]: [auth.emerg] Service configuration updated
+Nov 12 04:43:31 firewall1 dhcpd[3094]: [kern.err] Filesystem check completed
+Nov 12 02:49:08 router1 dhcpd[5561]: [kern.alert] New device connected to network
+Nov 12 10:19:52 switch1 sshd[5289]: [auth.alert] Critical system process failed
+Nov 12 10:06:31 router1 nginx[6741]: [syslog.emerg] New software update available
+Nov 12 02:18:53 switch1 systemd[8581]: [syslog.notice] Service restarted successfully
+Nov 12 01:11:20 server1 dhcpd[9588]: [auth.emerg] Failed password for invalid user admin from 192.168.1.2 port 22 ssh2
+Nov 12 01:11:50 router1 nginx[8703]: [user.emerg] Critical system process failed
+Nov 12 07:39:48 server1 dhcpd[9772]: [cron.crit] New admin account created
+Nov 12 08:27:42 firewall1 sshd[9635]: [daemon.crit] Shutting down system
+Nov 12 02:37:44 router1 dhcpd[4937]: [user.alert] Reboot required to apply updates
+Nov 12 00:23:44 server1 dhcpd[3473]: [cron.debug] Multiple failed login attempts detected
+Nov 12 07:08:12 router1 systemd[5224]: [syslog.debug] Firewall rule updated
+Nov 12 05:19:19 server2 dhcpd[2816]: [mail.info] Database connection failed
+Nov 12 02:08:34 server2 nginx[7424]: [auth.info] Disk usage exceeded threshold
+Nov 12 09:22:20 firewall1 kernel[8093]: [kern.warning] Multiple failed login attempts detected
+Nov 12 04:00:36 switch1 kernel[6687]: [daemon.info] User logged out
+Nov 12 07:13:21 server1 smtp[8534]: [kern.err] Service configuration updated
+Nov 12 05:54:56 server1 systemd[5453]: [mail.err] Connection closed by 192.168.1.3 port 80
+Nov 12 07:39:45 firewall1 smtp[8064]: [daemon.emerg] Unrecognized device detected on network
+Nov 12 01:03:22 server2 sshd[8803]: [auth.alert] New software update available
+Nov 12 02:21:16 switch1 dhcpd[6207]: [syslog.debug] User logged out
+Nov 12 09:35:19 firewall1 sshd[1372]: [cron.warning] RAID array degraded
+Nov 12 06:00:23 server2 kernel[3569]: [daemon.info] Starting system reboot
+Nov 12 08:48:04 router1 dhcpd[3517]: [auth.err] VPN connection disconnected
+Nov 12 03:12:13 switch1 nginx[4812]: [daemon.notice] New USB device connected
+Nov 12 07:40:56 firewall1 kernel[9141]: [mail.notice] Filesystem check completed
+Nov 12 00:27:09 switch1 cron[3183]: [cron.debug] User added to group
+Nov 12 08:30:20 server1 sshd[8091]: [kern.notice] Network interface restarted
+Nov 12 10:02:10 router1 systemd[8319]: [kern.emerg] Reboot required to apply updates
+Nov 12 00:57:29 router1 cron[7097]: [daemon.debug] Low memory warning
+Nov 12 07:16:34 server2 systemd[3302]: [syslog.crit] Low memory warning
+Nov 12 00:51:02 server1 cron[5914]: [kern.crit] RAID array degraded
+Nov 12 03:30:25 firewall1 smtp[1911]: [kern.debug] Invalid login attempt
+Nov 12 09:43:19 switch1 sshd[7306]: [auth.warning] Starting system reboot
+Nov 12 10:54:53 server2 sshd[3201]: [daemon.alert] VPN connection disconnected
+Nov 12 08:39:59 switch1 sshd[8525]: [auth.warning] New device connected to network
+Nov 12 00:36:31 router1 nginx[1380]: [mail.debug] New device connected to network
+Nov 12 00:18:14 switch1 kernel[1221]: [mail.err] High CPU usage detected
+Nov 12 02:09:36 server1 systemd[3543]: [kern.debug] Database connection failed
+Nov 12 02:10:22 firewall1 nginx[2339]: [daemon.emerg] VPN connection established
+Nov 12 05:28:33 router1 smtp[9774]: [user.alert] Backup completed successfully
+Nov 12 03:07:50 server1 kernel[8152]: [user.alert] Unrecognized device detected on network
+Nov 12 02:04:17 server2 kernel[8852]: [mail.warning] Error reading configuration file
+Nov 12 11:40:22 server1 kernel[2638]: [user.alert] Shutting down system
+Nov 12 01:53:32 server2 kernel[5615]: [auth.crit] Database connection failed
+Nov 12 11:21:41 firewall1 systemd[4154]: [cron.info] Critical system process failed
+Nov 12 04:04:53 server2 nginx[1875]: [user.warning] Filesystem check completed
+Nov 12 10:06:10 firewall1 smtp[8129]: [mail.crit] Failed password for invalid user admin from 192.168.1.2 port 22 ssh2
+Nov 12 08:40:41 switch1 nginx[1058]: [daemon.err] IP address conflict detected
+Nov 12 00:57:54 switch1 nginx[1634]: [kern.debug] Firewall rule applied successfully
+Nov 12 05:49:47 switch1 sshd[8234]: [kern.warning] Network interface restarted
+Nov 12 10:38:39 server2 sshd[9950]: [cron.alert] Multiple failed login attempts detected
+Nov 12 01:00:40 router1 nginx[5838]: [auth.info] VPN connection disconnected
+Nov 12 00:44:59 firewall1 systemd[3523]: [user.emerg] Database connection failed
+Nov 12 00:38:24 server2 dhcpd[5796]: [daemon.notice] Service crashed unexpectedly
+Nov 12 09:33:32 router1 dhcpd[1781]: [cron.info] Disk usage exceeded threshold
+Nov 12 05:20:54 server2 cron[8042]: [kern.err] Database connection failed
+Nov 12 03:11:59 firewall1 nginx[4598]: [mail.err] Service restarted successfully
+Nov 12 09:55:50 firewall1 nginx[8190]: [mail.notice] Attempted login with expired password
+Nov 12 08:14:33 switch1 cron[9492]: [cron.err] Multiple failed login attempts detected
+Nov 12 05:32:22 server1 nginx[4258]: [user.crit] Database connection failed
+Nov 12 05:27:50 router1 sshd[4084]: [mail.alert] User logged out
+Nov 12 08:37:08 firewall1 nginx[6944]: [user.alert] Low memory warning
+Nov 12 00:14:22 switch1 sshd[3893]: [daemon.crit] Unusual login pattern detected
+Nov 12 00:27:56 switch1 dhcpd[4217]: [cron.notice] User logged in
+Nov 12 04:00:56 switch1 sshd[4855]: [mail.crit] Unusual login pattern detected
+Nov 12 05:48:21 switch1 systemd[9143]: [syslog.warning] Service crashed unexpectedly
+Nov 12 01:42:41 server2 systemd[8477]: [syslog.alert] Critical system process failed
+Nov 12 06:00:59 switch1 smtp[3825]: [daemon.warning] Session expired for user
+Nov 12 01:06:16 firewall1 systemd[4081]: [cron.warning] Attempted login with expired password
+Nov 12 04:29:49 firewall1 smtp[1105]: [syslog.notice] Backup completed successfully
+Nov 12 04:38:26 server1 smtp[4982]: [syslog.crit] Unauthorized access attempt detected
+Nov 12 03:27:44 switch1 systemd[3746]: [kern.err] Database connection failed
+Nov 12 00:23:35 server1 smtp[8466]: [cron.info] RAID array degraded
+Nov 12 05:47:48 router1 cron[2095]: [daemon.err] VPN connection disconnected
+Nov 12 04:26:51 server2 dhcpd[6947]: [mail.err] User logged out
+Nov 12 06:29:51 router1 systemd[1441]: [cron.err] New device connected to network
+Nov 12 00:22:42 server2 systemd[7022]: [auth.warning] VPN connection disconnected
+Nov 12 02:35:12 firewall1 dhcpd[6515]: [daemon.alert] Unusual login pattern detected
+Nov 12 03:14:24 server2 systemd[3525]: [syslog.emerg] Connection closed by 192.168.1.3 port 80
+Nov 12 08:28:13 server2 smtp[7111]: [daemon.notice] Invalid login attempt
+Nov 12 07:15:43 router1 dhcpd[9816]: [daemon.alert] VPN connection established
+Nov 12 00:31:55 firewall1 dhcpd[1336]: [user.err] Reboot required to apply updates
+Nov 12 07:16:34 server1 smtp[3602]: [kern.err] Session expired for user
+Nov 12 07:40:55 router1 smtp[4047]: [mail.alert] VPN connection established
+Nov 12 08:03:36 server1 dhcpd[2148]: [daemon.alert] New software update available
+Nov 12 00:58:00 server2 cron[4227]: [auth.emerg] New device connected to network
+Nov 12 05:40:01 switch1 dhcpd[1233]: [cron.info] Failed password for invalid user admin from 192.168.1.2 port 22 ssh2
+Nov 12 07:37:24 server2 smtp[5419]: [user.info] New USB device connected
+Nov 12 01:28:54 server1 nginx[4862]: [cron.emerg] Filesystem check completed
+Nov 12 03:53:54 router1 kernel[8450]: [cron.err] Firewall rule applied successfully
+Nov 12 07:43:47 switch1 sshd[6178]: [user.notice] Database connection failed
+Nov 12 07:29:01 firewall1 kernel[1137]: [cron.notice] Disk quota exceeded
+Nov 12 10:42:59 switch1 sshd[1241]: [auth.emerg] Update applied successfully
+Nov 12 11:11:36 firewall1 dhcpd[4338]: [syslog.info] High CPU usage detected
+Nov 12 11:37:37 switch1 smtp[5705]: [user.crit] Multiple failed login attempts detected
+Nov 12 11:14:40 server2 systemd[2588]: [auth.alert] Unauthorized access attempt detected
+Nov 12 09:06:17 switch1 smtp[9591]: [syslog.crit] Reboot required to apply updates
+Nov 12 03:46:33 firewall1 dhcpd[5492]: [auth.debug] VPN connection established
+Nov 12 06:26:48 switch1 dhcpd[9649]: [kern.crit] Failed password for invalid user admin from 192.168.1.2 port 22 ssh2
+Nov 12 01:36:41 switch1 sshd[4789]: [kern.crit] New USB device connected
+Nov 12 06:43:53 switch1 kernel[1108]: [auth.emerg] Filesystem check completed
+Nov 12 10:08:39 switch1 kernel[2014]: [syslog.debug] VPN connection disconnected
+Nov 12 08:13:43 switch1 nginx[8113]: [cron.err] Unrecognized device detected on network
+Nov 12 06:42:14 router1 sshd[8295]: [daemon.info] Unusual login pattern detected
+Nov 12 01:35:51 firewall1 smtp[6900]: [syslog.notice] Service configuration updated
+Nov 12 06:14:14 firewall1 nginx[3575]: [daemon.notice] Unauthorized access attempt detected
+Nov 12 10:27:44 server2 sshd[8405]: [mail.info] High CPU usage detected
+Nov 12 08:13:04 router1 kernel[6636]: [user.notice] High CPU usage detected
+Nov 12 06:23:33 server2 systemd[7597]: [auth.crit] User logged out
+Nov 12 10:02:48 router1 systemd[2523]: [mail.info] IP address conflict detected
+Nov 12 08:15:19 firewall1 nginx[1998]: [user.warning] System clock synchronized
+Nov 12 05:59:47 switch1 kernel[2365]: [daemon.alert] Unauthorized access attempt detected
+Nov 12 04:16:59 server2 kernel[7276]: [syslog.debug] Unrecognized device detected on network
+Nov 12 09:50:32 firewall1 sshd[6688]: [daemon.err] Critical system process failed
+Nov 12 11:37:38 firewall1 systemd[5932]: [cron.warning] Database connection failed
+Nov 12 07:23:02 server2 sshd[4809]: [auth.notice] Attempted login with expired password
+Nov 12 01:04:08 server1 dhcpd[4212]: [user.err] Critical system process failed
+Nov 12 01:36:59 server1 systemd[3818]: [mail.debug] Service restarted successfully
+Nov 12 03:18:14 router1 smtp[9722]: [user.alert] New admin account created
+Nov 12 06:36:12 firewall1 sshd[2503]: [cron.debug] Shutting down system
+Nov 12 02:07:15 router1 nginx[6971]: [daemon.crit] Unusual login pattern detected
+Nov 12 00:44:10 server1 smtp[4410]: [syslog.crit] Database connection failed
+Nov 12 00:36:59 server2 smtp[8436]: [cron.debug] Reboot required to apply updates
+Nov 12 08:24:04 server1 sshd[7724]: [auth.alert] Attempted login with expired password
+Nov 12 04:20:20 server2 sshd[9783]: [kern.warning] User logged in
+Nov 12 00:33:55 switch1 sshd[3550]: [auth.notice] Low memory warning
+Nov 12 03:38:06 switch1 dhcpd[5847]: [user.debug] User added to group
+Nov 12 05:46:23 switch1 systemd[3398]: [auth.crit] VPN connection disconnected
+Nov 12 04:49:04 switch1 dhcpd[8451]: [cron.crit] Shutting down system
+Nov 12 05:03:55 server1 kernel[7097]: [kern.debug] VPN connection established
+Nov 12 01:09:05 firewall1 cron[8142]: [daemon.crit] Process killed due to out-of-memory
+Nov 12 02:15:10 server2 dhcpd[4962]: [syslog.info] Filesystem check completed
+Nov 12 10:40:04 switch1 kernel[2001]: [mail.emerg] Service configuration updated
+Nov 12 05:20:24 router1 cron[6165]: [mail.info] Multiple failed login attempts detected
+Nov 12 03:46:08 switch1 nginx[4166]: [syslog.err] VPN connection established
+Nov 12 11:18:56 server1 systemd[8962]: [kern.warning] Multiple failed login attempts detected
+Nov 12 01:25:44 firewall1 kernel[1338]: [cron.emerg] User logged out
+Nov 12 08:54:04 firewall1 kernel[6429]: [cron.debug] Low memory warning
+Nov 12 08:53:05 switch1 kernel[7131]: [cron.crit] System clock synchronized
+Nov 12 07:32:39 router1 kernel[5930]: [daemon.alert] User logged out
+Nov 12 04:41:44 router1 cron[4644]: [auth.emerg] High CPU usage detected
+Nov 12 11:36:21 server2 nginx[6771]: [cron.emerg] New device connected to network
+Nov 12 04:17:12 server1 sshd[3657]: [kern.err] Reboot required to apply updates
+Nov 12 11:26:11 server2 sshd[5102]: [cron.debug] Session expired for user
+Nov 12 09:14:17 server2 dhcpd[9294]: [user.crit] New admin account created
+Nov 12 11:29:58 router1 sshd[2102]: [syslog.notice] Disk quota exceeded
+Nov 12 02:15:42 server2 nginx[2868]: [syslog.warning] Failed password for invalid user admin from 192.168.1.2 port 22 ssh2
+Nov 12 02:58:33 server1 sshd[5775]: [cron.warning] Shutting down system
+Nov 12 08:19:07 switch1 sshd[7186]: [mail.err] Disk usage exceeded threshold
+Nov 12 05:11:20 server1 nginx[8790]: [mail.notice] Attempted login with expired password
+Nov 12 10:29:47 switch1 cron[1721]: [syslog.err] New admin account created
+Nov 12 09:47:32 server2 dhcpd[6164]: [mail.alert] Service restarted successfully
+Nov 12 09:04:27 router1 dhcpd[8920]: [auth.err] Database connection failed
+Nov 12 07:40:44 router1 smtp[9678]: [daemon.alert] Network interface restarted
+Nov 12 00:41:25 server1 sshd[1410]: [daemon.debug] IP address conflict detected
+Nov 12 05:08:25 firewall1 cron[1188]: [syslog.crit] High CPU usage detected
+Nov 12 04:19:00 firewall1 dhcpd[6033]: [kern.err] Firewall rule applied successfully
+Nov 12 07:25:53 switch1 cron[1620]: [cron.notice] Session expired for user
+Nov 12 08:43:11 router1 sshd[4765]: [mail.alert] Reboot required to apply updates
+Nov 12 05:31:28 server1 kernel[3168]: [user.warning] Disk quota exceeded
+Nov 12 02:59:36 switch1 nginx[8649]: [mail.info] Firewall rule updated
+Nov 12 02:46:33 firewall1 sshd[1102]: [syslog.emerg] Unusual login pattern detected
+Nov 12 09:31:57 router1 smtp[7533]: [mail.err] Filesystem check completed
+Nov 12 10:38:55 switch1 cron[9881]: [mail.emerg] Multiple failed login attempts detected
+Nov 12 01:02:27 server1 kernel[3073]: [cron.alert] Service restarted successfully
+Nov 12 04:07:45 switch1 nginx[6345]: [syslog.alert] New device connected to network
+Nov 12 11:08:20 router1 cron[4238]: [user.alert] VPN connection disconnected
+Nov 12 04:06:48 switch1 nginx[2845]: [auth.notice] New admin account created
+Nov 12 04:01:01 server2 systemd[5724]: [auth.info] Shutting down system
+Nov 12 07:05:05 switch1 systemd[1302]: [user.info] New device connected to network
+Nov 12 07:36:07 server2 kernel[6297]: [syslog.notice] Service configuration updated
+Nov 12 05:55:43 router1 systemd[7051]: [kern.warning] Firewall rule updated
+Nov 12 00:52:03 switch1 dhcpd[3306]: [syslog.emerg] Starting system reboot
+Nov 12 08:40:54 server1 cron[6674]: [syslog.emerg] Process killed due to out-of-memory
+Nov 12 02:50:23 router1 kernel[4330]: [mail.info] Backup completed successfully
+Nov 12 04:00:08 server2 nginx[9822]: [daemon.warning] VPN connection disconnected
+Nov 12 06:22:16 router1 cron[1135]: [cron.err] User logged in
+Nov 12 01:30:52 server2 systemd[4039]: [cron.err] New software update available
+Nov 12 06:24:10 firewall1 kernel[8421]: [syslog.alert] User added to group
+Nov 12 01:17:21 firewall1 cron[3479]: [syslog.warning] High CPU usage detected
+Nov 12 08:06:24 switch1 sshd[9144]: [mail.emerg] New admin account created
+Nov 12 01:43:42 router1 kernel[7649]: [cron.crit] Service restarted successfully
+Nov 12 01:53:26 firewall1 smtp[6575]: [syslog.err] Connection closed by 192.168.1.3 port 80
+Nov 12 00:27:06 switch1 nginx[6212]: [daemon.alert] Database connection failed
+Nov 12 10:05:21 server1 systemd[4022]: [daemon.alert] Filesystem check completed
+Nov 12 02:27:59 router1 kernel[4302]: [cron.notice] Shutting down system
+Nov 12 06:46:31 switch1 sshd[1143]: [kern.crit] Service restarted successfully
+Nov 12 08:11:45 firewall1 smtp[6166]: [auth.alert] Disk usage exceeded threshold
+Nov 12 07:25:13 server2 systemd[3699]: [auth.err] Network interface restarted
+Nov 12 03:32:40 switch1 nginx[5248]: [user.debug] New device connected to network
+Nov 12 10:32:32 router1 systemd[7059]: [cron.alert] Backup completed successfully
+Nov 12 02:06:30 server1 sshd[9390]: [daemon.crit] Low memory warning
+Nov 12 09:57:44 switch1 cron[5023]: [daemon.alert] Firewall rule applied successfully
+Nov 12 03:26:32 server1 smtp[7895]: [user.err] Multiple failed login attempts detected
+Nov 12 05:29:30 router1 systemd[1212]: [kern.alert] Failed password for invalid user admin from 192.168.1.2 port 22 ssh2
+Nov 12 03:24:46 server1 sshd[2242]: [daemon.info] User logged in
+Nov 12 10:03:30 switch1 kernel[1814]: [syslog.alert] Shutting down system
+Nov 12 06:25:51 router1 systemd[9204]: [kern.err] New device connected to network
+Nov 12 11:39:58 server1 smtp[2485]: [kern.notice] New device connected to network
+Nov 12 03:07:10 firewall1 cron[2675]: [syslog.warning] Disk quota exceeded
+Nov 12 03:25:19 server2 nginx[4359]: [cron.crit] High CPU usage detected
+Nov 12 11:10:22 router1 cron[8255]: [daemon.emerg] Process killed due to out-of-memory
+Nov 12 06:23:24 router1 sshd[6448]: [kern.emerg] New USB device connected
+Nov 12 05:14:16 firewall1 smtp[7911]: [mail.crit] IP address conflict detected
+Nov 12 00:24:04 server1 sshd[5591]: [daemon.debug] Unrecognized device detected on network
+Nov 12 01:39:28 firewall1 kernel[6756]: [daemon.warning] Firewall rule updated
+Nov 12 06:39:08 server1 kernel[7756]: [auth.emerg] IP address conflict detected
+Nov 12 08:38:47 server1 cron[1348]: [user.warning] Filesystem check completed
+Nov 12 10:22:56 router1 sshd[4307]: [user.info] User logged out
+Nov 12 01:08:33 server1 cron[3231]: [mail.warning] Service restarted successfully
+Nov 12 01:13:30 router1 kernel[5409]: [cron.crit] Critical system process failed
+Nov 12 11:29:07 firewall1 dhcpd[5345]: [cron.crit] Critical system process failed
+Nov 12 05:31:04 router1 cron[4873]: [syslog.alert] Unrecognized device detected on network
+Nov 12 03:43:37 firewall1 nginx[2421]: [daemon.emerg] VPN connection established
+Nov 12 10:06:37 server1 dhcpd[3788]: [auth.alert] Critical system process failed
+Nov 12 11:18:37 firewall1 kernel[3432]: [syslog.info] High CPU usage detected
+Nov 12 05:14:02 server2 systemd[2061]: [user.alert] Starting system reboot
+Nov 12 02:10:31 firewall1 systemd[9544]: [mail.notice] Firewall rule applied successfully
+Nov 12 08:16:10 switch1 sshd[3705]: [mail.info] User logged in
+Nov 12 04:14:52 server2 smtp[2416]: [daemon.emerg] Database connection failed
+Nov 12 08:03:10 router1 smtp[7794]: [user.crit] Service configuration updated
+Nov 12 09:57:14 firewall1 kernel[9427]: [syslog.warning] Unexpected shutdown of system
+Nov 12 06:47:29 router1 kernel[9200]: [cron.info] Critical system process failed
+Nov 12 07:13:52 firewall1 sshd[5311]: [cron.debug] Service configuration updated
+Nov 12 09:25:03 server1 systemd[2326]: [auth.info] Unusual login pattern detected
+Nov 12 03:21:30 server2 cron[8449]: [syslog.emerg] Invalid login attempt
+Nov 12 03:14:58 server2 systemd[5138]: [daemon.alert] Starting system reboot
+Nov 12 00:51:43 server2 systemd[5054]: [daemon.debug] Network interface restarted
+Nov 12 08:09:22 firewall1 cron[9460]: [daemon.err] System clock synchronized
+Nov 12 03:32:33 server2 dhcpd[7444]: [cron.emerg] Firewall rule applied successfully
+Nov 12 07:53:30 switch1 systemd[2873]: [daemon.warning] Multiple failed login attempts detected
+Nov 12 09:41:53 router1 nginx[5194]: [cron.debug] Reboot required to apply updates
+Nov 12 05:35:31 server1 dhcpd[9780]: [daemon.debug] Failed password for invalid user admin from 192.168.1.2 port 22 ssh2
+Nov 12 02:07:38 server1 dhcpd[3542]: [daemon.notice] New device connected to network
+Nov 12 01:51:15 firewall1 smtp[2535]: [kern.warning] Firewall rule applied successfully
+Nov 12 04:09:06 router1 nginx[3388]: [kern.crit] New admin account created
+Nov 12 07:09:03 switch1 systemd[5426]: [daemon.err] Unexpected shutdown of system
+Nov 12 04:15:33 firewall1 systemd[7866]: [auth.crit] Failed password for invalid user admin from 192.168.1.2 port 22 ssh2
+Nov 12 09:34:22 server2 cron[2474]: [syslog.err] Session expired for user
+Nov 12 01:22:51 switch1 smtp[3607]: [daemon.emerg] User added to group
+Nov 12 00:51:12 server2 smtp[9477]: [auth.notice] Service restarted successfully
+Nov 12 04:33:38 firewall1 dhcpd[8074]: [kern.warning] New USB device connected
+Nov 12 07:17:21 server1 cron[7765]: [mail.crit] Network interface restarted
+Nov 12 00:38:23 router1 kernel[6807]: [cron.alert] Accepted password for user from 192.168.1.1 port 22 ssh2
+Nov 12 10:33:57 firewall1 nginx[8666]: [auth.emerg] Failed password for invalid user admin from 192.168.1.2 port 22 ssh2
+Nov 12 00:52:22 server1 systemd[7932]: [daemon.crit] Update applied successfully
+Nov 12 01:33:49 server2 dhcpd[2791]: [syslog.err] Unexpected shutdown of system
+Nov 12 02:33:38 switch1 dhcpd[8307]: [auth.alert] VPN connection established
+Nov 12 10:06:43 router1 smtp[3153]: [auth.err] Unexpected shutdown of system
+Nov 12 03:14:16 server2 dhcpd[1756]: [user.notice] Firewall rule updated
+Nov 12 08:51:12 server1 smtp[2755]: [auth.info] High CPU usage detected
+Nov 12 03:01:21 switch1 systemd[1816]: [user.emerg] Process killed due to out-of-memory
+Nov 12 07:32:01 firewall1 cron[4043]: [cron.notice] Database connection failed
+Nov 12 04:17:08 firewall1 smtp[7717]: [cron.err] Session expired for user
+Nov 12 03:09:56 switch1 sshd[1466]: [cron.alert] Disk usage exceeded threshold
+Nov 12 11:44:23 server1 nginx[1249]: [syslog.crit] Disk usage exceeded threshold
+Nov 12 08:38:45 firewall1 kernel[8560]: [kern.notice] Service restarted successfully
+Nov 12 01:47:53 firewall1 cron[5989]: [daemon.err] User logged in
+Nov 12 09:56:31 server2 dhcpd[9683]: [daemon.debug] Unauthorized access attempt detected
+Nov 12 08:52:39 server2 nginx[8071]: [user.info] New device connected to network
+Nov 12 07:24:42 switch1 sshd[1020]: [cron.emerg] Service restarted successfully
+Nov 12 04:18:45 router1 cron[5704]: [auth.err] New software update available
+Nov 12 11:15:10 firewall1 kernel[5163]: [mail.debug] Invalid login attempt
+Nov 12 05:40:42 server2 sshd[9100]: [syslog.notice] Firewall rule updated
+Nov 12 08:22:58 server1 cron[2001]: [kern.notice] RAID array degraded
+Nov 12 11:14:30 server1 cron[5120]: [mail.notice] Disk quota exceeded
+Nov 12 05:27:45 server1 kernel[3236]: [user.err] User added to group
+Nov 12 02:43:20 server1 sshd[8347]: [user.notice] Failed password for invalid user admin from 192.168.1.2 port 22 ssh2
+Nov 12 09:01:17 switch1 kernel[6735]: [kern.err] New device connected to network
+Nov 12 02:48:50 server2 sshd[6282]: [auth.emerg] Attempted login with expired password
+Nov 12 07:14:54 router1 kernel[9809]: [cron.emerg] Database connection failed
+Nov 12 11:20:25 server2 systemd[2847]: [mail.err] Backup completed successfully
+Nov 12 06:40:27 router1 smtp[2916]: [kern.crit] Failed password for invalid user admin from 192.168.1.2 port 22 ssh2
+Nov 12 11:07:18 server2 smtp[1503]: [kern.debug] Low memory warning
+Nov 12 04:27:51 server2 kernel[1394]: [syslog.emerg] Unrecognized device detected on network
+Nov 12 04:01:40 server1 cron[6139]: [daemon.crit] New software update available
+Nov 12 08:33:34 server1 systemd[1049]: [mail.info] New USB device connected
+Nov 12 04:24:24 firewall1 nginx[2622]: [user.warning] Service crashed unexpectedly
+Nov 12 09:07:28 switch1 systemd[9760]: [mail.info] User logged out
+Nov 12 11:03:49 firewall1 kernel[1941]: [auth.debug] New device connected to network
+Nov 12 06:33:56 switch1 nginx[2155]: [cron.err] Service configuration updated
+Nov 12 01:55:45 switch1 dhcpd[6337]: [kern.debug] Firewall rule applied successfully
+Nov 12 08:31:48 router1 dhcpd[4495]: [daemon.debug] Shutting down system
+Nov 12 01:36:31 server1 cron[7284]: [auth.crit] Disk quota exceeded
+Nov 12 10:34:27 firewall1 nginx[2750]: [daemon.debug] New device connected to network
+Nov 12 00:10:57 server2 smtp[2457]: [user.debug] Update applied successfully
+Nov 12 10:31:27 server1 cron[4669]: [syslog.notice] Attempted login with expired password
+Nov 12 09:11:10 firewall1 cron[4299]: [daemon.debug] Firewall rule updated
+Nov 12 01:57:57 server1 nginx[8378]: [auth.alert] Firewall rule applied successfully
+Nov 12 07:12:09 firewall1 nginx[3194]: [daemon.emerg] New admin account created
+Nov 12 09:11:26 server1 dhcpd[6096]: [kern.info] Attempted login with expired password
+Nov 12 08:35:46 switch1 smtp[1452]: [mail.emerg] Unusual login pattern detected
+Nov 12 05:33:05 router1 dhcpd[5727]: [syslog.crit] Reboot required to apply updates
+Nov 12 03:16:33 server2 cron[5029]: [kern.crit] User logged out
+Nov 12 07:32:09 server1 kernel[6126]: [syslog.alert] Unauthorized access attempt detected
+Nov 12 08:29:47 server1 kernel[5109]: [mail.warning] Database connection failed
+Nov 12 04:19:59 router1 kernel[7800]: [cron.crit] System clock synchronized
+Nov 12 08:57:48 server2 kernel[8219]: [mail.emerg] Connection closed by 192.168.1.3 port 80
+Nov 12 08:27:22 switch1 systemd[8378]: [kern.info] Attempted login with expired password
+Nov 12 10:57:46 router1 smtp[8977]: [cron.debug] Starting system reboot
+Nov 12 04:57:55 firewall1 systemd[7363]: [mail.debug] System clock synchronized
+Nov 12 03:51:00 server1 sshd[3203]: [mail.alert] Multiple failed login attempts detected
+Nov 12 10:00:20 router1 cron[9035]: [syslog.err] Unusual login pattern detected
+Nov 12 10:57:45 server1 dhcpd[7255]: [syslog.notice] Starting system reboot
+Nov 12 03:50:10 firewall1 kernel[7617]: [kern.alert] System clock synchronized
+Nov 12 01:55:04 firewall1 smtp[8367]: [auth.crit] Process killed due to out-of-memory
+Nov 12 10:46:27 server2 sshd[9549]: [auth.debug] Error reading configuration file
+Nov 12 10:35:54 server2 kernel[5517]: [user.debug] High CPU usage detected
+Nov 12 03:54:38 server1 nginx[1123]: [cron.emerg] Session expired for user
+Nov 12 01:47:50 switch1 smtp[6773]: [auth.alert] Database connection failed
+Nov 12 11:39:23 server2 cron[2378]: [mail.crit] Invalid login attempt
+Nov 12 11:05:54 server2 systemd[6330]: [user.err] Invalid login attempt
+Nov 12 04:53:47 switch1 nginx[5402]: [auth.alert] Starting system reboot
+Nov 12 00:07:34 router1 sshd[4681]: [mail.notice] Session expired for user
+Nov 12 02:55:43 server2 cron[9131]: [cron.info] RAID array degraded
+Nov 12 07:51:53 firewall1 smtp[8565]: [auth.notice] VPN connection disconnected
+Nov 12 08:21:26 server2 sshd[7345]: [kern.info] RAID array degraded
+Nov 12 05:08:20 firewall1 kernel[2780]: [user.emerg] Accepted password for user from 192.168.1.1 port 22 ssh2
+Nov 12 03:19:36 router1 smtp[3631]: [cron.notice] New software update available
+Nov 12 07:23:50 server2 cron[6166]: [user.notice] Error reading configuration file
+Nov 12 11:39:11 switch1 kernel[7893]: [syslog.warning] Connection closed by 192.168.1.3 port 80
+Nov 12 11:00:51 server1 kernel[7344]: [auth.debug] VPN connection disconnected
+Nov 12 11:34:24 firewall1 systemd[2646]: [auth.alert] New USB device connected
+Nov 12 00:15:26 server1 systemd[8473]: [daemon.notice] Unusual login pattern detected
+Nov 12 03:53:14 server2 cron[8645]: [daemon.emerg] Attempted login with expired password
+Nov 12 02:47:43 server2 dhcpd[6880]: [user.alert] New USB device connected
+Nov 12 03:49:48 switch1 sshd[3353]: [kern.alert] RAID array degraded
+Nov 12 09:54:52 server1 nginx[8849]: [user.err] Firewall rule updated
+Nov 12 00:08:20 server2 nginx[7038]: [syslog.warning] System clock synchronized
+Nov 12 11:40:03 router1 dhcpd[6955]: [user.debug] Disk quota exceeded
+Nov 12 01:30:44 switch1 sshd[6933]: [cron.warning] VPN connection disconnected
+Nov 12 08:58:28 server1 smtp[2331]: [user.err] VPN connection disconnected
+Nov 12 00:41:44 server2 systemd[1236]: [auth.err] Service crashed unexpectedly
+Nov 12 07:17:52 server1 nginx[8200]: [user.alert] RAID array degraded
+Nov 12 10:05:12 switch1 cron[6834]: [mail.notice] User logged in
+Nov 12 10:17:47 server1 cron[4013]: [daemon.err] Low memory warning
+Nov 12 08:37:17 switch1 nginx[8605]: [user.warning] Service crashed unexpectedly
+Nov 12 08:46:19 server1 systemd[3996]: [auth.notice] System clock synchronized
+Nov 12 04:28:04 firewall1 systemd[2353]: [auth.notice] New USB device connected
+Nov 12 10:00:33 switch1 kernel[9897]: [mail.warning] Accepted password for user from 192.168.1.1 port 22 ssh2
+Nov 12 08:42:24 server1 systemd[6319]: [user.info] Critical system process failed
+Nov 12 02:33:26 router1 nginx[5698]: [mail.emerg] Attempted login with expired password
+Nov 12 11:44:27 server2 smtp[9285]: [mail.info] Connection closed by 192.168.1.3 port 80
+Nov 12 08:00:41 router1 kernel[4274]: [auth.debug] Service configuration updated
+Nov 12 10:38:50 server1 cron[7932]: [cron.err] Disk usage exceeded threshold
+Nov 12 01:02:30 server2 kernel[7375]: [user.emerg] Unrecognized device detected on network
+Nov 12 02:52:24 switch1 kernel[8279]: [kern.warning] Disk usage exceeded threshold
+Nov 12 08:59:26 router1 sshd[2219]: [auth.info] System clock synchronized
+Nov 12 07:52:31 firewall1 dhcpd[5177]: [kern.notice] Update applied successfully
+Nov 12 10:41:14 server1 cron[2245]: [daemon.warning] Firewall rule applied successfully
+Nov 12 00:38:00 server2 systemd[2448]: [cron.emerg] New device connected to network
+Nov 12 03:03:19 server1 sshd[2807]: [syslog.info] Database connection failed
+Nov 12 02:29:23 router1 smtp[9548]: [syslog.debug] RAID array degraded
+Nov 12 01:17:33 firewall1 sshd[3951]: [auth.notice] Database connection failed
+Nov 12 05:08:44 switch1 systemd[5291]: [cron.crit] Invalid login attempt
+Nov 12 02:06:47 server1 sshd[7886]: [daemon.emerg] New USB device connected
+Nov 12 00:13:05 server2 nginx[8627]: [daemon.crit] Error reading configuration file
+Nov 12 04:03:38 server2 sshd[7428]: [auth.emerg] High CPU usage detected
+Nov 12 05:21:12 server1 kernel[3996]: [user.info] New admin account created
+Nov 12 06:50:06 server1 nginx[9280]: [cron.emerg] Multiple failed login attempts detected
+Nov 12 06:02:24 server2 kernel[2931]: [cron.warning] User logged out
+Nov 12 10:51:52 server1 smtp[3853]: [daemon.info] VPN connection established
+Nov 12 00:25:14 router1 systemd[7640]: [syslog.info] Multiple failed login attempts detected
+Nov 12 09:14:03 firewall1 cron[6838]: [user.info] Database connection failed
+Nov 12 10:24:39 firewall1 cron[4435]: [kern.emerg] Starting system reboot
+Nov 12 00:23:15 server1 kernel[2702]: [kern.alert] New software update available
+Nov 12 03:58:09 router1 kernel[5731]: [auth.crit] VPN connection established
+Nov 12 07:05:59 switch1 sshd[5524]: [kern.emerg] Update applied successfully
+Nov 12 05:40:02 server2 cron[1609]: [kern.err] Error reading configuration file
+Nov 12 11:44:45 firewall1 kernel[3647]: [mail.crit] Backup completed successfully
+Nov 12 09:11:27 server1 systemd[6232]: [auth.info] New software update available
+Nov 12 04:07:57 switch1 nginx[6492]: [syslog.alert] Service crashed unexpectedly
+Nov 12 07:42:13 server1 nginx[5534]: [user.alert] System clock synchronized
+Nov 12 11:34:46 server2 systemd[2471]: [kern.notice] Invalid login attempt
+Nov 12 04:59:31 server2 nginx[1353]: [syslog.warning] Service configuration updated
+Nov 12 04:24:17 router1 cron[3827]: [mail.alert] Reboot required to apply updates
+Nov 12 10:57:38 router1 smtp[5933]: [syslog.err] Service crashed unexpectedly
+Nov 12 04:11:49 switch1 dhcpd[7484]: [kern.warning] Connection closed by 192.168.1.3 port 80
+Nov 12 04:38:03 firewall1 systemd[9679]: [auth.emerg] Session expired for user
+Nov 12 06:42:31 switch1 nginx[4683]: [daemon.debug] Disk usage exceeded threshold
+Nov 12 05:14:40 firewall1 nginx[9141]: [auth.info] Error reading configuration file
+Nov 12 08:09:46 switch1 sshd[1773]: [syslog.alert] Accepted password for user from 192.168.1.1 port 22 ssh2
+Nov 12 07:17:09 server1 nginx[4696]: [user.warning] Process killed due to out-of-memory
+Nov 12 11:39:42 server1 nginx[4376]: [cron.warning] New USB device connected
+Nov 12 09:56:40 server2 kernel[8137]: [cron.alert] Error reading configuration file
+Nov 12 03:25:32 server1 sshd[8740]: [user.err] Firewall rule updated
+Nov 12 04:46:47 server2 kernel[2914]: [user.debug] Shutting down system
+Nov 12 04:31:58 router1 nginx[1607]: [kern.notice] User logged out
+Nov 12 08:30:53 server2 kernel[3647]: [kern.info] Update applied successfully
+Nov 12 05:19:57 switch1 smtp[2995]: [kern.notice] Critical system process failed
+Nov 12 01:03:45 firewall1 sshd[1186]: [cron.alert] Disk usage exceeded threshold
+Nov 12 03:59:34 router1 sshd[1259]: [kern.emerg] Session expired for user
+Nov 12 07:05:55 switch1 dhcpd[1386]: [daemon.notice] VPN connection established
+Nov 12 08:44:19 server1 sshd[6756]: [daemon.warning] Accepted password for user from 192.168.1.1 port 22 ssh2
+Nov 12 11:17:00 switch1 dhcpd[9668]: [mail.emerg] Failed password for invalid user admin from 192.168.1.2 port 22 ssh2
+Nov 12 10:17:35 server2 kernel[6636]: [kern.info] Filesystem check completed
+Nov 12 06:45:27 server2 systemd[3697]: [mail.alert] Shutting down system
+Nov 12 04:29:47 firewall1 sshd[6001]: [kern.alert] RAID array degraded
+Nov 12 00:04:03 router1 dhcpd[3534]: [daemon.debug] Filesystem check completed
+Nov 12 00:20:08 firewall1 cron[1144]: [daemon.notice] Reboot required to apply updates
+Nov 12 06:27:02 firewall1 nginx[5130]: [cron.alert] Shutting down system
+Nov 12 02:18:14 server1 dhcpd[5607]: [user.alert] User logged in
+Nov 12 01:30:26 switch1 kernel[4671]: [user.err] High CPU usage detected
+Nov 12 01:46:21 switch1 kernel[4031]: [cron.debug] RAID array degraded
+Nov 12 08:20:39 server2 dhcpd[5149]: [syslog.debug] Failed password for invalid user admin from 192.168.1.2 port 22 ssh2
+Nov 12 09:25:46 firewall1 kernel[4666]: [cron.crit] Filesystem check completed
+Nov 12 00:15:44 firewall1 nginx[4622]: [cron.emerg] RAID array degraded
+Nov 12 02:04:09 switch1 cron[9361]: [user.err] Unauthorized access attempt detected
+Nov 12 05:33:25 switch1 nginx[6089]: [user.warning] Process killed due to out-of-memory
+Nov 12 10:44:25 server1 cron[6823]: [mail.emerg] Firewall rule updated
+Nov 12 05:20:58 switch1 sshd[1271]: [user.info] Starting system reboot
+Nov 12 01:06:09 server2 smtp[5867]: [cron.err] New USB device connected
+Nov 12 10:36:33 router1 nginx[5332]: [user.info] Critical system process failed
+Nov 12 03:44:11 router1 dhcpd[2939]: [cron.debug] Error reading configuration file
+Nov 12 03:23:33 server2 nginx[4655]: [cron.alert] Attempted login with expired password
+Nov 12 01:31:40 router1 kernel[1355]: [user.debug] New admin account created
+Nov 12 01:02:06 server2 kernel[3683]: [auth.crit] New USB device connected
+Nov 12 03:36:34 router1 smtp[8083]: [mail.info] IP address conflict detected
+Nov 12 09:54:28 switch1 smtp[6447]: [mail.err] New USB device connected
+Nov 12 11:01:44 server2 smtp[7643]: [cron.notice] Database connection failed
+Nov 12 05:02:16 router1 nginx[6951]: [daemon.emerg] User logged out
+Nov 12 03:33:16 server2 dhcpd[7906]: [mail.notice] Backup completed successfully
+Nov 12 06:26:15 switch1 dhcpd[6567]: [daemon.emerg] Disk usage exceeded threshold
+Nov 12 03:44:20 router1 nginx[3821]: [auth.alert] VPN connection disconnected
+Nov 12 04:49:56 switch1 sshd[2973]: [auth.warning] Failed password for invalid user admin from 192.168.1.2 port 22 ssh2
+Nov 12 08:13:38 switch1 kernel[8298]: [auth.crit] Process killed due to out-of-memory
+Nov 12 06:14:33 server2 sshd[9496]: [mail.crit] Unusual login pattern detected
+Nov 12 07:35:04 switch1 kernel[7312]: [kern.err] Low memory warning
+Nov 12 11:25:24 router1 sshd[3205]: [daemon.debug] User logged in
+Nov 12 04:28:35 firewall1 cron[3212]: [daemon.info] User logged in
+Nov 12 03:22:21 firewall1 smtp[6852]: [kern.info] Session expired for user
+Nov 12 05:36:17 switch1 smtp[1729]: [daemon.alert] RAID array degraded
+Nov 12 01:15:52 router1 kernel[1682]: [mail.emerg] Low memory warning
+Nov 12 10:13:53 firewall1 systemd[3761]: [auth.info] Starting system reboot
+Nov 12 02:31:49 server2 dhcpd[9665]: [auth.emerg] User logged in
+Nov 12 00:25:55 server2 sshd[1840]: [auth.crit] Backup completed successfully
+Nov 12 05:36:50 switch1 smtp[3897]: [daemon.info] VPN connection established
+Nov 12 10:05:11 server2 smtp[8578]: [mail.warning] System clock synchronized
+Nov 12 05:02:27 switch1 kernel[4991]: [auth.crit] Low memory warning
+Nov 12 07:18:19 firewall1 systemd[1872]: [user.debug] Firewall rule applied successfully
+Nov 12 11:32:46 switch1 smtp[8547]: [cron.warning] Firewall rule applied successfully
+Nov 12 06:13:40 server1 dhcpd[1472]: [kern.info] Attempted login with expired password
+Nov 12 04:59:51 server2 cron[8148]: [kern.err] Low memory warning
+Nov 12 02:01:24 server2 nginx[5254]: [mail.info] Starting system reboot
+Nov 12 06:16:32 router1 kernel[5066]: [cron.warning] Shutting down system
+Nov 12 04:45:14 server1 cron[8490]: [syslog.crit] IP address conflict detected
+Nov 12 04:47:34 server1 dhcpd[9946]: [auth.notice] User logged out
+Nov 12 06:43:23 firewall1 nginx[7418]: [daemon.alert] Service configuration updated
+Nov 12 00:38:51 switch1 nginx[7427]: [user.crit] RAID array degraded
+Nov 12 10:05:13 router1 nginx[2510]: [user.warning] System clock synchronized
+Nov 12 10:41:51 switch1 sshd[9743]: [syslog.crit] Failed password for invalid user admin from 192.168.1.2 port 22 ssh2
+Nov 12 06:14:30 firewall1 smtp[5947]: [user.crit] New device connected to network
+Nov 12 03:41:02 router1 sshd[4655]: [user.alert] VPN connection established
+Nov 12 05:54:33 server1 kernel[9998]: [mail.info] New software update available
+Nov 12 00:23:31 switch1 cron[8815]: [cron.debug] Disk usage exceeded threshold
+Nov 12 05:02:42 server1 smtp[4313]: [kern.alert] User added to group
+Nov 12 08:33:13 firewall1 smtp[3343]: [cron.info] Connection closed by 192.168.1.3 port 80
+Nov 12 03:57:12 firewall1 smtp[2293]: [auth.notice] Connection closed by 192.168.1.3 port 80
+Nov 12 10:25:18 server2 systemd[2280]: [kern.alert] Low memory warning
+Nov 12 10:13:57 switch1 systemd[8719]: [mail.warning] New device connected to network
+Nov 12 08:02:34 router1 dhcpd[6615]: [kern.notice] Filesystem check completed
+Nov 12 04:01:40 firewall1 kernel[7914]: [daemon.err] Filesystem check completed
+Nov 12 05:36:52 server1 kernel[7628]: [daemon.notice] Starting system reboot
+Nov 12 06:55:53 switch1 smtp[9833]: [user.notice] Attempted login with expired password
+Nov 12 03:16:19 firewall1 smtp[3655]: [auth.debug] Failed password for invalid user admin from 192.168.1.2 port 22 ssh2
+Nov 12 01:26:59 router1 dhcpd[1673]: [mail.info] High CPU usage detected
+Nov 12 04:02:52 server2 dhcpd[4595]: [cron.alert] User added to group
+Nov 12 09:06:31 server2 cron[5907]: [kern.warning] System clock synchronized
+Nov 12 09:13:16 router1 systemd[5442]: [cron.emerg] System clock synchronized
+Nov 12 03:29:04 server1 sshd[1927]: [cron.crit] User logged out
+Nov 12 06:11:44 router1 cron[8089]: [auth.emerg] Service configuration updated
+Nov 12 09:56:19 router1 cron[3051]: [daemon.alert] New USB device connected
+Nov 12 08:51:28 switch1 cron[6533]: [user.notice] User added to group
+Nov 12 02:19:06 router1 kernel[9546]: [user.alert] Service restarted successfully
+Nov 12 03:48:38 server1 nginx[2378]: [mail.err] New software update available
+Nov 12 06:29:06 router1 dhcpd[3200]: [user.emerg] Network interface restarted
+Nov 12 01:42:04 firewall1 systemd[3221]: [auth.err] Attempted login with expired password
+Nov 12 07:05:27 router1 kernel[4892]: [kern.notice] New admin account created
+Nov 12 02:57:30 firewall1 cron[1049]: [mail.emerg] RAID array degraded
+Nov 12 04:37:48 server1 cron[5545]: [kern.info] Filesystem check completed
+Nov 12 00:57:25 firewall1 systemd[2338]: [auth.err] Firewall rule applied successfully
+Nov 12 04:53:58 firewall1 smtp[7607]: [user.debug] Multiple failed login attempts detected
+Nov 12 05:08:14 router1 systemd[2081]: [cron.debug] Unusual login pattern detected
+Nov 12 05:49:33 router1 smtp[9755]: [daemon.warning] New USB device connected
+Nov 12 03:29:47 firewall1 sshd[3670]: [user.err] Accepted password for user from 192.168.1.1 port 22 ssh2
+Nov 12 07:34:40 server2 systemd[9059]: [user.err] Disk usage exceeded threshold
+Nov 12 07:43:49 switch1 systemd[6114]: [auth.info] Unexpected shutdown of system
+Nov 12 05:09:29 switch1 nginx[5704]: [auth.warning] Service crashed unexpectedly
+Nov 12 05:24:14 switch1 systemd[5293]: [syslog.err] Session expired for user
+Nov 12 03:13:10 server2 systemd[3764]: [user.err] Low memory warning
+Nov 12 05:17:23 server1 systemd[9761]: [auth.emerg] Invalid login attempt
+Nov 12 04:24:07 switch1 cron[9546]: [daemon.alert] Firewall rule applied successfully
+Nov 12 07:21:45 router1 cron[2112]: [user.warning] Error reading configuration file
+Nov 12 06:37:00 firewall1 nginx[9909]: [mail.info] Invalid login attempt
+Nov 12 10:57:07 firewall1 dhcpd[4401]: [user.err] Disk usage exceeded threshold
+Nov 12 08:34:16 server1 smtp[1407]: [kern.warning] User added to group
+Nov 12 04:58:33 firewall1 smtp[4167]: [kern.notice] Unusual login pattern detected
+Nov 12 02:35:19 server1 systemd[8095]: [daemon.err] Starting system reboot
+Nov 12 02:07:19 server2 sshd[9197]: [kern.err] Network interface restarted
+Nov 12 05:11:34 server2 kernel[2796]: [auth.err] Service crashed unexpectedly
+Nov 12 08:15:32 server1 smtp[5429]: [mail.debug] New USB device connected
+Nov 12 06:44:37 switch1 nginx[3709]: [auth.alert] Unrecognized device detected on network
+Nov 12 06:23:36 server2 cron[3243]: [daemon.crit] New device connected to network
+Nov 12 00:26:46 router1 smtp[1052]: [auth.emerg] Network interface restarted
+Nov 12 05:51:23 switch1 smtp[2974]: [cron.alert] Low memory warning
+Nov 12 08:47:53 server1 dhcpd[9880]: [daemon.notice] Reboot required to apply updates
+Nov 12 04:45:44 router1 systemd[2326]: [daemon.err] New device connected to network
+Nov 12 11:28:43 firewall1 dhcpd[8603]: [auth.emerg] Multiple failed login attempts detected
+Nov 12 11:32:51 switch1 smtp[5476]: [kern.debug] User added to group
+Nov 12 11:01:41 firewall1 dhcpd[9429]: [kern.emerg] Service configuration updated
+Nov 12 08:01:10 router1 systemd[9676]: [daemon.emerg] Attempted login with expired password
+Nov 12 02:17:18 switch1 kernel[1284]: [auth.alert] Failed password for invalid user admin from 192.168.1.2 port 22 ssh2
+Nov 12 11:43:55 firewall1 kernel[3688]: [cron.crit] Filesystem check completed
+Nov 12 09:14:17 router1 sshd[2623]: [mail.err] Filesystem check completed
+Nov 12 06:34:28 switch1 kernel[1714]: [auth.emerg] User added to group
+Nov 12 03:35:58 router1 cron[7966]: [mail.alert] Service configuration updated
+Nov 12 10:07:44 server2 sshd[7222]: [daemon.debug] New USB device connected
+Nov 12 04:02:55 switch1 nginx[9022]: [user.notice] RAID array degraded
+Nov 12 10:56:15 router1 kernel[7777]: [auth.err] Connection closed by 192.168.1.3 port 80
+Nov 12 07:31:50 firewall1 systemd[6174]: [daemon.crit] Database connection failed
+Nov 12 02:49:48 server1 nginx[7076]: [syslog.err] VPN connection disconnected
+Nov 12 07:19:23 router1 sshd[1078]: [kern.alert] Firewall rule updated
+Nov 12 07:43:20 router1 smtp[5338]: [mail.err] Filesystem check completed
+Nov 12 03:20:00 firewall1 nginx[3680]: [user.alert] Critical system process failed
+Nov 12 08:42:03 firewall1 systemd[7516]: [cron.notice] IP address conflict detected
+Nov 12 00:27:09 server1 sshd[9576]: [mail.warning] Disk quota exceeded
+Nov 12 03:01:59 switch1 dhcpd[9589]: [daemon.err] Service restarted successfully
+Nov 12 03:30:00 router1 kernel[8577]: [daemon.emerg] Network interface restarted
+Nov 12 10:39:35 server1 dhcpd[3030]: [syslog.emerg] New device connected to network
+Nov 12 01:07:43 server2 dhcpd[4829]: [kern.alert] Connection closed by 192.168.1.3 port 80
+Nov 12 11:14:57 server1 cron[1379]: [kern.notice] Connection closed by 192.168.1.3 port 80
+Nov 12 07:58:54 server2 dhcpd[2312]: [auth.emerg] Failed password for invalid user admin from 192.168.1.2 port 22 ssh2
+Nov 12 05:48:58 server2 smtp[6265]: [mail.info] Connection closed by 192.168.1.3 port 80
+Nov 12 02:02:31 firewall1 sshd[9332]: [mail.crit] Service crashed unexpectedly
+Nov 12 10:57:51 switch1 systemd[8048]: [daemon.info] New software update available
+Nov 12 06:05:33 router1 sshd[4633]: [kern.info] Critical system process failed
+Nov 12 08:30:35 firewall1 systemd[6152]: [user.notice] New admin account created
+Nov 12 09:23:21 switch1 nginx[4566]: [kern.alert] Low memory warning
+Nov 12 07:34:25 server2 smtp[7816]: [kern.alert] Starting system reboot
+Nov 12 05:49:29 server1 nginx[6443]: [syslog.info] Firewall rule updated
+Nov 12 07:53:15 switch1 smtp[6186]: [mail.warning] Disk usage exceeded threshold
+Nov 12 04:12:04 router1 smtp[3178]: [auth.warning] Multiple failed login attempts detected
+Nov 12 04:32:40 firewall1 sshd[9130]: [daemon.err] User logged in
+Nov 12 05:21:35 server1 smtp[6018]: [cron.emerg] Shutting down system
+Nov 12 11:40:26 server2 dhcpd[2417]: [syslog.warning] Attempted login with expired password
+Nov 12 03:25:29 firewall1 cron[4346]: [user.info] New admin account created
+Nov 12 03:30:33 switch1 sshd[7029]: [daemon.warning] New admin account created
+Nov 12 07:04:40 switch1 smtp[6578]: [mail.warning] Backup completed successfully
+Nov 12 01:41:18 server1 dhcpd[6493]: [auth.err] Failed password for invalid user admin from 192.168.1.2 port 22 ssh2
+Nov 12 00:42:00 firewall1 systemd[9614]: [kern.info] Service crashed unexpectedly
+Nov 12 08:27:59 switch1 kernel[5556]: [cron.crit] Accepted password for user from 192.168.1.1 port 22 ssh2
+Nov 12 01:47:53 server1 kernel[3845]: [daemon.alert] Firewall rule updated
+Nov 12 00:31:59 switch1 dhcpd[1064]: [user.emerg] User added to group
+Nov 12 04:39:14 server1 cron[2740]: [daemon.err] Database connection failed
+Nov 12 10:16:20 server2 sshd[8433]: [cron.crit] Attempted login with expired password
+Nov 12 03:52:48 server2 kernel[9585]: [syslog.err] RAID array degraded
+Nov 12 03:42:27 switch1 kernel[8359]: [cron.warning] Service crashed unexpectedly
+Nov 12 09:02:26 switch1 smtp[1618]: [auth.info] Unexpected shutdown of system
+Nov 12 11:17:35 router1 dhcpd[6235]: [cron.crit] Reboot required to apply updates
+Nov 12 02:48:09 switch1 cron[7643]: [mail.crit] Unrecognized device detected on network
+Nov 12 04:34:14 firewall1 kernel[3582]: [daemon.alert] IP address conflict detected
+Nov 12 07:39:16 switch1 systemd[8179]: [kern.info] Unexpected shutdown of system
+Nov 12 09:36:53 server2 sshd[5935]: [syslog.notice] Connection closed by 192.168.1.3 port 80
+Nov 12 01:36:21 switch1 dhcpd[9145]: [cron.emerg] Connection closed by 192.168.1.3 port 80
+Nov 12 10:29:38 switch1 sshd[6409]: [kern.info] IP address conflict detected
+Nov 12 06:15:24 server2 nginx[7719]: [daemon.alert] Firewall rule applied successfully
+Nov 12 01:28:26 server2 kernel[6042]: [auth.alert] Unusual login pattern detected
+Nov 12 09:26:54 server2 systemd[6208]: [mail.notice] High CPU usage detected
+Nov 12 05:49:09 switch1 systemd[4773]: [mail.debug] Unusual login pattern detected
+Nov 12 02:01:03 switch1 sshd[7137]: [mail.info] Disk usage exceeded threshold
+Nov 12 00:32:24 switch1 cron[3954]: [user.err] Disk quota exceeded
+Nov 12 00:26:09 router1 nginx[6227]: [mail.warning] Unusual login pattern detected
+Nov 12 10:48:18 server2 sshd[5962]: [user.notice] Disk quota exceeded
+Nov 12 01:57:00 firewall1 smtp[7875]: [cron.err] New admin account created
+Nov 12 11:16:04 firewall1 kernel[3332]: [syslog.debug] User logged in
+Nov 12 06:30:56 server2 smtp[6434]: [cron.debug] User logged in
+Nov 12 08:31:42 firewall1 systemd[8010]: [kern.info] Failed password for invalid user admin from 192.168.1.2 port 22 ssh2
+Nov 12 02:29:41 router1 kernel[1454]: [kern.warning] Unrecognized device detected on network
+Nov 12 08:58:57 router1 smtp[9979]: [kern.emerg] Session expired for user
+Nov 12 05:27:36 server1 sshd[4607]: [user.crit] User logged in
+Nov 12 10:42:50 firewall1 nginx[9101]: [kern.warning] Failed password for invalid user admin from 192.168.1.2 port 22 ssh2
+Nov 12 10:45:29 firewall1 sshd[4014]: [cron.emerg] Database connection failed
+Nov 12 03:25:35 switch1 nginx[5870]: [auth.debug] Filesystem check completed
+Nov 12 07:24:12 server1 dhcpd[1833]: [syslog.alert] Connection closed by 192.168.1.3 port 80
+Nov 12 02:06:12 server1 smtp[9727]: [auth.warning] New device connected to network
+Nov 12 03:08:39 server2 smtp[8259]: [cron.emerg] Multiple failed login attempts detected
+Nov 12 10:05:54 router1 systemd[8066]: [auth.warning] Update applied successfully
+Nov 12 05:42:06 server1 kernel[1138]: [cron.emerg] Connection closed by 192.168.1.3 port 80
+Nov 12 04:52:24 switch1 kernel[8975]: [mail.warning] Service restarted successfully
+Nov 12 00:22:53 server1 cron[8855]: [daemon.err] Low memory warning
+Nov 12 05:57:45 router1 cron[7684]: [syslog.info] Network interface restarted
+Nov 12 09:45:11 server1 sshd[4801]: [kern.alert] User logged in
+Nov 12 08:00:23 server1 sshd[1506]: [cron.err] IP address conflict detected
+Nov 12 11:19:32 firewall1 smtp[5178]: [auth.emerg] Database connection failed
+Nov 12 08:27:12 server1 smtp[7860]: [mail.notice] New USB device connected
+Nov 12 11:13:08 switch1 systemd[1568]: [cron.debug] Starting system reboot
+Nov 12 10:15:11 switch1 dhcpd[2424]: [syslog.debug] Critical system process failed
+Nov 12 04:45:29 switch1 kernel[4795]: [user.err] Service restarted successfully
+Nov 12 07:49:21 server1 sshd[4088]: [kern.crit] New admin account created
+Nov 12 10:05:27 server1 sshd[2458]: [syslog.notice] Network interface restarted
+Nov 12 02:57:30 firewall1 dhcpd[1162]: [mail.alert] Unrecognized device detected on network
+Nov 12 08:00:16 router1 kernel[5860]: [mail.warning] Starting system reboot
+Nov 12 09:09:33 switch1 systemd[6453]: [user.err] Reboot required to apply updates
+Nov 12 03:12:19 server2 dhcpd[9221]: [cron.notice] Low memory warning
+Nov 12 05:08:54 switch1 nginx[6563]: [user.crit] VPN connection established
+Nov 12 01:20:52 firewall1 sshd[8474]: [cron.alert] Unusual login pattern detected
+Nov 12 05:44:08 firewall1 dhcpd[2087]: [syslog.alert] Low memory warning
+Nov 12 01:54:37 server1 smtp[8979]: [kern.crit] Critical system process failed
+Nov 12 06:22:31 switch1 systemd[4028]: [user.info] Firewall rule updated
+Nov 12 09:53:47 firewall1 systemd[6345]: [syslog.err] VPN connection established
+Nov 12 11:09:52 server2 nginx[9353]: [mail.debug] Network interface restarted
+Nov 12 00:17:50 switch1 smtp[3184]: [auth.err] Update applied successfully
+Nov 12 01:56:00 server2 sshd[9883]: [mail.debug] High CPU usage detected
+Nov 12 10:29:40 switch1 smtp[3438]: [auth.err] Firewall rule updated
+Nov 12 07:02:59 server1 dhcpd[4019]: [daemon.notice] Service crashed unexpectedly
+Nov 12 05:19:41 router1 dhcpd[6526]: [auth.err] Network interface restarted
+Nov 12 01:51:54 router1 sshd[8793]: [syslog.debug] High CPU usage detected
+Nov 12 03:03:35 switch1 sshd[5225]: [syslog.emerg] Backup completed successfully
+Nov 12 11:03:04 server2 systemd[4814]: [syslog.crit] New USB device connected
+Nov 12 03:16:55 server2 cron[7326]: [syslog.info] Database connection failed
+Nov 12 08:57:53 server2 cron[2555]: [syslog.notice] New device connected to network
+Nov 12 01:51:22 switch1 nginx[5930]: [auth.alert] Firewall rule updated
+Nov 12 01:10:52 switch1 sshd[7769]: [daemon.emerg] New software update available
+Nov 12 02:44:50 firewall1 nginx[3194]: [kern.info] Firewall rule applied successfully
+Nov 12 00:09:03 server1 sshd[1975]: [auth.err] New software update available
+Nov 12 10:59:12 server1 cron[2935]: [user.debug] Disk quota exceeded
+Nov 12 11:43:08 server1 dhcpd[4714]: [syslog.alert] VPN connection disconnected
+Nov 12 03:17:01 server2 dhcpd[7099]: [mail.alert] RAID array degraded
+Nov 12 01:24:03 server2 dhcpd[5591]: [cron.notice] Connection closed by 192.168.1.3 port 80
+Nov 12 10:48:12 router1 systemd[2466]: [kern.alert] IP address conflict detected
+Nov 12 11:40:59 router1 cron[4454]: [cron.debug] Reboot required to apply updates
+Nov 12 02:36:59 server2 nginx[2253]: [auth.debug] New software update available
+Nov 12 08:30:29 server1 nginx[6432]: [syslog.emerg] Low memory warning
+Nov 12 04:12:26 router1 systemd[7350]: [auth.warning] Invalid login attempt
+Nov 12 04:53:06 router1 nginx[6856]: [daemon.emerg] User added to group
+Nov 12 06:03:28 switch1 systemd[2229]: [user.notice] Unusual login pattern detected
+Nov 12 05:33:51 firewall1 smtp[8223]: [daemon.emerg] New software update available
+Nov 12 05:40:47 server2 nginx[4945]: [user.info] System clock synchronized
+Nov 12 07:01:25 router1 kernel[4491]: [user.err] Backup completed successfully
+Nov 12 08:55:18 server2 sshd[5669]: [daemon.info] Multiple failed login attempts detected
+Nov 12 11:11:26 router1 cron[5164]: [mail.crit] Service crashed unexpectedly
+Nov 12 10:30:49 router1 kernel[8443]: [daemon.info] Invalid login attempt
+Nov 12 02:28:01 server1 kernel[2269]: [cron.debug] VPN connection established
+Nov 12 01:19:51 firewall1 sshd[6434]: [daemon.warning] Network interface restarted
+Nov 12 06:43:48 router1 nginx[9569]: [daemon.crit] System clock synchronized
+Nov 12 06:37:03 server2 nginx[5180]: [kern.notice] Service crashed unexpectedly
+Nov 12 05:43:02 server1 nginx[7849]: [cron.notice] Firewall rule updated
+Nov 12 08:24:56 router1 systemd[2269]: [auth.err] VPN connection disconnected
+Nov 12 00:38:09 firewall1 kernel[5190]: [kern.info] Low memory warning
+Nov 12 08:06:38 router1 nginx[6528]: [mail.notice] User logged out
+Nov 12 03:32:28 server2 dhcpd[5346]: [user.crit] Starting system reboot
+Nov 12 00:22:13 server2 smtp[5028]: [mail.err] RAID array degraded
+Nov 12 04:37:49 switch1 systemd[8749]: [cron.info] Starting system reboot
+Nov 12 01:20:30 firewall1 systemd[3150]: [syslog.info] Starting system reboot
+Nov 12 09:52:17 switch1 cron[6288]: [syslog.err] Service crashed unexpectedly
+Nov 12 06:00:10 switch1 kernel[8331]: [auth.alert] Backup completed successfully
+Nov 12 03:11:01 server1 dhcpd[9553]: [mail.alert] Failed password for invalid user admin from 192.168.1.2 port 22 ssh2
+Nov 12 05:41:31 server2 kernel[9260]: [daemon.emerg] Invalid login attempt
+Nov 12 08:15:03 server1 systemd[5749]: [cron.debug] Firewall rule updated
+Nov 12 03:56:27 switch1 cron[1751]: [cron.crit] Filesystem check completed
+Nov 12 04:09:20 server1 nginx[6259]: [daemon.debug] Unrecognized device detected on network
+Nov 12 02:28:32 server2 systemd[8576]: [auth.notice] Failed password for invalid user admin from 192.168.1.2 port 22 ssh2
+Nov 12 06:12:19 router1 nginx[3393]: [user.alert] Process killed due to out-of-memory
+Nov 12 11:30:28 server2 dhcpd[7819]: [syslog.warning] New device connected to network
+Nov 12 06:38:56 server2 smtp[3030]: [syslog.debug] Database connection failed
+Nov 12 04:42:40 server2 dhcpd[8916]: [cron.debug] Shutting down system
+Nov 12 07:34:33 server2 dhcpd[7544]: [daemon.emerg] Error reading configuration file
+Nov 12 10:53:38 firewall1 dhcpd[7335]: [daemon.emerg] Reboot required to apply updates
+Nov 12 08:46:58 router1 kernel[6592]: [auth.info] Firewall rule applied successfully
+Nov 12 05:02:36 server1 smtp[6035]: [daemon.emerg] Unusual login pattern detected
+Nov 12 10:36:46 switch1 smtp[1962]: [mail.crit] New device connected to network
+Nov 12 04:49:18 server1 smtp[4259]: [user.info] Connection closed by 192.168.1.3 port 80
+Nov 12 01:46:28 switch1 cron[9278]: [auth.err] Session expired for user
+Nov 12 02:40:39 server1 nginx[9020]: [mail.alert] VPN connection established
+Nov 12 02:55:43 firewall1 cron[3265]: [auth.debug] Critical system process failed
+Nov 12 00:21:33 firewall1 dhcpd[6611]: [cron.notice] RAID array degraded
+Nov 12 04:44:50 server1 kernel[5020]: [daemon.emerg] Reboot required to apply updates
+Nov 12 07:02:12 server1 nginx[6039]: [auth.crit] Session expired for user
+Nov 12 03:59:54 firewall1 dhcpd[9468]: [kern.alert] Accepted password for user from 192.168.1.1 port 22 ssh2
+Nov 12 01:34:35 server2 dhcpd[4635]: [mail.err] Critical system process failed
+Nov 12 09:15:54 server2 sshd[1892]: [daemon.alert] Error reading configuration file
+Nov 12 10:51:43 server2 dhcpd[6847]: [cron.crit] Update applied successfully
+Nov 12 10:31:31 server2 dhcpd[3322]: [daemon.warning] Session expired for user
+Nov 12 05:14:49 router1 sshd[7647]: [daemon.alert] New USB device connected
+Nov 12 01:44:16 firewall1 nginx[7231]: [auth.alert] Failed password for invalid user admin from 192.168.1.2 port 22 ssh2
+Nov 12 09:20:57 firewall1 dhcpd[5614]: [auth.err] Network interface restarted
+Nov 12 01:36:03 router1 cron[5956]: [syslog.notice] Error reading configuration file
+Nov 12 00:19:38 router1 dhcpd[2938]: [mail.err] Disk quota exceeded
+Nov 12 07:04:16 router1 dhcpd[6917]: [daemon.debug] Firewall rule updated
+Nov 12 07:24:47 firewall1 smtp[9094]: [cron.debug] RAID array degraded
+Nov 12 02:46:52 server1 sshd[7907]: [cron.notice] User logged out
+Nov 12 10:44:19 server1 smtp[4289]: [daemon.debug] Error reading configuration file
+Nov 12 07:20:23 firewall1 systemd[9940]: [kern.info] VPN connection disconnected
+Nov 12 02:10:39 server1 smtp[7397]: [mail.alert] Error reading configuration file
+Nov 12 09:08:30 server2 kernel[8424]: [daemon.info] Reboot required to apply updates
+Nov 12 04:47:40 switch1 systemd[4101]: [daemon.emerg] Unauthorized access attempt detected
+Nov 12 11:02:55 router1 nginx[3240]: [kern.info] Service configuration updated
+Nov 12 08:29:11 server2 kernel[1704]: [auth.notice] Process killed due to out-of-memory
+Nov 12 07:39:25 router1 sshd[4285]: [daemon.crit] New device connected to network
+Nov 12 04:28:51 server1 sshd[4370]: [kern.info] Low memory warning
+Nov 12 07:38:12 server1 kernel[6663]: [auth.alert] Failed password for invalid user admin from 192.168.1.2 port 22 ssh2
+Nov 12 03:01:02 router1 cron[9616]: [kern.info] User logged out
+Nov 12 05:05:35 server1 systemd[6863]: [syslog.crit] Network interface restarted
+Nov 12 10:36:48 router1 sshd[5963]: [cron.err] Unauthorized access attempt detected
+Nov 12 02:34:41 server1 cron[3400]: [mail.notice] VPN connection disconnected
+Nov 12 08:12:13 server2 cron[9629]: [mail.crit] Critical system process failed
+Nov 12 05:58:27 router1 kernel[4982]: [user.emerg] Low memory warning
+Nov 12 07:20:00 switch1 nginx[6451]: [auth.info] Disk usage exceeded threshold
+Nov 12 02:57:10 firewall1 nginx[7791]: [mail.alert] Disk quota exceeded
+Nov 12 05:40:13 server1 nginx[8457]: [user.emerg] Backup completed successfully
+Nov 12 07:36:06 firewall1 dhcpd[3887]: [user.warning] Starting system reboot
+Nov 12 04:05:04 firewall1 smtp[3854]: [cron.notice] New software update available
+Nov 12 08:12:54 server1 cron[8206]: [auth.crit] New USB device connected
+Nov 12 10:26:43 switch1 nginx[7662]: [cron.emerg] Connection closed by 192.168.1.3 port 80
+Nov 12 01:37:26 server2 kernel[5400]: [mail.crit] VPN connection disconnected
+Nov 12 05:29:34 firewall1 systemd[3870]: [auth.err] Reboot required to apply updates
+Nov 12 10:55:24 switch1 nginx[5259]: [cron.debug] IP address conflict detected
+Nov 12 07:55:02 firewall1 nginx[2466]: [user.warning] Attempted login with expired password
+Nov 12 02:03:38 switch1 kernel[1984]: [cron.debug] User logged out
+Nov 12 11:35:15 switch1 sshd[8983]: [mail.alert] Unauthorized access attempt detected
+Nov 12 03:42:38 router1 kernel[1728]: [auth.debug] Update applied successfully
+Nov 12 02:32:12 switch1 dhcpd[4629]: [auth.info] VPN connection disconnected
+Nov 12 09:23:37 server1 sshd[7375]: [kern.warning] Starting system reboot
+Nov 12 00:33:58 server1 sshd[8080]: [syslog.notice] Service crashed unexpectedly
+Nov 12 08:21:54 server2 kernel[9758]: [auth.emerg] RAID array degraded
+Nov 12 00:09:55 server2 systemd[5001]: [user.notice] Update applied successfully
+Nov 12 04:56:55 switch1 nginx[8104]: [user.debug] Unauthorized access attempt detected
+Nov 12 03:04:07 firewall1 smtp[8969]: [kern.crit] Unusual login pattern detected
+Nov 12 10:49:50 server1 smtp[6736]: [syslog.debug] Update applied successfully
+Nov 12 06:58:22 server1 systemd[2078]: [kern.alert] Error reading configuration file
+Nov 12 03:45:41 server2 sshd[1706]: [mail.err] Unauthorized access attempt detected
+Nov 12 08:04:40 firewall1 systemd[1251]: [user.emerg] New admin account created
+Nov 12 03:11:32 firewall1 dhcpd[8357]: [user.alert] Firewall rule updated
+Nov 12 06:07:19 firewall1 dhcpd[9483]: [cron.crit] High CPU usage detected
+Nov 12 06:55:58 switch1 nginx[3205]: [auth.notice] RAID array degraded
+Nov 12 05:44:42 firewall1 sshd[8003]: [user.warning] New software update available
+Nov 12 09:33:48 switch1 cron[1864]: [kern.err] Accepted password for user from 192.168.1.1 port 22 ssh2
+Nov 12 08:08:36 firewall1 nginx[2652]: [user.crit] New software update available
+Nov 12 04:43:34 server1 cron[7934]: [mail.alert] User added to group
+Nov 12 03:32:16 switch1 cron[7881]: [mail.crit] Critical system process failed
+Nov 12 07:11:56 switch1 sshd[4496]: [cron.info] High CPU usage detected
+Nov 12 08:55:31 server1 cron[2775]: [kern.info] New admin account created
+Nov 12 07:46:29 switch1 smtp[6451]: [kern.warning] Unauthorized access attempt detected
+Nov 12 07:10:37 switch1 smtp[9484]: [cron.err] IP address conflict detected
+Nov 12 11:36:48 server1 kernel[1021]: [user.crit] Backup completed successfully
+Nov 12 10:15:05 server1 sshd[6495]: [daemon.err] Low memory warning
