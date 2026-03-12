@@ -1,6 +1,9 @@
 #!/bin/bash
 
 #####################################################################
+# author: Fernando Arroyo
+# date: 2026-03-08
+#####################################################################
 # Scripta para enviar comando a servidor y recibir una respuesta
 #####################################################################
 # +Se utilizará como puerto de envío: 49152
